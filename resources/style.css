@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "ABCSans Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Regular"), url("./abcsans-regular.woff") format("woff");
+}
+@font-face {
+  font-family: "ABCSans Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Black"), url("./abcsans-black.woff") format("woff");
+}
+:root {
+  font-size: 1em;
+  font-family: "ABCSans Black", "Arial Black", sans-serif;
+  color: #1C1C1C;
+}
+body {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+#map, #svg {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height:100%;
+}
+.electorate {
+  stroke: white;
+  stroke-width: 2;
+  opacity: .67;
+}
+.electorate:hover {
+  opacity: 1;
+}
+#yerrabi.electorate {
+  fill: #01CFFF;
+}
+#ginninderra.electorate {
+  fill: #FF6100;
+}
+#kurrajong.electorate {
+  fill: #00B395;
+}
+#murrumbidgee.electorate {
+  fill: #FFB300;
+}
+#brindabella.electorate {
+  fill: #248BC9;
+}
+.label {
+  fill: white;
+  font-size: 1.2rem;
+  text-anchor: middle;
+  font-family: "ABCSans Black", "Arial Black", sans-serif;
+}
