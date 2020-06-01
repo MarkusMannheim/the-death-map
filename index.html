@@ -27,29 +27,20 @@
     <div id="map"></div>
     <script>
       // load data
-      d3.json("./resources/electorates.topojson", function(error, data) {
+      d3.json("./resources/sa3s.topojson", function(error, data) {
         if (error) throw error;
         // format data
-        electorateData = topojson.feature(data, data.objects.electorates);
-        // set up centroids
-        electorateData.features
-          .forEach(function(d) {
-            d.properties.centroid = d3.geoCentroid(d);
-            if (d.properties.electorate == "brindabella") {
-              d.properties.centroid[0] = d.properties.centroid[0] + .1;
-              d.properties.centroid[1] = d.properties.centroid[1] + .15;
-            }
-          });
+        regionData = topojson.feature(data, data.objects.regions);
         // set up MapBox engine
         mapboxgl.accessToken = "pk.eyJ1IjoibmV3cy1vbjFpbmUiLCJhIjoiR3FlZFZlVSJ9._30EFE9XYhQitqf4gzRG-g";
         map = new mapboxgl.Map({
           container: "map",
           style: "mapbox://styles/mapbox/dark-v10",
-          center: [149.126944, -35.293056],
+          center: [132, -27],
           attributionControl: false,
-          zoom: 10,
-          minZoom: 8,
-          maxZoom: 12,
+          zoom: 2,
+          minZoom: 1,
+          maxZoom: 19,
           pitchWithRotate: false,
           dragRotate: false,
           touchZoomRotate: false
@@ -64,7 +55,7 @@
             }))
             .resize();
           let attribution = d3.select(".mapboxgl-ctrl-attrib-inner");
-          attribution.html("&copy; ACT Government <a href='https://creativecommons.org/licenses/by/4.0/'>(CC BY 4.0)</a> | " + attribution.html());
+          attribution.html("&copy;<a href='https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/3303.0Main+Features12018'>ABS 3303.0</a> | " + attribution.html());
           attribution.html(attribution.html().slice(0, -250));
           // svg layer
           container = map.getCanvasContainer();
@@ -79,18 +70,11 @@
           projection = calcProjection();
           path = d3.geoPath();
           // set up SVGs
-          electorates = svgGroup
-            .selectAll(".electorate")
-              .data(electorateData.features)
+          regions = svgGroup
+            .selectAll(".region")
+              .data(regionData.features)
             .enter().append("path")
-              .classed("electorate", true)
-              .attr("id", function(d) { return d.properties.electorate; });
-          labels = svgGroup
-            .selectAll(".label")
-              .data(electorateData.features)
-            .enter().append("text")
-              .classed("label", true)
-              .text(function(d) { return d.properties.electorate.slice(0, 1).toUpperCase() + d.properties.electorate.slice(1); });
+              .classed("region", true);
           // re-render SVGs upon movement
           map.on("viewreset", render)
             .on("move", render)
@@ -103,9 +87,7 @@
         projection = calcProjection();
         path.projection(projection);
         // draw SVGs
-        electorates.attr("d", path);
-        labels.attr("x", function(d) { return projection(d.properties.centroid)[0]; })
-          .attr("y", function(d) { return projection(d.properties.centroid)[1] });
+        regions.attr("d", path);
       }
       // recalculates D3 map projection when map moves
       function calcProjection() {
