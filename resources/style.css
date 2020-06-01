@@ -33,32 +33,11 @@ body {
   width: 100%;
   height:100%;
 }
-.electorate {
+.region {
   stroke: white;
-  stroke-width: 2;
+  fill: #FFB300;
   opacity: .67;
 }
-.electorate:hover {
+.region:hover {
   opacity: 1;
-}
-#yerrabi.electorate {
-  fill: #01CFFF;
-}
-#ginninderra.electorate {
-  fill: #FF6100;
-}
-#kurrajong.electorate {
-  fill: #00B395;
-}
-#murrumbidgee.electorate {
-  fill: #FFB300;
-}
-#brindabella.electorate {
-  fill: #248BC9;
-}
-.label {
-  fill: white;
-  font-size: 1.2rem;
-  text-anchor: middle;
-  font-family: "ABCSans Black", "Arial Black", sans-serif;
 }
