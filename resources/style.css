@@ -34,10 +34,6 @@ body {
   height:100%;
 }
 .region {
-  stroke: white;
+  /* stroke: white; */
   fill: #FFB300;
-  opacity: .67;
-}
-.region:hover {
-  opacity: 1;
 }
