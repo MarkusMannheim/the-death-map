@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155991615-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-155991615-1');
+    </script>
+    <!-- my stuff -->
+    <meta charset="utf-8">
+    <title>Potentially avoidable deaths</title>
+    <meta name="author" content="Markus Mannheim">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Initial scripts -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <link href="./resources/style.css" rel="stylesheet">
+    <link href="./resources/abcLogo64.png" rel="icon">
+  </head>
+  <body>
+    <!-- Initial page layout -->
+    <div id="map"></div>
+    <script>
+      // load data
+      d3.json("./resources/regions.topojson", function(error, data) {
+        if (error) throw error;
+        // format data
+        regionData = topojson.feature(data, data.objects.regions);
+        // svg layer
+        map = d3.select("#map");
+        svg = map
+          .append("svg")
+          .attr("id", "svg");
+        svgGroup = svg
+          .append("g")
+          .attr("id", "svgGroup");
+        // map calculations
+        width = map.node().getBoundingClientRect().width;
+        height = map.node().getBoundingClientRect().height;
+        projection = d3.geoIdentity()
+          .fitExtent([[0, 0], [width, height]], regionData);
+        path = d3.geoPath()
+          .projection(projection);
+        colours = d3.scaleSequential(d3.interpolateViridis)
+          .domain(d3.extent(regionData.features, function(d) { return d.properties.people; }).reverse());
+        // set up SVGs
+        regions = svgGroup
+          .selectAll(".region")
+            .data(regionData.features)
+          .enter().append("path")
+            .classed("region", true)
+            .style("fill", function(d) { return d.properties.people == "na" ? colours.domain()[1] : colours(d.properties.people); })
+            .attr("d", path);
+      });
+    </script>
+  </body>
+</html>

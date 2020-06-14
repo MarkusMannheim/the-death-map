@@ -71,7 +71,7 @@
           projection = calcProjection();
           path = d3.geoPath();
           colours = d3.scaleSequential(d3.interpolateViridis)
-            .domain(d3.extent(regionData.features, function(d) { return d.properties.people; }).reverse());
+            .domain(d3.extent(regionData.features, function(d) { return d.properties.people; }));
           // set up SVGs
           regions = svgGroup
             .selectAll(".region")
