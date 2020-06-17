@@ -1,0 +1,104 @@
+@font-face {
+  font-family: "ABCSans Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Regular"), url("./abcsans-regular.woff") format("woff");
+}
+@font-face {
+  font-family: "ABCSans Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Black"), url("./abcsans-black.woff") format("woff");
+}
+@font-face {
+  font-family: "ABCSans Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Light"), url("./abcsans-light.woff") format("woff");
+}
+:root {
+  font-size: 1em;
+  font-family: "ABCSans Regular", "Arial", sans-serif;
+  color: #1C1C1C;
+}
+body {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+#chart {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+#axisGroup .tick line, #axisGroup .domain  {
+  stroke: #1C1C1C;
+  path: #1C1C1C;
+  stroke-dasharray: 2 4;
+  opacity: .5;
+}
+#axisGroup text {
+  fill: #1C1C1C;
+  font-size: .7rem;
+}
+#axisGroup .axisLabel {
+  font-family: "ABCSans Black", "Arial Black", sans-serif;
+  font-size: .9rem;
+  text-anchor: middle;
+  opacity: 0;
+}
+#yAxisGroup .axisLabel {
+  text-anchor: start;
+}
+#tip {
+  position: absolute;
+  opacity: 0;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(28, 28, 28, .75);
+  pointer-events: none;
+  color: white;
+}
+#tip p, #tip h1 {
+  margin: 0;
+  padding: 0;
+}
+#tip h1 {
+  font-family: "ABCSans Black", "Arial Black", sans-serif;
+  font-size: 1rem;
+}
+#tip p {
+  font-size: .8rem;
+}
+.region {
+  opacity: .8;
+  stroke: #1C1C1C;
+  stroke-width: .5;
+  pointer-events: none;
+}
+.selected .region {
+  opacity: 1;
+  stroke-width: 2;
+}
+.voronoi {
+  fill: rgba(0, 0, 0, 0);
+}
+.label {
+  fill: #1C1C1C;
+  font-family: "ABCSans Light", "Arial Narrow", sans-serif;
+  font-size: .6rem;
+  text-anchor: middle;
+  opacity: 0;
+  pointer-events: none;
+}
+.label.visible {
+  opacity: 1;
+}
