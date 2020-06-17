@@ -1,0 +1,1684 @@
+,cause,avoidable,men,women,people,Males,Females,Persons,Males.1,Females.1,Persons.1,header
+2,Cholera (A00),,0,0,0,,,,,,,False
+3,Typhoid and paratyphoid fevers (A01),,0,0,0,,,,,,,False
+4,Other salmonella infections (A02),,11,4,15,,,,52.0,,51.0,False
+5,Shigellosis (A03),,0,0,0,,,,,,,False
+6,Other bacterial intestinal infections (A04),,31,31,62,0.2,0.2,0.2,55.0,44.0,98.0,False
+7,"Other bacterial foodborne intoxications, not elsewhere classified (A05)",,0,0,0,,,,,,,False
+8,Amoebiasis (A06),,0,0,0,,,,,,,False
+9,Other protozoal intestinal diseases (A07),,0,0,0,,,,,,,False
+10,Viral and other specified intestinal infections (A08),,4,10,14,,,,,,,False
+11,Other gastroenteritis and colitis of infectious and unspecified origin (A09),,61,123,184,0.4,0.7,0.6,309.0,292.0,597.0,False
+13,"Respiratory tuberculosis, bacteriologically and histologically confirmed (A15)",,0,1,1,,,,,,,False
+14,"Respiratory tuberculosis, not confirmed bacteriologically or histologically (A16)",,24,15,39,0.2,,0.1,97.0,,156.0,False
+15,Tuberculosis of nervous system (A17),,0,3,3,,,,,,,False
+16,Tuberculosis of other organs (A18),,1,0,1,,,,,,,False
+17,Miliary tuberculosis (A19),,3,2,5,,,,,,,False
+19,Plague (A20),,0,0,0,,,,,,,False
+20,Tularaemia (A21),,0,0,0,,,,,,,False
+21,Anthrax (A22),,0,0,0,,,,,,,False
+22,Brucellosis (A23),,0,0,0,,,,,,,False
+23,Glanders and melioidosis (A24),,3,2,5,,,,,,194.0,False
+24,Rat-bite fevers (A25),,0,0,0,,,,,,,False
+25,Erysipeloid (A26),,0,0,0,,,,,,,False
+26,Leptospirosis (A27),,0,0,0,,,,,,,False
+27,"Other zoonotic bacterial diseases, not elsewhere classified (A28)",,0,0,0,,,,,,,False
+29,Leprosy [Hansen's disease] (A30),,0,0,0,,,,,,,False
+30,Infection due to other mycobacteria (A31),,7,7,14,,,,,13.0,76.0,False
+31,Listeriosis (A32),,1,1,2,,,,,,,False
+32,Tetanus neonatorum (A33),,0,0,0,,,,,,,False
+33,Obstetrical tetanus (A34),,0,0,0,,,,,,,False
+34,Other tetanus (A35),,1,1,2,,,,,,,False
+35,Diphtheria (A36),,1,0,1,,,,,,,False
+36,Whooping cough (A37),,2,1,3,,,,,,,False
+37,Scarlet fever (A38),x,0,0,0,,,,,,,False
+38,Meningococcal infection (A39),x,6,7,13,,,,,300.0,483.0,False
+39,Streptococcal sepsis (A40),x,14,10,24,,,0.1,134.0,,183.0,False
+40,Other sepsis (A41),x,663,747,1410,4.9,3.9,4.4,2310.0,1766.0,4059.0,False
+41,Actinomycosis (A42),,0,0,0,,,,,,,False
+42,Nocardiosis (A43),,1,4,5,,,,,,,False
+43,Bartonellosis (A44),,0,0,0,,,,,,,False
+44,Erysipelas (A46),x,0,0,0,,,,,,,False
+45,"Other bacterial diseases, not elsewhere classified (A48)",,8,1,9,,,,45.0,,51.0,False
+46,Bacterial infection of unspecified site (A49),,55,51,106,0.4,0.3,0.3,362.0,154.0,513.0,False
+48,Congenital syphilis (A50),,0,0,0,,,,,,,False
+49,Early syphilis (A51),,0,0,0,,,,,,,False
+50,Late syphilis (A52),,3,0,3,,,,,,,False
+51,Other and unspecified syphilis (A53),,1,0,1,,,,,,,False
+52,Gonococcal infection (A54),,0,0,0,,,,,,,False
+53,Chlamydial lymphogranuloma (venereum) (A55),,0,0,0,,,,,,,False
+54,Other sexually transmitted chlamydial diseases (A56),,0,0,0,,,,,,,False
+55,Chancroid (A57),,0,0,0,,,,,,,False
+56,Granuloma inguinale (A58),,0,0,0,,,,,,,False
+57,Trichomoniasis (A59),,0,0,0,,,,,,,False
+58,Anogenital herpesviral [herpes simplex] infection (A60),,0,0,0,,,,,,,False
+59,"Other predominantly sexually transmitted diseases, not elsewhere classified (A63)",,0,0,0,,,,,,,False
+60,Unspecified sexually transmitted disease (A64),,0,0,0,,,,,,,False
+62,Nonvenereal syphilis (A65),,0,0,0,,,,,,,False
+63,Yaws (A66),,0,0,0,,,,,,,False
+64,Pinta [carate] (A67),,0,0,0,,,,,,,False
+65,Relapsing fevers (A68),,0,0,0,,,,,,,False
+66,Other spirochaetal infections (A69),,0,1,1,,,,,,,False
+68,Chlamydia psittaci infection (A70),,0,0,0,,,,,,,False
+69,Trachoma (A71),,0,0,0,,,,,,,False
+70,Other diseases caused by chlamydiae (A74),,0,0,0,,,,,,,False
+72,Typhus fever (A75),,0,0,0,,,,,,,False
+73,Spotted fever [tick-borne rickettsioses] (A77),,0,0,0,,,,,,,False
+74,Q fever (A78),,0,0,0,,,,,,,False
+75,Other rickettsioses (A79),,0,0,0,,,,,,,False
+77,Acute poliomyelitis (A80),,0,0,0,,,,,,,False
+78,Slow virus infections of central nervous system (A81),,35,20,55,0.2,0.1,0.2,368.0,278.0,642.0,False
+79,Rabies (A82),,0,0,0,,,,,,,False
+80,Mosquito-borne viral encephalitis (A83),,2,0,2,,,,,,,False
+81,Tick-borne viral encephalitis (A84),,0,0,0,,,,,,,False
+82,"Other viral encephalitis, not elsewhere classified (A85)",,0,0,0,,,,,,,False
+83,Unspecified viral encephalitis (A86),,3,3,6,,,,,,,False
+84,Viral meningitis (A87),,0,0,0,,,,,,,False
+85,"Other viral infections of central nervous system, not elsewhere classified (A88)",,0,0,0,,,,,,,False
+86,Unspecified viral infection of central nervous system (A89),,0,0,0,,,,,,,False
+88,Dengue fever [classical dengue] (A90),,0,0,0,,,,,,,False
+89,Dengue haemorrhagic fever (A91),,0,0,0,,,,,,,False
+90,Other mosquito-borne viral fevers (A92),,0,1,1,,,,,,,False
+91,"Other arthropod-borne viral fevers, not elsewhere classified (A93)",,0,0,0,,,,,,,False
+92,Unspecified arthropod-borne viral fever (A94),,0,0,0,,,,,,,False
+93,Yellow fever (A95),,0,0,0,,,,,,,False
+94,Arenaviral haemorrhagic fever (A96),,0,0,0,,,,,,,False
+95,Dengue (A97),,0,0,0,,,,,,,False
+96,"Other viral haemorrhagic fevers, not elsewhere classified (A98)",,0,0,0,,,,,,,False
+97,Unspecified viral haemorrhagic fever (A99),,0,0,0,,,,,,,False
+99,Herpesviral [herpes simplex] infections (B00),,8,16,24,,,0.1,,255.0,271.0,False
+100,Varicella [chickenpox] (B01),,1,2,3,,,,,,,False
+101,Zoster [herpes zoster] (B02),,10,19,29,,,0.1,,,,False
+102,Smallpox (B03),,0,0,0,,,,,,,False
+103,Monkeypox (B04),,0,0,0,,,,,,,False
+104,Measles (B05),,0,0,0,,,,,,,False
+105,Rubella [German measles] (B06),,0,0,0,,,,,,,False
+106,Viral warts (B07),,0,0,0,,,,,,,False
+107,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified (B08)",,0,0,0,,,,,,,False
+108,Unspecified viral infection characterized by skin and mucous membrane lesions (B09),,0,0,0,,,,,,,False
+110,Acute hepatitis A (B15),,0,0,0,,,,,,,False
+111,Acute hepatitis B (B16),,4,4,8,,,,,,103.0,False
+112,Other acute viral hepatitis (B17),,6,3,9,,,,,,,False
+113,Chronic viral hepatitis (B18),,103,28,131,0.8,0.2,0.5,1872.0,493.0,2340.0,False
+114,Unspecified viral hepatitis (B19),,1,0,1,,,,,,,False
+116,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases (B20),x,14,0,14,,,,304.0,,301.0,False
+117,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms (B21),x,2,1,3,,,,,,,False
+118,Human immunodeficiency virus [HIV] disease resulting in other specified diseases (B22),x,3,0,3,,,,,,,False
+119,Human immunodeficiency virus [HIV] disease resulting in other conditions (B23),x,3,0,3,,,,,,,False
+120,Unspecified human immunodeficiency virus [HIV] disease (B24),x,5,1,6,,,,,,,False
+122,Cytomegaloviral disease (B25),,4,1,5,,,,,,35.0,False
+123,Mumps (B26),,0,0,0,,,,,,,False
+124,Infectious mononucleosis (B27),,0,0,0,,,,,,,False
+125,Viral conjunctivitis (B30),,0,0,0,,,,,,,False
+126,"Other viral diseases, not elsewhere classified (B33)",,2,1,3,,,,,,,False
+127,Viral infection of unspecified site (B34),,18,19,37,,,0.1,262.0,71.0,338.0,False
+129,Dermatophytosis (B35),,0,0,0,,,,,,,False
+130,Other superficial mycoses (B36),,0,0,0,,,,,,,False
+131,Candidiasis (B37),,8,7,15,,,,,59.0,85.0,False
+132,Coccidioidomycosis (B38),,0,0,0,,,,,,,False
+133,Histoplasmosis (B39),,0,0,0,,,,,,,False
+134,Blastomycosis (B40),,0,0,0,,,,,,,False
+135,Paracoccidioidomycosis (B41),,0,0,0,,,,,,,False
+136,Sporotrichosis (B42),,0,0,0,,,,,,,False
+137,Chromomycosis and phaeomycotic abscess (B43),,0,0,0,,,,,,,False
+138,Aspergillosis (B44),,11,4,15,,,,40.0,,57.0,False
+139,Cryptococcosis (B45),,7,3,10,,,,47.0,,68.0,False
+140,Zygomycosis (B46),,1,1,2,,,,,,,False
+141,Mycetoma (B47),,1,0,1,,,,,,,False
+142,"Other mycoses, not elsewhere classified (B48)",,2,0,2,,,,,,,False
+143,Unspecified mycosis (B49),,8,5,13,,,,156.0,,192.0,False
+145,Plasmodium falciparum malaria (B50),,0,0,0,,,,,,,False
+146,Plasmodium vivax malaria (B51),,0,0,0,,,,,,,False
+147,Plasmodium malariae malaria (B52),,0,0,0,,,,,,,False
+148,Other parasitologically confirmed malaria (B53),,0,0,0,,,,,,,False
+149,Unspecified malaria (B54),,0,0,0,,,,,,,False
+150,Leishmaniasis (B55),,0,0,0,,,,,,,False
+151,African trypanosomiasis (B56),,0,0,0,,,,,,,False
+152,Chagas' disease (B57),,0,0,0,,,,,,,False
+153,Toxoplasmosis (B58),,1,0,1,,,,,,,False
+154,Pneumocystosis (B59),,7,3,10,,,,99.0,,116.0,False
+155,"Other protozoal diseases, not elsewhere classified (B60)",,0,0,0,,,,,,,False
+156,Unspecified protozoal disease (B64),,0,0,0,,,,,,,False
+158,Schistosomiasis [bilharziasis] (B65),,0,0,0,,,,,,,False
+159,Other fluke infections (B66),,0,0,0,,,,,,,False
+160,Echinococcosis (B67),,1,0,1,,,,,,,False
+161,Taeniasis (B68),,0,0,0,,,,,,,False
+162,Cysticercosis (B69),,0,0,0,,,,,,,False
+163,Diphyllobothriasis and sparganosis (B70),,0,0,0,,,,,,,False
+164,Other cestode infections (B71),,0,0,0,,,,,,,False
+165,Dracunculiasis (B72),,0,0,0,,,,,,,False
+166,Onchocerciasis (B73),,0,0,0,,,,,,,False
+167,Filariasis (B74),,0,0,0,,,,,,,False
+168,Trichinellosis (B75),,0,0,0,,,,,,,False
+169,Hookworm diseases (B76),,0,0,0,,,,,,,False
+170,Ascariasis (B77),,0,0,0,,,,,,,False
+171,Strongyloidiasis (B78),,0,0,0,,,,,,,False
+172,Trichuriasis (B79),,0,0,0,,,,,,,False
+173,Enterobiasis (B80),,0,0,0,,,,,,,False
+174,"Other intestinal helminthiases, not elsewhere classified (B81)",,0,0,0,,,,,,,False
+175,Unspecified intestinal parasitism (B82),,0,0,0,,,,,,,False
+176,Other helminthiases (B83),,1,0,1,,,,,,,False
+178,Pediculosis and phthiriasis (B85),,0,0,0,,,,,,,False
+179,Scabies (B86),,0,2,2,,,,,,,False
+180,Myiasis (B87),,0,0,0,,,,,,,False
+181,Other infestations (B88),,0,0,0,,,,,,,False
+182,Unspecified parasitic disease (B89),,0,0,0,,,,,,,False
+184,Sequelae of tuberculosis (B90),,2,2,4,,,,,,,False
+185,Sequelae of poliomyelitis (B91),,8,11,19,,,,,,15.0,False
+186,Sequelae of leprosy (B92),,0,0,0,,,,,,,False
+187,Sequelae of other and unspecified infectious and parasitic diseases (B94),,2,5,7,,,,,,,False
+189,Streptococcus and staphylococcus as the cause of diseases classified to other chapters (B95),,0,0,0,,,,,,,False
+190,Other bacterial agents as the cause of diseases classified to other chapters (B96),,0,0,0,,,,,,,False
+191,Viral agents as the cause of diseases classified to other chapters (B97),,0,0,0,,,,,,,False
+192,Other specified infectious agents as the cause of diseases classified to other chapters (B98),,0,0,0,,,,,,,False
+193,Other infectious diseases  (B99),,18,26,44,,0.1,0.1,35.0,75.0,110.0,False
+194,Other and unspecified infectious diseases (B99),,18,26,44,,0.1,0.1,35.0,75.0,110.0,False
+198,Malignant neoplasm of lip (C00),,2,4,6,,,,,,,False
+199,Malignant neoplasm of base of tongue (C01),,35,12,47,0.2,,0.2,328.0,130.0,454.0,False
+200,Malignant neoplasm of other and unspecified parts of tongue (C02),,107,66,173,0.8,0.4,0.6,963.0,412.0,1364.0,False
+201,Malignant neoplasm of gum (C03),,11,9,20,,,0.1,86.0,50.0,136.0,False
+202,Malignant neoplasm of floor of mouth (C04),,8,5,13,,,,74.0,,127.0,False
+203,Malignant neoplasm of palate (C05),,10,10,20,,,0.1,161.0,86.0,246.0,False
+204,Malignant neoplasm of other and unspecified parts of mouth (C06),,42,38,80,0.3,0.2,0.3,401.0,284.0,682.0,False
+205,Malignant neoplasm of parotid gland (C07),,65,23,88,0.5,0.1,0.3,263.0,89.0,348.0,False
+206,Malignant neoplasm of other and unspecified major salivary glands (C08),,19,6,25,,,0.1,197.0,,259.0,False
+207,Malignant neoplasm of tonsil (C09),,77,18,95,0.6,,0.3,985.0,213.0,1184.0,False
+208,Malignant neoplasm of oropharynx (C10),,90,23,113,0.6,0.1,0.4,1006.0,155.0,1144.0,False
+209,Malignant neoplasm of nasopharynx (C11),,58,16,74,0.4,,0.3,793.0,173.0,953.0,False
+210,Malignant neoplasm of pyriform sinus (C12),,10,1,11,,,,18.0,,18.0,False
+211,Malignant neoplasm of hypopharynx (C13),,35,11,46,0.2,,0.2,266.0,101.0,362.0,False
+212,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx (C14)",,65,9,74,0.5,,0.2,393.0,20.0,405.0,False
+214,Malignant neoplasm of oesophagus (C15),,987,342,1329,7.0,2.0,4.4,7855.0,1434.0,9165.0,False
+215,Malignant neoplasm of stomach (C16),,712,426,1138,5.1,2.6,3.8,5381.0,3036.0,8371.0,False
+216,Malignant neoplasm of small intestine (C17),,78,54,132,0.6,0.3,0.4,624.0,320.0,939.0,False
+217,Malignant neoplasm of colon (C18),x,792,720,1512,5.7,4.3,4.9,4897.0,4182.0,9057.0,False
+218,Malignant neoplasm of rectosigmoid junction (C19),x,1125,940,2065,8.1,5.9,6.9,9780.0,7411.0,17144.0,False
+219,Malignant neoplasm of rectum (C20),x,441,272,713,3.2,1.6,2.4,3224.0,1977.0,5181.0,False
+220,Malignant neoplasm of anus and anal canal (C21),x,35,49,84,0.2,0.3,0.3,242.0,388.0,633.0,False
+221,Malignant neoplasm of liver and intrahepatic bile ducts (C22),,1414,690,2104,10.0,4.3,7.0,12106.0,4828.0,16785.0,False
+222,Malignant neoplasm of gallbladder (C23),,67,116,183,0.5,0.7,0.6,493.0,671.0,1167.0,False
+223,Malignant neoplasm of other and unspecified parts of biliary tract (C24),,59,48,107,0.4,0.3,0.3,344.0,178.0,518.0,False
+224,Malignant neoplasm of pancreas (C25),,1596,1481,3077,11.4,9.0,10.1,10900.0,8353.0,19204.0,False
+225,Malignant neoplasm of other and ill-defined digestive organs (C26),,590,610,1200,4.3,3.4,3.8,3116.0,2420.0,5520.0,False
+227,Malignant neoplasm of nasal cavity and middle ear (C30),,2,4,6,,,,,,31.0,False
+228,Malignant neoplasm of accessory sinuses (C31),,24,12,36,0.2,,0.1,249.0,141.0,390.0,False
+229,Malignant neoplasm of larynx (C32),,163,25,188,1.2,0.1,0.6,1124.0,63.0,1164.0,False
+230,Malignant neoplasm of trachea (C33),,3,2,5,,,,,,,False
+231,Malignant neoplasm of bronchus and lung (C34),,4997,3584,8581,35.5,22.3,28.4,33412.0,23881.0,57089.0,False
+232,Malignant neoplasm of thymus (C37),,14,12,26,,,0.1,159.0,228.0,387.0,False
+233,"Malignant neoplasm of heart, mediastinum and pleura (C38)",,23,9,32,0.2,,0.1,185.0,,349.0,False
+234,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs (C39),,0,0,0,,,,,,,False
+236,Malignant neoplasm of bone and articular cartilage of limbs (C40),,7,1,8,,,,,,303.0,False
+237,Malignant neoplasm of bone and articular cartilage of other and unspecified sites (C41),,50,31,81,0.4,0.2,0.3,1166.0,959.0,2122.0,False
+239,Malignant melanoma of skin (C43),x,965,464,1429,7.0,2.9,4.8,7425.0,3887.0,11238.0,False
+240,Other malignant neoplasms of skin (C44),x,451,214,665,3.2,1.2,2.1,2029.0,678.0,2679.0,False
+242,Mesothelioma (C45),,598,128,726,4.3,0.8,2.4,2284.0,619.0,2867.0,False
+243,Kaposi sarcoma (C46),,2,0,2,,,,,,,False
+244,Malignant neoplasm of peripheral nerves and autonomic nervous system (C47),,5,6,11,,,,,194.0,307.0,False
+245,Malignant neoplasm of retroperitoneum and peritoneum (C48),,11,81,92,,0.5,0.3,208.0,452.0,666.0,False
+246,Malignant neoplasm of other connective and soft tissue (C49),,190,165,355,1.4,1.1,1.2,2387.0,2584.0,4962.0,False
+248,Malignant neoplasm of breast (C50),x,35,2999,3034,0.3,19.1,10.2,256.0,30492.0,31240.0,False
+250,Malignant neoplasm of vulva (C51),,0,98,98,,0.6,0.3,,444.0,452.0,False
+251,Malignant neoplasm of vagina (C52),,0,31,31,,0.2,0.1,,225.0,229.0,False
+252,Malignant neoplasm of cervix uteri (C53),x,0,232,232,,1.6,0.8,,4340.0,4393.0,False
+253,Malignant neoplasm of corpus uteri (C54),,0,351,351,,2.2,1.1,,2184.0,2225.0,False
+254,"Malignant neoplasm of uterus, part unspecified (C55)",,0,173,173,,1.1,0.6,,1350.0,1376.0,False
+255,Malignant neoplasm of ovary (C56),,0,968,968,,6.1,3.2,,7635.0,7772.0,False
+256,Malignant neoplasm of other and unspecified female genital organs (C57),,0,49,49,,0.3,0.2,,277.0,281.0,False
+257,Malignant neoplasm of placenta (C58),,0,0,0,,,,,,,False
+259,Malignant neoplasm of penis (C60),,32,0,32,0.2,,0.1,288.0,,284.0,False
+260,Malignant neoplasm of prostate (C61),x,3264,0,3264,23.6,,10.3,7686.0,,7518.0,False
+261,Malignant neoplasm of testis (C62),,34,0,34,0.3,,0.1,1037.0,,1037.0,False
+262,Malignant neoplasm of other and unspecified male genital organs (C63),,5,0,5,,,,,,,False
+264,"Malignant neoplasm of kidney, except renal pelvis (C64)",x,579,296,875,4.2,1.8,2.9,4268.0,1457.0,5675.0,False
+265,Malignant neoplasm of renal pelvis (C65),,5,1,6,,,,,,,False
+266,Malignant neoplasm of ureter (C66),,13,7,20,,,0.1,,,61.0,False
+267,Malignant neoplasm of bladder (C67),,695,320,1015,5.0,1.8,3.2,2252.0,765.0,2988.0,False
+268,Malignant neoplasm of other and unspecified urinary organs (C68),,307,126,433,2.2,0.7,1.4,1798.0,487.0,2259.0,False
+270,Malignant neoplasm of eye and adnexa (C69),,21,16,37,0.1,,0.1,196.0,115.0,310.0,False
+271,Malignant neoplasm of meninges (C70),,4,8,12,,,,,151.0,189.0,False
+272,Malignant neoplasm of brain (C71),,845,565,1410,6.2,3.8,5.0,13403.0,8993.0,22325.0,False
+273,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system (C72)",,7,3,10,,,,224.0,,276.0,False
+275,Malignant neoplasm of thyroid gland (C73),x,67,82,149,0.5,0.5,0.5,553.0,403.0,953.0,False
+276,Malignant neoplasm of adrenal gland (C74),,27,22,49,0.2,0.2,0.2,857.0,723.0,1574.0,False
+277,Malignant neoplasm of other endocrine glands and related structures (C75),,6,4,10,,,,,,67.0,False
+279,Malignant neoplasm of other and ill-defined sites (C76),,64,100,164,0.5,0.5,0.5,493.0,242.0,734.0,False
+280,Secondary and unspecified malignant neoplasm of lymph nodes (C77),,0,0,0,,,,,,,False
+281,Secondary malignant neoplasm of respiratory and digestive organs (C78),,0,0,0,,,,,,,False
+282,Secondary malignant neoplasm of other and unspecified sites (C79),,0,0,0,,,,,,,False
+283,"Malignant neoplasm, without specification of site (C80)",,1513,1221,2734,10.9,7.1,8.8,8673.0,6180.0,14800.0,False
+285,Hodgkin lymphoma (C81),x,39,29,68,0.3,0.2,0.2,402.0,137.0,538.0,False
+286,Follicular lymphoma (C82),,37,32,69,0.3,0.2,0.2,270.0,149.0,418.0,False
+287,Non-follicular lymphoma (C83),,332,188,520,2.4,1.1,1.7,2002.0,1084.0,3072.0,False
+288,Mature T/NK-cell lymphomas (C84),,93,60,153,0.7,0.4,0.5,801.0,467.0,1262.0,False
+289,Other and unspecified types of non-Hodgkin lymphoma (C85),,441,389,830,3.2,2.2,2.6,1943.0,1206.0,3133.0,False
+290,Other specified types of T/NK-cell lymphoma (C86),,7,6,13,,,,,71.0,111.0,False
+291,Malignant immunoproliferative diseases (C88),,24,20,44,0.2,0.1,0.1,115.0,18.0,131.0,False
+292,Multiple myeloma and malignant plasma cell neoplasms (C90),,558,447,1005,4.0,2.7,3.3,2760.0,1957.0,4701.0,False
+293,Lymphoid leukaemia (C91),x,264,168,432,1.9,1.0,1.4,2036.0,1311.0,3338.0,False
+294,Myeloid leukaemia (C92),,719,458,1177,5.2,2.8,3.9,4762.0,3394.0,8131.0,False
+295,Monocytic leukaemia (C93),,87,51,138,0.6,0.3,0.4,293.0,86.0,376.0,False
+296,Other leukaemias of specified cell type (C94),,2,1,3,,,,,,,False
+297,Leukaemia of unspecified cell type (C95),,86,51,137,0.6,0.3,0.4,488.0,265.0,750.0,False
+298,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue (C96)",,16,7,23,,,0.1,110.0,,189.0,False
+300,Malignant neoplasms of independent (primary) multiple sites (C97),,0,0,0,,,,,,,False
+303,"Carcinoma in situ of oral cavity, oesophagus and stomach (D00)",,0,0,0,,,,,,,False
+304,Carcinoma in situ of other and unspecified digestive organs (D01),,0,0,0,,,,,,,False
+305,Carcinoma in situ of middle ear and respiratory system (D02),,0,0,0,,,,,,,False
+306,Melanoma in situ (D03),,0,0,0,,,,,,,False
+307,Carcinoma in situ of skin (D04),,0,0,0,,,,,,,False
+308,Carcinoma in situ of breast (D05),,0,0,0,,,,,,,False
+309,Carcinoma in situ of cervix uteri (D06),,0,0,0,,,,,,,False
+310,Carcinoma in situ of other and unspecified genital organs (D07),,0,0,0,,,,,,,False
+311,Carcinoma in situ of other and unspecified sites (D09),,0,0,0,,,,,,,False
+313,Benign neoplasm of mouth and pharynx (D10),,1,0,1,,,,,,,False
+314,Benign neoplasm of major salivary glands (D11),,0,0,0,,,,,,,False
+315,"Benign neoplasm of colon, rectum, anus and anal canal (D12)",,2,1,3,,,,,,,False
+316,Benign neoplasm of other and ill-defined parts of digestive system (D13),,2,2,4,,,,,,,False
+317,Benign neoplasm of middle ear and respiratory system (D14),,0,0,0,,,,,,,False
+318,Benign neoplasm of other and unspecified intrathoracic organs (D15),,4,4,8,,,,,,126.0,False
+319,Benign neoplasm of bone and articular cartilage (D16),,0,1,1,,,,,,,False
+320,Benign lipomatous neoplasm (D17),,0,1,1,,,,,,,False
+321,"Haemangioma and lymphangioma, any site (D18)",,4,6,10,,,,,,108.0,False
+322,Benign neoplasm of mesothelial tissue (D19),,0,0,0,,,,,,,False
+323,Benign neoplasm of soft tissue of retroperitoneum and peritoneum (D20),,0,0,0,,,,,,,False
+324,Other benign neoplasms of connective and other soft tissue (D21),,0,0,0,,,,,,,False
+325,Melanocytic naevi (D22),,0,0,0,,,,,,,False
+326,Other benign neoplasms of skin (D23),,0,1,1,,,,,,,False
+327,Benign neoplasm of breast (D24),,0,0,0,,,,,,,False
+328,Leiomyoma of uterus (D25),,0,1,1,,,,,,,False
+329,Other benign neoplasms of uterus (D26),,0,0,0,,,,,,,False
+330,Benign neoplasm of ovary (D27),,0,0,0,,,,,,,False
+331,Benign neoplasm of other and unspecified female genital organs (D28),,0,0,0,,,,,,,False
+332,Benign neoplasm of male genital organs (D29),,0,0,0,,,,,,,False
+333,Benign neoplasm of urinary organs (D30),,1,0,1,,,,,,,False
+334,Benign neoplasm of eye and adnexa (D31),,0,0,0,,,,,,,False
+335,Benign neoplasm of meninges (D32),,25,64,89,0.2,0.4,0.3,140.0,187.0,329.0,False
+336,Benign neoplasm of brain and other parts of central nervous system (D33),,3,2,5,,,,,,,False
+337,Benign neoplasm of thyroid gland (D34),,0,0,0,,,,,,,False
+338,Benign neoplasm of other and unspecified endocrine glands (D35),,9,4,13,,,,43.0,,68.0,False
+339,Benign neoplasm of other and unspecified sites (D36),,0,1,1,,,,,,,False
+341,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs (D37),,40,37,77,0.3,0.2,0.2,193.0,131.0,322.0,False
+342,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs (D38),,11,7,18,,,,,,71.0,False
+343,Neoplasm of uncertain or unknown behaviour of female genital organs (D39),,0,8,8,,,,,,,False
+344,Neoplasm of uncertain or unknown behaviour of male genital organs (D40),,0,0,0,,,,,,,False
+345,Neoplasm of uncertain or unknown behaviour of urinary organs (D41),,10,7,17,,,,,,,False
+346,Neoplasm of uncertain or unknown behaviour of meninges (D42),,1,4,5,,,,,,,False
+347,Neoplasm of uncertain or unknown behaviour of brain and central nervous system (D43),,67,62,129,0.5,0.4,0.4,385.0,301.0,684.0,False
+348,Neoplasm of uncertain or unknown behaviour of endocrine glands (D44),,12,7,19,,,,280.0,28.0,306.0,False
+349,Polycythaemia vera (D45),,9,22,31,,0.1,0.1,,21.0,27.0,False
+350,Myelodysplastic syndromes (D46),,314,182,496,2.3,1.0,1.5,792.0,296.0,1082.0,False
+351,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue (D47)",,130,110,240,0.9,0.6,0.8,471.0,314.0,782.0,False
+352,Neoplasm of uncertain or unknown behaviour of other and unspecified sites (D48),,16,28,44,,0.2,0.1,188.0,255.0,440.0,False
+355,Iron deficiency anaemia (D50),,10,16,26,,,0.1,,,,False
+356,Vitamin B12 deficiency anaemia (D51),,0,2,2,,,,,,,False
+357,Folate deficiency anaemia (D52),,2,2,4,,,,,,,False
+358,Other nutritional anaemias (D53),,0,0,0,,,,,,,False
+360,Anaemia due to enzyme disorders (D55),,0,1,1,,,,,,,False
+361,Thalassaemia (D56),,2,0,2,,,,,,,False
+362,Sickle-cell disorders (D57),,0,1,1,,,,,,,False
+363,Other hereditary haemolytic anaemias (D58),,1,2,3,,,,,,,False
+364,Acquired haemolytic anaemia (D59),,2,13,15,,,,,126.0,130.0,False
+366,Acquired pure red cell aplasia [erythroblastopenia] (D60),,0,1,1,,,,,,,False
+367,Other aplastic anaemias (D61),,32,26,58,0.2,0.1,0.2,218.0,67.0,286.0,False
+368,Acute posthaemorrhagic anaemia (D62),,0,0,0,,,,,,,False
+369,Other anaemias (D64),,53,64,117,0.4,0.3,0.3,90.0,52.0,141.0,False
+371,Disseminated intravascular coagulation [defibrination syndrome] (D65),,5,7,12,,,,,48.0,98.0,False
+372,Hereditary factor VIII deficiency (D66),,5,0,5,,,,,,,False
+373,Hereditary factor IX deficiency (D67),,0,0,0,,,,,,,False
+374,Other coagulation defects (D68),,13,18,31,,,0.1,76.0,143.0,219.0,False
+375,Purpura and other haemorrhagic conditions (D69),,17,16,33,,,0.1,98.0,,137.0,False
+377,Agranulocytosis (D70),,14,13,27,,,0.1,64.0,88.0,151.0,False
+378,Functional disorders of polymorphonuclear neutrophils (D71),,1,0,1,,,,,,,False
+379,Other disorders of white blood cells (D72),,2,2,4,,,,,,,False
+380,Diseases of spleen (D73),,3,9,12,,,,,,107.0,False
+381,Methaemoglobinaemia (D74),,0,0,0,,,,,,,False
+382,Other diseases of blood and blood-forming organs (D75),,2,6,8,,,,,,,False
+383,Other specified diseases with participation of lymphoreticular tissue and reticulohistiocytic tissue (D76),,17,14,31,,,0.1,258.0,622.0,867.0,False
+385,Immunodeficiency with predominantly antibody defects (D80),,4,5,9,,,,,,67.0,False
+386,Combined immunodeficiencies (D81),,0,0,0,,,,,,,False
+387,Immunodeficiency associated with other major defects (D82),,3,1,4,,,,,,,False
+388,Common variable immunodeficiency (D83),,2,2,4,,,,,,,False
+389,Other immunodeficiencies (D84),,10,14,24,,,0.1,,286.0,349.0,False
+390,Sarcoidosis (D86),,17,28,45,,0.2,0.2,206.0,199.0,405.0,False
+391,"Other disorders involving the immune mechanism, not elsewhere classified (D89)",,8,7,15,,,,131.0,,148.0,False
+394,Congenital iodine-deficiency syndrome (E00),,0,0,0,,,,,,,False
+395,Iodine-deficiency-related thyroid disorders and allied conditions (E01),,0,0,0,,,,,,,False
+396,Subclinical iodine-deficiency hypothyroidism (E02),,0,0,0,,,,,,,False
+397,Other hypothyroidism (E03),,15,53,68,,0.3,0.2,,44.0,54.0,False
+398,Other nontoxic goitre (E04),,1,6,7,,,,,,,False
+399,Thyrotoxicosis [hyperthyroidism] (E05),,14,15,29,,,0.1,,90.0,98.0,False
+400,Thyroiditis (E06),,0,1,1,,,,,,,False
+401,Other disorders of thyroid (E07),,1,4,5,,,,,,,False
+403,Insulin-dependent diabetes mellitus (E10),x,167,155,322,1.3,1.0,1.1,2224.0,1696.0,3911.0,False
+404,Non-insulin-dependent diabetes mellitus (E11),x,1278,1063,2341,9.2,5.9,7.4,5660.0,3154.0,8767.0,False
+405,Malnutrition-related diabetes mellitus (E12),x,0,0,0,,,,,,,False
+406,Other specified diabetes mellitus (E13),x,0,1,1,,,,,,,False
+407,Unspecified diabetes mellitus (E14),x,1101,891,1992,7.9,5.0,6.3,6039.0,2931.0,8911.0,False
+409,Nondiabetic hypoglycaemic coma (E15),,0,0,0,,,,,,,False
+410,Other disorders of pancreatic internal secretion (E16),,3,10,13,,,,,18.0,18.0,False
+412,Hypoparathyroidism (E20),,1,0,1,,,,,,,False
+413,Hyperparathyroidism and other disorders of parathyroid gland (E21),,4,9,13,,,,,,,False
+414,Hyperfunction of pituitary gland (E22),,2,3,5,,,,,,,False
+415,Hypofunction and other disorders of pituitary gland (E23),,7,4,11,,,,43.0,,76.0,False
+416,Cushing syndrome (E24),,1,1,2,,,,,,,False
+417,Adrenogenital disorders (E25),,1,0,1,,,,,,,False
+418,Hyperaldosteronism (E26),,3,1,4,,,,,,,False
+419,Other disorders of adrenal gland (E27),,5,8,13,,,,,79.0,95.0,False
+420,Ovarian dysfunction (E28),,0,0,0,,,,,,,False
+421,Testicular dysfunction (E29),,0,0,0,,,,,,,False
+422,"Disorders of puberty, not elsewhere classified (E30)",,0,0,0,,,,,,,False
+423,Polyglandular dysfunction (E31),,1,0,1,,,,,,,False
+424,Diseases of thymus (E32),,0,0,0,,,,,,,False
+425,Other endocrine disorders (E34),,3,1,4,,,,,,,False
+427,Kwashiorkor (E40),,0,0,0,,,,,,,False
+428,Nutritional marasmus (E41),,1,3,4,,,,,,,False
+429,Marasmic kwashiorkor (E42),,0,0,0,,,,,,,False
+430,Unspecified severe protein-energy malnutrition (E43),,8,4,12,,,,,,,False
+431,Protein-energy malnutrition of moderate and mild degree (E44),,0,0,0,,,,,,,False
+432,Retarded development following protein-energy malnutrition (E45),,0,0,0,,,,,,,False
+433,Unspecified protein-energy malnutrition (E46),,32,53,85,0.2,0.3,0.3,136.0,209.0,347.0,False
+435,Vitamin A deficiency (E50),,0,0,0,,,,,,,False
+436,Thiamine deficiency (E51),,3,0,3,,,,,,,False
+437,Niacin deficiency [pellagra] (E52),,0,0,0,,,,,,,False
+438,Deficiency of other B group vitamins (E53),,1,2,3,,,,,,,False
+439,Ascorbic acid deficiency (E54),,0,0,0,,,,,,,False
+440,Vitamin D deficiency (E55),,0,0,0,,,,,,,False
+441,Other vitamin deficiencies (E56),,0,0,0,,,,,,,False
+442,Dietary calcium deficiency (E58),,0,0,0,,,,,,,False
+443,Dietary selenium deficiency (E59),,0,0,0,,,,,,,False
+444,Dietary zinc deficiency (E60),,0,0,0,,,,,,,False
+445,Deficiency of other nutrient elements (E61),,1,1,2,,,,,,,False
+446,Other nutritional deficiencies (E63),,3,1,4,,,,,,,False
+447,Sequelae of malnutrition and other nutritional deficiencies (E64),,0,0,0,,,,,,,False
+449,Localized adiposity (E65),,0,0,0,,,,,,,False
+450,Obesity (E66),,173,129,302,1.3,0.9,1.1,3807.0,1964.0,5748.0,False
+451,Other hyperalimentation (E67),,0,0,0,,,,,,,False
+452,Sequelae of hyperalimentation (E68),,0,0,0,,,,,,,False
+454,Disorders of aromatic amino-acid metabolism (E70),,0,0,0,,,,,,,False
+455,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism (E71),,2,0,2,,,,,,,False
+456,Other disorders of amino-acid metabolism (E72),,6,2,8,,,,,,,False
+457,Lactose intolerance (E73),,0,0,0,,,,,,,False
+458,Other disorders of carbohydrate metabolism (E74),,2,1,3,,,,,,,False
+459,Disorders of sphingolipid metabolism and other lipid storage disorders (E75),,13,3,16,,,,786.0,,997.0,False
+460,Disorders of glycosaminoglycan metabolism (E76),,2,0,2,,,,,,,False
+461,Disorders of glycoprotein metabolism (E77),,1,2,3,,,,,,,False
+462,Disorders of lipoprotein metabolism and other lipidaemias (E78),,283,296,579,2.0,1.5,1.8,1033.0,388.0,1407.0,False
+463,Disorders of purine and pyrimidine metabolism (E79),,1,0,1,,,,,,,False
+464,Disorders of porphyrin and bilirubin metabolism (E80),,0,0,0,,,,,,,False
+465,Disorders of mineral metabolism (E83),,28,24,52,0.2,0.1,0.2,247.0,172.0,417.0,False
+466,Cystic fibrosis (E84),,24,16,40,0.2,,0.2,971.0,672.0,1642.0,False
+467,Amyloidosis (E85),,122,90,212,0.9,0.5,0.7,472.0,266.0,735.0,False
+468,Volume depletion (E86),,43,80,123,0.3,0.4,0.4,27.0,37.0,64.0,False
+469,"Other disorders of fluid, electrolyte and acid-base balance (E87)",,96,116,212,0.7,0.6,0.7,375.0,376.0,751.0,False
+470,Other metabolic disorders (E88),,29,43,72,0.2,0.2,0.2,372.0,250.0,623.0,False
+471,"Postprocedural endocrine and metabolic disorders, not elsewhere classified (E89)",,0,0,0,,,,,,,False
+474,Vascular dementia (F01),,637,735,1372,4.7,3.6,4.1,438.0,172.0,603.0,False
+475,Unspecified dementia (F03),,2847,5435,8282,20.8,26.4,24.3,1801.0,1623.0,3421.0,False
+476,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances (F04)",,0,0,0,,,,,,,False
+477,"Delirium, not induced by alcohol and other psychoactive substances (F05)",,17,26,43,,0.1,0.1,,,,False
+478,Other mental disorders due to brain damage and dysfunction and to physical disease (F06),,2,1,3,,,,,,,False
+479,"Personality and behavioural disorders due to brain disease, damage and dysfunction (F07)",,0,0,0,,,,,,,False
+480,Unspecified organic or symptomatic mental disorder (F09),,0,0,0,,,,,,,False
+482,Mental and behavioural disorders due to use of alcohol (F10),,186,52,238,1.4,0.4,0.8,2732.0,907.0,3603.0,False
+483,Mental and behavioural disorders due to use of opioids (F11),,3,3,6,,,,,,150.0,False
+484,Mental and behavioural disorders due to use of cannabinoids (F12),,0,0,0,,,,,,,False
+485,Mental and behavioural disorders due to use of sedatives or hypnotics (F13),,0,0,0,,,,,,,False
+486,Mental and behavioural disorders due to use of cocaine (F14),,0,1,1,,,,,,,False
+487,"Mental and behavioural disorders due to use of other stimulants, including caffeine (F15)",,2,1,3,,,,,,,False
+488,Mental and behavioural disorders due to use of hallucinogens (F16),,0,0,0,,,,,,,False
+489,Mental and behavioural disorders due to use of tobacco (F17),,3,0,3,,,,,,,False
+490,Mental and behavioural disorders due to use of volatile solvents (F18),,0,0,0,,,,,,,False
+491,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances (F19),,9,4,13,,,,313.0,,473.0,False
+493,Schizophrenia (F20),,26,31,57,0.2,0.2,0.2,478.0,95.0,569.0,False
+494,Schizotypal disorder (F21),,0,0,0,,,,,,,False
+495,Persistent delusional disorders (F22),,0,0,0,,,,,,,False
+496,Acute and transient psychotic disorders (F23),,0,0,0,,,,,,,False
+497,Induced delusional disorder (F24),,0,0,0,,,,,,,False
+498,Schizoaffective disorders (F25),,1,4,5,,,,,,,False
+499,Other nonorganic psychotic disorders (F28),,0,0,0,,,,,,,False
+500,Unspecified nonorganic psychosis (F29),,0,0,0,,,,,,,False
+502,Manic episode (F30),,0,0,0,,,,,,,False
+503,Bipolar affective disorder (F31),,4,9,13,,,,,,,False
+504,Depressive episode (F32),,12,58,70,,0.3,0.2,,90.0,108.0,False
+505,Recurrent depressive disorder (F33),,0,0,0,,,,,,,False
+506,Persistent mood [affective] disorders (F34),,1,0,1,,,,,,,False
+507,Other mood [affective] disorders (F38),,0,0,0,,,,,,,False
+508,Unspecified mood [affective] disorder (F39),,0,1,1,,,,,,,False
+510,Phobic anxiety disorders (F40),,0,0,0,,,,,,,False
+511,Other anxiety disorders (F41),,0,9,9,,,,,,,False
+512,Obsessive-compulsive disorder (F42),,0,0,0,,,,,,,False
+513,"Reaction to severe stress, and adjustment disorders (F43)",,2,2,4,,,,,,,False
+514,Dissociative [conversion] disorders (F44),,0,0,0,,,,,,,False
+515,Somatoform disorders (F45),,0,0,0,,,,,,,False
+516,Other neurotic disorders (F48),,0,0,0,,,,,,,False
+518,Eating disorders (F50),,0,7,7,,,,,122.0,124.0,False
+519,Nonorganic sleep disorders (F51),,0,0,0,,,,,,,False
+520,"Sexual dysfunction, not caused by organic disorder or disease (F52)",,0,0,0,,,,,,,False
+521,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified (F53)",,0,0,0,,,,,,,False
+522,Psychological and behavioural factors associated with disorders or diseases classified elsewhere (F54),,0,0,0,,,,,,,False
+523,Abuse of non-dependence-producing substances (F55),,1,0,1,,,,,,,False
+524,Unspecified behavioural syndromes associated with physiological disturbances and physical factors (F59),,0,0,0,,,,,,,False
+526,Specific personality disorders (F60),,0,1,1,,,,,,,False
+527,Mixed and other personality disorders (F61),,0,0,0,,,,,,,False
+528,"Enduring personality changes, not attributable to brain damage and disease (F62)",,0,0,0,,,,,,,False
+529,Habit and impulse disorders (F63),,0,0,0,,,,,,,False
+530,Gender identity disorders (F64),,0,0,0,,,,,,,False
+531,Disorders of sexual preference (F65),,0,0,0,,,,,,,False
+532,Psychological and behavioural disorders associated with sexual development and orientation (F66),,0,0,0,,,,,,,False
+533,Other disorders of adult personality and behaviour (F68),,0,0,0,,,,,,,False
+534,Unspecified disorder of adult personality and behaviour (F69),,0,0,0,,,,,,,False
+536,Mild mental retardation (F70),,0,0,0,,,,,,,False
+537,Moderate mental retardation (F71),,0,0,0,,,,,,,False
+538,Severe mental retardation (F72),,0,0,0,,,,,,,False
+539,Profound mental retardation (F73),,0,0,0,,,,,,,False
+540,Other mental retardation (F78),,0,0,0,,,,,,,False
+541,Unspecified mental retardation (F79),,7,7,14,,,,109.0,,165.0,False
+543,Specific developmental disorders of speech and language (F80),,0,0,0,,,,,,,False
+544,Specific developmental disorders of scholastic skills (F81),,0,0,0,,,,,,,False
+545,Specific developmental disorder of motor function (F82),,0,0,0,,,,,,,False
+546,Mixed specific developmental disorders (F83),,0,0,0,,,,,,,False
+547,Pervasive developmental disorders (F84),,1,6,7,,,,,256.0,331.0,False
+548,Other disorders of psychological development (F88),,0,0,0,,,,,,,False
+549,Unspecified disorder of psychological development (F89),,0,0,0,,,,,,,False
+551,Hyperkinetic disorders (F90),,0,0,0,,,,,,,False
+552,Conduct disorders (F91),,0,0,0,,,,,,,False
+553,Mixed disorders of conduct and emotions (F92),,0,0,0,,,,,,,False
+554,Emotional disorders with onset specific to childhood (F93),,0,0,0,,,,,,,False
+555,Disorders of social functioning with onset specific to childhood and adolescence (F94),,0,0,0,,,,,,,False
+556,Tic disorders (F95),,0,0,0,,,,,,,False
+557,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence (F98),,0,0,0,,,,,,,False
+559,"Mental disorder, not otherwise specified (F99)",,0,0,0,,,,,,,False
+562,"Bacterial meningitis, not elsewhere classified (G00)",x,6,8,14,,,,,162.0,165.0,False
+563,Meningitis due to other and unspecified causes (G03),x,7,2,9,,,,198.0,,210.0,False
+564,"Encephalitis, myelitis and encephalomyelitis (G04)",,21,16,37,0.2,,0.1,192.0,177.0,368.0,False
+565,Intracranial and intraspinal abscess and granuloma (G06),,11,7,18,,,,124.0,71.0,194.0,False
+566,Intracranial and intraspinal phlebitis and thrombophlebitis (G08),,2,2,4,,,,,,,False
+567,Sequelae of inflammatory diseases of central nervous system (G09),,4,3,7,,,,,,,False
+569,Huntington disease (G10),,43,39,82,0.3,0.3,0.3,751.0,471.0,1218.0,False
+570,Hereditary ataxia (G11),,21,14,35,0.2,,0.1,436.0,204.0,640.0,False
+571,Spinal muscular atrophy and related syndromes (G12),,396,305,701,2.9,2.0,2.4,3907.0,2642.0,6532.0,False
+572,Postpolio syndrome (G14),,5,4,9,,,,,,,False
+574,Parkinson disease (G20),,1172,727,1899,8.6,4.0,6.0,1489.0,643.0,2114.0,False
+575,Secondary parkinsonism (G21),,3,3,6,,,,,,,False
+576,Other degenerative diseases of basal ganglia (G23),,163,135,298,1.2,0.8,1.0,701.0,679.0,1380.0,False
+577,Dystonia (G24),,0,0,0,,,,,,,False
+578,Other extrapyramidal and movement disorders (G25),,2,6,8,,,,,,,False
+580,Alzheimer disease (G30),,1506,2803,4309,11.0,14.0,12.9,1227.0,1426.0,2656.0,False
+581,"Other degenerative diseases of nervous system, not elsewhere classified (G31)",,305,268,573,2.2,1.5,1.8,1481.0,1052.0,2527.0,False
+583,Multiple sclerosis (G35),,53,113,166,0.4,0.7,0.6,577.0,1063.0,1648.0,False
+584,Other acute disseminated demyelination (G36),,1,0,1,,,,,,,False
+585,Other demyelinating diseases of central nervous system (G37),,4,3,7,,,,,,100.0,False
+587,Epilepsy (G40),,130,84,214,1.0,0.6,0.8,3790.0,1948.0,5747.0,False
+588,Status epilepticus (G41),,11,20,31,,0.1,0.1,41.0,220.0,258.0,False
+589,Migraine (G43),,1,0,1,,,,,,,False
+590,Other headache syndromes (G44),,0,0,0,,,,,,,False
+591,Transient cerebral ischaemic attacks and related syndromes (G45),,15,23,38,,0.1,0.1,,,,False
+592,Sleep disorders (G47),,26,23,49,0.2,0.1,0.2,282.0,200.0,478.0,False
+594,Disorders of trigeminal nerve (G50),,1,0,1,,,,,,,False
+595,Facial nerve disorders (G51),,0,1,1,,,,,,,False
+596,Disorders of other cranial nerves (G52),,2,1,3,,,,,,,False
+597,Nerve root and plexus disorders (G54),,0,1,1,,,,,,,False
+598,Mononeuropathies of upper limb (G56),,0,0,0,,,,,,,False
+599,Mononeuropathies of lower limb (G57),,0,0,0,,,,,,,False
+600,Other mononeuropathies (G58),,3,0,3,,,,,,,False
+602,Hereditary and idiopathic neuropathy (G60),,4,5,9,,,,,,,False
+603,Inflammatory polyneuropathy (G61),,14,14,28,,,0.1,52.0,35.0,86.0,False
+604,Other polyneuropathies (G62),,15,6,21,,,0.1,31.0,,42.0,False
+605,Other disorders of peripheral nervous system (G64),,0,0,0,,,,,,,False
+607,Myasthenia gravis and other myoneural disorders (G70),,23,17,40,0.2,,0.1,137.0,81.0,220.0,False
+608,Primary disorders of muscles (G71),,64,39,103,0.5,0.3,0.4,1602.0,649.0,2257.0,False
+609,Other myopathies (G72),,23,15,38,0.2,,0.1,152.0,95.0,249.0,False
+611,Cerebral palsy (G80),,68,44,112,0.5,0.3,0.4,2568.0,1433.0,4007.0,False
+612,Hemiplegia (G81),,5,5,10,,,,,,,False
+613,Paraplegia and tetraplegia (G82),,42,14,56,0.3,,0.2,681.0,310.0,982.0,False
+614,Other paralytic syndromes (G83),,2,6,8,,,,,,,False
+616,Disorders of autonomic nervous system (G90),,6,5,11,,,,25.0,,102.0,False
+617,Hydrocephalus (G91),,25,29,54,0.2,0.2,0.2,144.0,304.0,447.0,False
+618,Toxic encephalopathy (G92),,0,0,0,,,,,,,False
+619,Other disorders of brain (G93),,104,81,185,0.7,0.5,0.6,1218.0,1001.0,2202.0,False
+620,Other diseases of spinal cord (G95),,13,7,20,,,0.1,154.0,,158.0,False
+621,Other disorders of central nervous system (G96),,8,11,19,,,,,165.0,228.0,False
+622,"Postprocedural disorders of nervous system, not elsewhere classified (G97)",,0,0,0,,,,,,,False
+623,"Other disorders of nervous system, not elsewhere classified (G98)",,4,2,6,,,,,,,False
+626,Hordeolum and chalazion (H00),,0,1,1,,,,,,,False
+627,Other inflammation of eyelid (H01),,0,0,0,,,,,,,False
+628,Other disorders of eyelid (H02),,0,0,0,,,,,,,False
+629,Disorders of lacrimal system (H04),,0,0,0,,,,,,,False
+630,Disorders of orbit (H05),,1,1,2,,,,,,,False
+632,Conjunctivitis (H10),,0,0,0,,,,,,,False
+633,Other disorders of conjunctiva (H11),,0,0,0,,,,,,,False
+635,Disorders of sclera (H15),,0,0,0,,,,,,,False
+636,Keratitis (H16),,0,1,1,,,,,,,False
+637,Corneal scars and opacities (H17),,0,0,0,,,,,,,False
+638,Other disorders of cornea (H18),,0,0,0,,,,,,,False
+639,Iridocyclitis (H20),,0,0,0,,,,,,,False
+640,Other disorders of iris and ciliary body (H21),,0,0,0,,,,,,,False
+642,Senile cataract (H25),,0,0,0,,,,,,,False
+643,Other cataract (H26),,0,0,0,,,,,,,False
+644,Other disorders of lens (H27),,0,0,0,,,,,,,False
+646,Chorioretinal inflammation (H30),,0,0,0,,,,,,,False
+647,Other disorders of choroid (H31),,0,0,0,,,,,,,False
+648,Retinal detachments and breaks (H33),,0,0,0,,,,,,,False
+649,Retinal vascular occlusions (H34),,0,0,0,,,,,,,False
+650,Other retinal disorders (H35),,0,0,0,,,,,,,False
+652,Glaucoma (H40),,0,1,1,,,,,,,False
+654,Disorders of vitreous body (H43),,0,0,0,,,,,,,False
+655,Disorders of globe (H44),,0,1,1,,,,,,,False
+657,Optic neuritis (H46),,0,0,0,,,,,,,False
+658,Other disorders of optic [2nd] nerve and visual pathways (H47),,0,0,0,,,,,,,False
+660,Paralytic strabismus (H49),,1,0,1,,,,,,,False
+661,Other strabismus (H50),,0,0,0,,,,,,,False
+662,Other disorders of binocular movement (H51),,0,0,0,,,,,,,False
+663,Disorders of refraction and accommodation (H52),,0,0,0,,,,,,,False
+665,Visual disturbances (H53),,0,0,0,,,,,,,False
+666,Visual impairment including blindness (binocular or monocular) (H54),,0,0,0,,,,,,,False
+668,Nystagmus and other irregular eye movements (H55),,0,0,0,,,,,,,False
+669,Other disorders of eye and adnexa (H57),,0,1,1,,,,,,,False
+670,"Postprocedural disorders of eye and adnexa, not elsewhere classified (H59)",,0,0,0,,,,,,,False
+673,Otitis externa (H60),,1,3,4,,,,,,,False
+674,Other disorders of external ear (H61),,0,0,0,,,,,,,False
+676,Nonsuppurative otitis media (H65),,0,0,0,,,,,,,False
+677,Suppurative and unspecified otitis media (H66),,2,5,7,,,,,,,False
+678,Eustachian salpingitis and obstruction (H68),,0,0,0,,,,,,,False
+679,Other disorders of Eustachian tube (H69),,0,0,0,,,,,,,False
+680,Mastoiditis and related conditions (H70),,2,1,3,,,,,,,False
+681,Cholesteatoma of middle ear (H71),,0,0,0,,,,,,,False
+682,Perforation of tympanic membrane (H72),,0,0,0,,,,,,,False
+683,Other disorders of tympanic membrane (H73),,0,0,0,,,,,,,False
+684,Other disorders of middle ear and mastoid (H74),,0,0,0,,,,,,,False
+686,Otosclerosis (H80),,0,0,0,,,,,,,False
+687,Disorders of vestibular function (H81),,0,1,1,,,,,,,False
+688,Other diseases of inner ear (H83),,0,0,0,,,,,,,False
+690,Conductive and sensorineural hearing loss (H90),,0,0,0,,,,,,,False
+691,Other hearing loss (H91),,2,1,3,,,,,,,False
+692,Otalgia and effusion of ear (H92),,0,0,0,,,,,,,False
+693,"Other disorders of ear, not elsewhere classified (H93)",,0,0,0,,,,,,,False
+694,"Postprocedural disorders of ear and mastoid process, not elsewhere classified (H95)",,0,0,0,,,,,,,False
+697,Rheumatic fever without mention of heart involvement (I00),x,2,6,8,,,,,,,False
+698,Rheumatic fever with heart involvement (I01),x,0,1,1,,,,,,,False
+699,Rheumatic chorea (I02),x,0,0,0,,,,,,,False
+701,Rheumatic mitral valve diseases (I05),x,45,90,135,0.3,0.5,0.4,323.0,496.0,820.0,False
+702,Rheumatic aortic valve diseases (I06),x,5,5,10,,,,,,,False
+703,Rheumatic tricuspid valve diseases (I07),x,12,40,52,,0.2,0.2,,,57.0,False
+704,Multiple valve diseases (I08),x,47,65,112,0.3,0.4,0.4,254.0,87.0,339.0,False
+705,Other rheumatic heart diseases (I09),x,20,43,63,0.2,0.3,0.2,420.0,475.0,900.0,False
+707,Essential (primary) hypertension (I10),x,201,391,592,1.5,2.0,1.8,604.0,284.0,883.0,False
+708,Hypertensive heart disease (I11),x,342,570,912,2.5,2.9,2.8,1847.0,771.0,2598.0,False
+709,Hypertensive renal disease (I12),x,155,200,355,1.1,1.0,1.1,392.0,126.0,513.0,False
+710,Hypertensive heart and renal disease (I13),x,102,175,277,0.7,0.9,0.8,93.0,123.0,217.0,False
+711,Secondary hypertension (I15),,0,0,0,,,,,,,False
+713,Angina pectoris (I20),x,5,14,19,,,,,,,False
+714,Acute myocardial infarction (I21),x,4016,3306,7322,29.2,17.1,22.7,18708.0,5558.0,24032.0,False
+715,Subsequent myocardial infarction (I22),x,0,0,0,,,,,,,False
+716,Certain current complications following acute myocardial infarction (I23),x,0,0,0,,,,,,,False
+717,Other acute ischaemic heart diseases (I24),x,167,176,343,1.2,0.9,1.1,469.0,142.0,604.0,False
+718,Chronic ischaemic heart disease (I25),x,6081,3768,9849,44.0,19.6,30.8,35948.0,8385.0,43838.0,False
+720,Pulmonary embolism (I26),x,164,150,314,1.2,0.9,1.0,1366.0,1212.0,2570.0,False
+721,Other pulmonary heart diseases (I27),,151,279,430,1.1,1.6,1.4,876.0,1273.0,2149.0,False
+722,Other diseases of pulmonary vessels (I28),,0,2,2,,,,,,,False
+724,Acute pericarditis (I30),,5,5,10,,,,,,,False
+725,Other diseases of pericardium (I31),,42,43,85,0.3,0.3,0.3,345.0,212.0,554.0,False
+726,Acute and subacute endocarditis (I33),x,122,68,190,0.9,0.4,0.7,1549.0,680.0,2215.0,False
+727,Nonrheumatic mitral valve disorders (I34),x,63,136,199,0.5,0.7,0.6,200.0,325.0,526.0,False
+728,Nonrheumatic aortic valve disorders (I35),x,538,541,1079,3.9,2.7,3.2,1225.0,427.0,1636.0,False
+729,Nonrheumatic tricuspid valve disorders (I36),x,0,4,4,,,,,,,False
+730,Pulmonary valve disorders (I37),x,0,1,1,,,,,,,False
+731,"Endocarditis, valve unspecified (I38)",,123,141,264,0.9,0.7,0.8,609.0,255.0,858.0,False
+732,Acute myocarditis (I40),,11,5,16,,,,305.0,,510.0,False
+733,Cardiomyopathy (I42),,670,372,1042,4.9,2.2,3.5,7160.0,2443.0,9550.0,False
+734,Atrioventricular and left bundle-branch block (I44),,34,29,63,0.2,0.1,0.2,34.0,,39.0,False
+735,Other conduction disorders (I45),,34,30,64,0.3,0.2,0.2,166.0,187.0,356.0,False
+736,Cardiac arrest (I46),,81,108,189,0.6,0.5,0.6,592.0,144.0,738.0,False
+737,Paroxysmal tachycardia (I47),,10,17,27,,,0.1,70.0,73.0,141.0,False
+738,Atrial fibrillation and flutter (I48),,838,1397,2235,6.1,6.9,6.6,875.0,520.0,1388.0,False
+739,Other cardiac arrhythmias (I49),,69,111,180,0.5,0.6,0.6,646.0,695.0,1341.0,False
+740,Heart failure (I50),x,1169,1567,2736,8.5,7.7,8.1,1409.0,877.0,2278.0,False
+741,Complications and ill-defined descriptions of heart disease (I51),x,228,228,456,1.7,1.3,1.5,1918.0,1446.0,3343.0,False
+743,Subarachnoid haemorrhage (I60),x,203,346,549,1.5,2.2,1.9,3228.0,3650.0,6900.0,False
+744,Intracerebral haemorrhage (I61),x,608,740,1348,4.4,4.2,4.3,3630.0,1901.0,5503.0,False
+745,Other nontraumatic intracranial haemorrhage (I62),x,462,485,947,3.4,2.7,3.0,2054.0,1628.0,3671.0,False
+746,Cerebral infarction (I63),x,590,778,1368,4.3,4.1,4.2,2264.0,1260.0,3507.0,False
+747,"Stroke, not specified as haemorrhage or infarction (I64)",x,1617,2591,4208,11.8,12.7,12.5,2758.0,1465.0,4203.0,False
+748,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",x,0,0,0,,,,,,,False
+749,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",x,0,0,0,,,,,,,False
+750,Other cerebrovascular diseases (I67),x,259,402,661,1.9,2.0,2.0,712.0,761.0,1468.0,False
+751,Sequelae of cerebrovascular disease (I69),x,425,466,891,3.1,2.4,2.7,755.0,641.0,1389.0,False
+753,Atherosclerosis (I70),,33,59,92,0.2,0.3,0.3,72.0,,89.0,False
+754,Aortic aneurysm and dissection (I71),,595,393,988,4.3,2.2,3.2,3391.0,1049.0,4401.0,False
+755,Other aneurysm and dissection (I72),,42,26,68,0.3,0.2,0.2,348.0,362.0,711.0,False
+756,Other peripheral vascular diseases (I73),,321,329,650,2.3,1.7,2.0,765.0,323.0,1077.0,False
+757,Arterial embolism and thrombosis (I74),,22,25,47,0.2,0.1,0.2,237.0,155.0,391.0,False
+758,Other disorders of arteries and arterioles (I77),,49,37,86,0.4,0.2,0.3,349.0,303.0,652.0,False
+759,Diseases of capillaries (I78),,3,3,6,,,,,,,False
+761,Phlebitis and thrombophlebitis (I80),,81,108,189,0.6,0.7,0.7,1421.0,1181.0,2600.0,False
+762,Portal vein thrombosis (I81),,11,8,19,,,,65.0,,111.0,False
+763,Other venous embolism and thrombosis (I82),,9,11,20,,,0.1,,,124.0,False
+764,Varicose veins of lower extremities (I83),,2,17,19,,,,,23.0,24.0,False
+765,Haemorrhoids (I84),,0,0,0,,,,,,,False
+766,Oesophageal varices (I85),,5,5,10,,,,137.0,,164.0,False
+767,Varicose veins of other sites (I86),,1,2,3,,,,,,,False
+768,Other disorders of veins (I87),,4,2,6,,,,,,,False
+769,Nonspecific lymphadenitis (I88),,0,1,1,,,,,,,False
+770,Other noninfective disorders of lymphatic vessels and lymph nodes (I89),,2,12,14,,,,,80.0,81.0,False
+772,Hypotension (I95),,2,1,3,,,,,,,False
+773,"Postprocedural disorders of circulatory system, not elsewhere classified (I97)",,0,0,0,,,,,,,False
+774,Other and unspecified disorders of circulatory system (I99),,9,11,20,,,0.1,,,,False
+777,Acute nasopharyngitis [common cold] (J00),,0,0,0,,,,,,,False
+778,Acute sinusitis (J01),,0,0,0,,,,,,,False
+779,Acute pharyngitis (J02),x,0,1,1,,,,,,,False
+780,Acute tonsillitis (J03),,0,0,0,,,,,,,False
+781,Acute laryngitis and tracheitis (J04),,1,1,2,,,,,,,False
+782,Acute obstructive laryngitis [croup] and epiglottitis (J05),,3,0,3,,,,,,,False
+783,Acute upper respiratory infections of multiple and unspecified sites (J06),,5,4,9,,,,,,,False
+785,Influenza due to certain identified influenza virus (J09),,4,3,7,,,,,,186.0,False
+786,Influenza due to other identified influenza virus (J10),x,46,60,106,0.3,0.3,0.3,367.0,525.0,881.0,False
+787,"Influenza, virus not identified (J11)",x,12,16,28,,,0.1,44.0,,69.0,False
+788,"Viral pneumonia, not elsewhere classified (J12)",x,21,28,49,0.2,0.2,0.2,123.0,282.0,402.0,False
+789,Pneumonia due to Streptococcus pneumoniae (J13),x,7,2,9,,,,,,144.0,False
+790,Pneumonia due to Haemophilus influenzae (J14),x,2,0,2,,,,,,,False
+791,"Bacterial pneumonia, not elsewhere classified (J15)",x,30,24,54,0.2,0.1,0.2,333.0,230.0,560.0,False
+792,"Pneumonia due to other infectious organisms, not elsewhere classified (J16)",x,0,0,0,,,,,,,False
+793,"Pneumonia, organism unspecified (J18)",x,1304,1543,2847,9.5,7.6,8.4,3249.0,2124.0,5368.0,False
+795,Acute bronchitis (J20),,2,10,12,,,,,,,False
+796,Acute bronchiolitis (J21),,1,2,3,,,,,,,False
+797,Unspecified acute lower respiratory infection (J22),,142,211,353,1.0,1.0,1.0,328.0,210.0,539.0,False
+799,Vasomotor and allergic rhinitis (J30),,0,0,0,,,,,,,False
+800,"Chronic rhinitis, nasopharyngitis and pharyngitis (J31)",,0,0,0,,,,,,,False
+801,Chronic sinusitis (J32),,5,2,7,,,,,,,False
+802,Nasal polyp (J33),,1,0,1,,,,,,,False
+803,Other disorders of nose and nasal sinuses (J34),,0,0,0,,,,,,,False
+804,Chronic diseases of tonsils and adenoids (J35),,2,0,2,,,,,,,False
+805,Peritonsillar abscess (J36),,0,0,0,,,,,,,False
+806,Chronic laryngitis and laryngotracheitis (J37),,0,0,0,,,,,,,False
+807,"Diseases of vocal cords and larynx, not elsewhere classified (J38)",,5,6,11,,,,,,,False
+808,Other diseases of upper respiratory tract (J39),,10,6,16,,,,101.0,,112.0,False
+810,"Bronchitis, not specified as acute or chronic (J40)",x,7,15,22,,,0.1,,,,False
+811,Simple and mucopurulent chronic bronchitis (J41),x,0,0,0,,,,,,,False
+812,Unspecified chronic bronchitis (J42),x,9,10,19,,,,,105.0,145.0,False
+813,Emphysema (J43),x,396,233,629,2.8,1.4,2.0,2067.0,968.0,3015.0,False
+814,Other chronic obstructive pulmonary disease (J44),x,3371,3072,6443,24.3,17.6,20.5,11243.0,9469.0,20672.0,False
+815,Asthma (J45),x,134,246,380,1.0,1.4,1.2,2012.0,1409.0,3426.0,False
+816,Status asthmaticus (J46),x,5,4,9,,,,216.0,,449.0,False
+817,Bronchiectasis (J47),,128,259,387,0.9,1.4,1.2,477.0,530.0,1009.0,False
+819,Coalworker's pneumoconiosis (J60),,3,0,3,,,,,,,False
+820,Pneumoconiosis due to asbestos and other mineral fibres (J61),,127,5,132,0.9,,0.4,169.0,,166.0,False
+821,Pneumoconiosis due to dust containing silica (J62),,1,0,1,,,,,,,False
+822,Pneumoconiosis due to other inorganic dusts (J63),,0,0,0,,,,,,,False
+823,Unspecified pneumoconiosis (J64),,2,0,2,,,,,,,False
+824,Pneumoconiosis associated with tuberculosis (J65),,0,0,0,,,,,,,False
+825,Airway disease due to specific organic dust (J66),,0,0,0,,,,,,,False
+826,Hypersensitivity pneumonitis due to organic dust (J67),,8,10,18,,,,,33.0,71.0,False
+827,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours (J68)",,1,1,2,,,,,,,False
+828,Pneumonitis due to solids and liquids (J69),,498,454,952,3.6,2.3,2.8,838.0,451.0,1283.0,False
+829,Respiratory conditions due to other external agents (J70),,7,8,15,,,,,,53.0,False
+831,Adult respiratory distress syndrome (J80),,9,8,17,,,,162.0,115.0,277.0,False
+832,Pulmonary oedema (J81),,17,28,45,,0.1,0.1,,,28.0,False
+833,"Pulmonary eosinophilia, not elsewhere classified (J82)",,3,3,6,,,,,,105.0,False
+834,Other interstitial pulmonary diseases (J84),,821,476,1297,6.0,2.7,4.2,2248.0,1293.0,3518.0,False
+836,Abscess of lung and mediastinum (J85),,9,4,13,,,,100.0,,136.0,False
+837,Pyothorax (J86),,21,9,30,0.2,,0.1,183.0,95.0,277.0,False
+839,"Pleural effusion, not elsewhere classified (J90)",,30,31,61,0.2,0.2,0.2,35.0,98.0,134.0,False
+840,Pleural plaque (J92),,1,0,1,,,,,,,False
+841,Pneumothorax (J93),,9,5,14,,,,146.0,,165.0,False
+842,Other pleural conditions (J94),,12,3,15,,,,138.0,,138.0,False
+844,"Postprocedural respiratory disorders, not elsewhere classified (J95)",,0,0,0,,,,,,,False
+845,"Respiratory failure, not elsewhere classified (J96)",,27,43,70,0.2,0.2,0.2,82.0,110.0,193.0,False
+846,Other respiratory disorders (J98),,201,221,422,1.5,1.2,1.3,951.0,678.0,1621.0,False
+849,Disorders of tooth development and eruption (K00),,0,0,0,,,,,,,False
+850,Embedded and impacted teeth (K01),,0,0,0,,,,,,,False
+851,Dental caries (K02),,1,0,1,,,,,,,False
+852,Other diseases of hard tissues of teeth (K03),,1,0,1,,,,,,,False
+853,Diseases of pulp and periapical tissues (K04),,2,3,5,,,,,,,False
+854,Gingivitis and periodontal diseases (K05),,0,0,0,,,,,,,False
+855,Other disorders of gingiva and edentulous alveolar ridge (K06),,0,0,0,,,,,,,False
+856,Dentofacial anomalies [including malocclusion] (K07),,0,0,0,,,,,,,False
+857,Other disorders of teeth and supporting structures (K08),,1,0,1,,,,,,,False
+858,"Cysts of oral region, not elsewhere classified (K09)",,1,0,1,,,,,,,False
+859,Other diseases of jaws (K10),,0,0,0,,,,,,,False
+860,Diseases of salivary glands (K11),,8,8,16,,,,,,,False
+861,Stomatitis and related lesions (K12),,3,5,8,,,,,,,False
+862,Other diseases of lip and oral mucosa (K13),,0,0,0,,,,,,,False
+863,Diseases of tongue (K14),,0,0,0,,,,,,,False
+865,Oesophagitis (K20),,4,2,6,,,,,,52.0,False
+866,Gastro-oesophageal reflux disease (K21),,30,49,79,0.2,0.2,0.2,72.0,26.0,98.0,False
+867,Other diseases of oesophagus (K22),,79,80,159,0.6,0.4,0.5,364.0,60.0,420.0,False
+868,Gastric ulcer (K25),x,25,38,63,0.2,0.2,0.2,163.0,176.0,338.0,False
+869,Duodenal ulcer (K26),x,69,54,123,0.5,0.3,0.4,516.0,206.0,716.0,False
+870,"Peptic ulcer, site unspecified (K27)",x,36,37,73,0.3,0.2,0.2,243.0,43.0,284.0,False
+871,Gastrojejunal ulcer (K28),,0,1,1,,,,,,,False
+872,Gastritis and duodenitis (K29),,9,3,12,,,,,,,False
+873,Dyspepsia (K30),,0,0,0,,,,,,,False
+874,Other diseases of stomach and duodenum (K31),,15,33,48,,0.2,0.2,97.0,66.0,162.0,False
+876,Acute appendicitis (K35),,8,12,20,,,0.1,95.0,34.0,128.0,False
+877,Other appendicitis (K36),,0,1,1,,,,,,,False
+878,Unspecified appendicitis (K37),,2,1,3,,,,,,,False
+879,Other diseases of appendix (K38),,0,0,0,,,,,,,False
+881,Inguinal hernia (K40),,36,10,46,0.3,,0.1,94.0,,106.0,False
+882,Femoral hernia (K41),,3,10,13,,,,,,,False
+883,Umbilical hernia (K42),,12,9,21,,,0.1,62.0,,114.0,False
+884,Ventral hernia (K43),,9,21,30,,0.1,0.1,,116.0,139.0,False
+885,Diaphragmatic hernia (K44),,21,36,57,0.2,0.2,0.2,72.0,27.0,98.0,False
+886,Other abdominal hernia (K45),,0,8,8,,,,,,,False
+887,Unspecified abdominal hernia (K46),,19,19,38,,,0.1,77.0,,90.0,False
+889,Crohn disease [regional enteritis] (K50),,8,20,28,,0.1,0.1,,95.0,133.0,False
+890,Ulcerative colitis (K51),,10,12,22,,,0.1,,61.0,78.0,False
+891,Other noninfective gastroenteritis and colitis (K52),,5,16,21,,,0.1,,,64.0,False
+893,Vascular disorders of intestine (K55),,177,247,424,1.3,1.4,1.3,500.0,684.0,1186.0,False
+894,Paralytic ileus and intestinal obstruction without hernia (K56),,332,401,733,2.4,2.1,2.2,753.0,538.0,1290.0,False
+895,Diverticular disease of intestine (K57),,94,185,279,0.7,1.0,0.8,285.0,219.0,505.0,False
+896,Irritable bowel syndrome (K58),,0,0,0,,,,,,,False
+897,Other functional intestinal disorders (K59),,16,15,31,,,0.1,80.0,48.0,128.0,False
+898,Fissure and fistula of anal and rectal regions (K60),,2,0,2,,,,,,,False
+899,Abscess of anal and rectal regions (K61),,5,3,8,,,,,,,False
+900,Other diseases of anus and rectum (K62),,22,33,55,0.2,0.2,0.2,,22.0,47.0,False
+901,Other diseases of intestine (K63),,68,101,169,0.5,0.6,0.5,239.0,343.0,585.0,False
+902,Haemorrhoids and perianal venous thrombosis (K64),,0,0,0,,,,,,,False
+904,Peritonitis (K65),,26,29,55,0.2,0.2,0.2,151.0,162.0,312.0,False
+905,Other disorders of peritoneum (K66),,10,14,24,,,0.1,122.0,49.0,173.0,False
+907,Alcoholic liver disease (K70),,599,231,830,4.4,1.7,3.0,10947.0,5194.0,16032.0,False
+908,Toxic liver disease (K71),,3,2,5,,,,,,,False
+909,"Hepatic failure, not elsewhere classified (K72)",,107,81,188,0.8,0.5,0.6,1292.0,696.0,1978.0,False
+910,"Chronic hepatitis, not elsewhere classified (K73)",,0,0,0,,,,,,,False
+911,Fibrosis and cirrhosis of liver (K74),,369,210,579,2.7,1.4,2.0,4460.0,1900.0,6314.0,False
+912,Other inflammatory liver diseases (K75),,55,77,132,0.4,0.5,0.4,429.0,471.0,902.0,False
+913,Other diseases of liver (K76),,115,96,211,0.8,0.6,0.7,1259.0,774.0,2025.0,False
+915,Cholelithiasis (K80),,38,57,95,0.3,0.3,0.3,124.0,45.0,167.0,False
+916,Cholecystitis (K81),,82,115,197,0.6,0.6,0.6,176.0,276.0,451.0,False
+917,Other diseases of gallbladder (K82),,12,11,23,,,0.1,53.0,,56.0,False
+918,Other diseases of biliary tract (K83),,91,102,193,0.7,0.5,0.6,162.0,188.0,350.0,False
+919,Acute pancreatitis (K85),,111,104,215,0.8,0.6,0.7,1009.0,440.0,1443.0,False
+920,Other diseases of pancreas (K86),,31,20,51,0.2,0.1,0.2,510.0,140.0,644.0,False
+922,Intestinal malabsorption (K90),,7,4,11,,,,,,,False
+923,"Postprocedural disorders of digestive system, not elsewhere classified (K91)",,0,0,0,,,,,,,False
+924,Other diseases of digestive system (K92),,246,275,521,1.8,1.4,1.6,559.0,304.0,860.0,False
+927,Staphylococcal scalded skin syndrome (L00),,1,0,1,,,,,,,False
+928,Impetigo (L01),,0,0,0,,,,,,,False
+929,"Cutaneous abscess, furuncle and carbuncle (L02)",,6,14,20,,,0.1,,95.0,127.0,False
+930,Cellulitis (L03),x,142,155,297,1.0,0.8,0.9,407.0,306.0,712.0,False
+931,Acute lymphadenitis (L04),,0,0,0,,,,,,,False
+932,Pilonidal cyst (L05),,0,1,1,,,,,,,False
+933,Other local infections of skin and subcutaneous tissue (L08),,26,30,56,0.2,0.2,0.2,124.0,66.0,189.0,False
+935,Pemphigus (L10),,0,1,1,,,,,,,False
+936,Other acantholytic disorders (L11),,0,0,0,,,,,,,False
+937,Pemphigoid (L12),,8,6,14,,,,,,,False
+938,Other bullous disorders (L13),,0,1,1,,,,,,,False
+940,Atopic dermatitis (L20),,0,0,0,,,,,,,False
+941,Seborrhoeic dermatitis (L21),,0,0,0,,,,,,,False
+942,Diaper [napkin] dermatitis (L22),,0,0,0,,,,,,,False
+943,Allergic contact dermatitis (L23),,0,0,0,,,,,,,False
+944,Irritant contact dermatitis (L24),,0,0,0,,,,,,,False
+945,Unspecified contact dermatitis (L25),,0,0,0,,,,,,,False
+946,Exfoliative dermatitis (L26),,0,1,1,,,,,,,False
+947,Dermatitis due to substances taken internally (L27),,2,0,2,,,,,,,False
+948,Lichen simplex chronicus and prurigo (L28),,0,0,0,,,,,,,False
+949,Pruritus (L29),,0,0,0,,,,,,,False
+950,Other dermatitis (L30),,0,0,0,,,,,,,False
+952,Psoriasis (L40),,3,1,4,,,,,,,False
+953,Parapsoriasis (L41),,0,0,0,,,,,,,False
+954,Pityriasis rosea (L42),,0,0,0,,,,,,,False
+955,Lichen planus (L43),,0,1,1,,,,,,,False
+956,Other papulosquamous disorders (L44),,0,0,0,,,,,,,False
+958,Urticaria (L50),,0,0,0,,,,,,,False
+959,Erythema multiforme (L51),,2,2,4,,,,,,,False
+960,Erythema nodosum (L52),,0,0,0,,,,,,,False
+961,Other erythematous conditions (L53),,0,2,2,,,,,,,False
+963,Sunburn (L55),,0,0,0,,,,,,,False
+964,Other acute skin changes due to ultraviolet radiation (L56),,0,0,0,,,,,,,False
+965,Skin changes due to chronic exposure to nonionizing radiation (L57),,0,0,0,,,,,,,False
+966,Radiodermatitis (L58),,0,0,0,,,,,,,False
+967,Other disorders of skin and subcutaneous tissue related to radiation (L59),,0,0,0,,,,,,,False
+969,Nail disorders (L60),,0,0,0,,,,,,,False
+970,Alopecia areata (L63),,0,0,0,,,,,,,False
+971,Androgenic alopecia (L64),,0,0,0,,,,,,,False
+972,Other nonscarring hair loss (L65),,0,0,0,,,,,,,False
+973,Cicatricial alopecia [scarring hair loss] (L66),,0,0,0,,,,,,,False
+974,Hair colour and hair shaft abnormalities (L67),,0,0,0,,,,,,,False
+975,Hypertrichosis (L68),,0,0,0,,,,,,,False
+976,Acne (L70),,0,0,0,,,,,,,False
+977,Rosacea (L71),,0,0,0,,,,,,,False
+978,Follicular cysts of skin and subcutaneous tissue (L72),,0,0,0,,,,,,,False
+979,Other follicular disorders (L73),,1,0,1,,,,,,,False
+980,Eccrine sweat disorders (L74),,0,0,0,,,,,,,False
+981,Apocrine sweat disorders (L75),,0,0,0,,,,,,,False
+983,Vitiligo (L80),,0,0,0,,,,,,,False
+984,Other disorders of pigmentation (L81),,0,0,0,,,,,,,False
+985,Seborrhoeic keratosis (L82),,0,0,0,,,,,,,False
+986,Acanthosis nigricans (L83),,0,0,0,,,,,,,False
+987,Corns and callosities (L84),,0,0,0,,,,,,,False
+988,Other epidermal thickening (L85),,0,0,0,,,,,,,False
+989,Transepidermal elimination disorders (L87),,0,0,0,,,,,,,False
+990,Pyoderma gangrenosum (L88),,0,1,1,,,,,,,False
+991,Decubitus ulcer (L89),,14,44,58,,0.2,0.2,,14.0,99.0,False
+992,Atrophic disorders of skin (L90),,2,0,2,,,,,,,False
+993,Hypertrophic disorders of skin (L91),,0,0,0,,,,,,,False
+994,Granulomatous disorders of skin and subcutaneous tissue (L92),,1,1,2,,,,,,,False
+995,Lupus erythematosus (L93),,0,0,0,,,,,,,False
+996,Other localized connective tissue disorders (L94),,0,0,0,,,,,,,False
+997,"Vasculitis limited to skin, not elsewhere classified (L95)",,0,0,0,,,,,,,False
+998,"Ulcer of lower limb, not elsewhere classified (L97)",,34,51,85,0.3,0.2,0.3,104.0,65.0,169.0,False
+999,"Other disorders of skin and subcutaneous tissue, not elsewhere classified (L98)",,21,24,45,0.2,0.1,0.1,120.0,,132.0,False
+1003,Pyogenic arthritis (M00),,67,51,118,0.5,0.3,0.4,177.0,64.0,239.0,False
+1004,Reactive arthropathies (M02),,0,0,0,,,,,,,False
+1006,Seropositive rheumatoid arthritis (M05),,2,6,8,,,,,,,False
+1007,Other rheumatoid arthritis (M06),,60,138,198,0.4,0.8,0.6,203.0,301.0,505.0,False
+1008,Juvenile arthritis (M08),,0,1,1,,,,,,,False
+1009,Gout (M10),,18,6,24,,,0.1,,,,False
+1010,Other crystal arthropathies (M11),,0,0,0,,,,,,,False
+1011,Other specific arthropathies (M12),,0,0,0,,,,,,,False
+1012,Other arthritis (M13),,7,10,17,,,,,30.0,31.0,False
+1014,Polyarthrosis (M15),,0,0,0,,,,,,,False
+1015,Coxarthrosis [arthrosis of hip] (M16),,1,3,4,,,,,,,False
+1016,Gonarthrosis [arthrosis of knee] (M17),,0,1,1,,,,,,,False
+1017,Arthrosis of first carpometacarpal joint (M18),,0,0,0,,,,,,,False
+1018,Other arthrosis (M19),,16,51,67,,0.2,0.2,,,,False
+1020,Acquired deformities of fingers and toes (M20),,0,0,0,,,,,,,False
+1021,Other acquired deformities of limbs (M21),,0,0,0,,,,,,,False
+1022,Disorders of patella (M22),,0,0,0,,,,,,,False
+1023,Internal derangement of knee (M23),,0,0,0,,,,,,,False
+1024,Other specific joint derangements (M24),,0,1,1,,,,,,,False
+1025,"Other joint disorders, not elsewhere classified (M25)",,22,12,34,0.2,,0.1,45.0,,57.0,False
+1027,Polyarteritis nodosa and related conditions (M30),,7,5,12,,,,51.0,,94.0,False
+1028,Other necrotizing vasculopathies (M31),,14,24,38,,0.1,0.1,69.0,186.0,257.0,False
+1029,Systemic lupus erythematosus (M32),,8,44,52,,0.3,0.2,,531.0,559.0,False
+1030,Dermatopolymyositis (M33),,7,11,18,,,,77.0,133.0,210.0,False
+1031,Systemic sclerosis (M34),,31,87,118,0.2,0.6,0.4,363.0,623.0,991.0,False
+1032,Other systemic involvement of connective tissue (M35),,12,27,39,,0.2,0.1,114.0,129.0,243.0,False
+1035,Kyphosis and lordosis (M40),,4,2,6,,,,,,,False
+1036,Scoliosis (M41),,4,14,18,,,,,118.0,221.0,False
+1037,Spinal osteochondrosis (M42),,0,0,0,,,,,,,False
+1038,Other deforming dorsopathies (M43),,0,2,2,,,,,,,False
+1040,Ankylosing spondylitis (M45),,1,2,3,,,,,,,False
+1041,Other inflammatory spondylopathies (M46),,15,20,35,,0.1,0.1,58.0,99.0,157.0,False
+1042,Spondylosis (M47),,6,9,15,,,,,,,False
+1043,Other spondylopathies (M48),,5,5,10,,,,,,,False
+1045,Cervical disc disorders (M50),,0,0,0,,,,,,,False
+1046,Other intervertebral disc disorders (M51),,1,2,3,,,,,,,False
+1047,"Other dorsopathies, not elsewhere classified (M53)",,0,0,0,,,,,,,False
+1048,Dorsalgia (M54),,3,6,9,,,,,,,False
+1051,Myositis (M60),,6,6,12,,,,,,177.0,False
+1052,Calcification and ossification of muscle (M61),,0,0,0,,,,,,,False
+1053,Other disorders of muscle (M62),,23,31,54,0.2,0.2,0.2,72.0,93.0,162.0,False
+1055,Synovitis and tenosynovitis (M65),,0,0,0,,,,,,,False
+1056,Spontaneous rupture of synovium and tendon (M66),,0,0,0,,,,,,,False
+1057,Other disorders of synovium and tendon (M67),,0,0,0,,,,,,,False
+1059,"Soft tissue disorders related to use, overuse and pressure (M70)",,1,0,1,,,,,,,False
+1060,Other bursopathies (M71),,1,0,1,,,,,,,False
+1061,Fibroblastic disorders (M72),,24,19,43,0.2,,0.1,289.0,199.0,489.0,False
+1062,Shoulder lesions (M75),,0,0,0,,,,,,,False
+1063,"Enthesopathies of lower limb, excluding foot (M76)",,0,0,0,,,,,,,False
+1064,Other enthesopathies (M77),,0,0,0,,,,,,,False
+1065,"Other soft tissue disorders, not elsewhere classified (M79)",,6,8,14,,,,,75.0,125.0,False
+1068,Osteoporosis with pathological fracture (M80),,18,64,82,,0.3,0.2,,,19.0,False
+1069,Osteoporosis without pathological fracture (M81),,14,89,103,,0.4,0.3,,,,False
+1070,Adult osteomalacia (M83),,0,0,0,,,,,,,False
+1071,Disorders of continuity of bone (M84),,7,15,22,,,0.1,,,81.0,False
+1072,Other disorders of bone density and structure (M85),,0,1,1,,,,,,,False
+1074,Osteomyelitis (M86),,89,58,147,0.7,0.3,0.5,298.0,303.0,593.0,False
+1075,Osteonecrosis (M87),,1,2,3,,,,,,,False
+1076,Paget disease of bone [osteitis deformans] (M88),,0,5,5,,,,,,,False
+1077,Other disorders of bone (M89),,3,0,3,,,,,,,False
+1079,Juvenile osteochondrosis of hip and pelvis (M91),,0,0,0,,,,,,,False
+1080,Other juvenile osteochondrosis (M92),,0,0,0,,,,,,,False
+1081,Other osteochondropathies (M93),,0,0,0,,,,,,,False
+1082,Other disorders of cartilage (M94),,1,1,2,,,,,,,False
+1084,Other acquired deformities of musculoskeletal system and connective tissue (M95),,0,0,0,,,,,,,False
+1085,"Postprocedural musculoskeletal disorders, not elsewhere classified (M96)",,0,0,0,,,,,,,False
+1086,"Biomechanical lesions, not elsewhere classified (M99)",,0,0,0,,,,,,,False
+1089,Acute nephritic syndrome (N00),,10,8,18,,,,,,,False
+1090,Rapidly progressive nephritic syndrome (N01),,0,0,0,,,,,,,False
+1091,Recurrent and persistent haematuria (N02),,11,3,14,,,,78.0,,136.0,False
+1092,Chronic nephritic syndrome (N03),,7,6,13,,,,,,,False
+1093,Nephrotic syndrome (N04),,6,2,8,,,,,,,False
+1094,Unspecified nephritic syndrome (N05),,13,12,25,,,0.1,33.0,,72.0,False
+1095,Isolated proteinuria with specified morphological lesion (N06),,0,0,0,,,,,,,False
+1096,"Hereditary nephropathy, not elsewhere classified (N07)",,0,0,0,,,,,,,False
+1098,Acute tubulo-interstitial nephritis (N10),,3,4,7,,,,,,103.0,False
+1099,Chronic tubulo-interstitial nephritis (N11),,3,0,3,,,,,,,False
+1100,"Tubulo-interstitial nephritis, not specified as acute or chronic (N12)",,13,22,35,,0.1,0.1,94.0,93.0,188.0,False
+1101,Obstructive and reflux uropathy (N13),,35,37,72,0.3,0.2,0.2,126.0,194.0,319.0,False
+1102,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions (N14),,2,11,13,,,,,,35.0,False
+1103,Other renal tubulo-interstitial diseases (N15),,1,3,4,,,,,,,False
+1105,Acute renal failure (N17),x,137,191,328,1.0,1.0,1.0,227.0,379.0,607.0,False
+1106,Chronic kidney disease (N18),x,686,669,1355,5.0,3.5,4.2,1791.0,1121.0,2902.0,False
+1107,Unspecified kidney failure (N19),x,190,249,439,1.4,1.2,1.3,369.0,205.0,573.0,False
+1109,Calculus of kidney and ureter (N20),,21,35,56,0.2,0.2,0.2,44.0,43.0,86.0,False
+1110,Calculus of lower urinary tract (N21),,0,0,0,,,,,,,False
+1111,Unspecified renal colic (N23),,0,0,0,,,,,,,False
+1113,Disorders resulting from impaired renal tubular function (N25),,0,3,3,,,,,,,False
+1114,Unspecified contracted kidney (N26),,10,5,15,,,,95.0,,130.0,False
+1115,Small kidney of unknown cause (N27),,0,0,0,,,,,,,False
+1116,"Other disorders of kidney and ureter, not elsewhere classified (N28)",,22,18,40,0.2,,0.1,138.0,128.0,266.0,False
+1118,Cystitis (N30),,4,2,6,,,,,,,False
+1119,"Neuromuscular dysfunction of bladder, not elsewhere classified (N31)",,5,4,9,,,,,,94.0,False
+1120,Other disorders of bladder (N32),,10,7,17,,,,,,23.0,False
+1121,Urethritis and urethral syndrome (N34),,0,0,0,,,,,,,False
+1122,Urethral stricture (N35),,4,0,4,,,,,,,False
+1123,Other disorders of urethra (N36),,1,1,2,,,,,,,False
+1124,Other disorders of urinary system (N39),,331,567,898,2.4,2.8,2.7,550.0,457.0,1008.0,False
+1126,Hyperplasia of prostate (N40),,64,0,64,0.5,,0.2,21.0,,20.0,False
+1127,Inflammatory diseases of prostate (N41),,8,0,8,,,,,,,False
+1128,Other disorders of prostate (N42),,4,0,4,,,,,,,False
+1129,Hydrocele and spermatocele (N43),,0,0,0,,,,,,,False
+1130,Torsion of testis (N44),,1,0,1,,,,,,,False
+1131,Orchitis and epididymitis (N45),,4,0,4,,,,,,,False
+1132,Male infertility (N46),,0,0,0,,,,,,,False
+1133,"Redundant prepuce, phimosis and paraphimosis (N47)",,0,0,0,,,,,,,False
+1134,Other disorders of penis (N48),,0,0,0,,,,,,,False
+1135,"Inflammatory disorders of male genital organs, not elsewhere classified (N49)",,11,0,11,,,,69.0,,68.0,False
+1136,Other disorders of male genital organs (N50),,2,0,2,,,,,,,False
+1138,Benign mammary dysplasia (N60),,0,0,0,,,,,,,False
+1139,Inflammatory disorders of breast (N61),,0,1,1,,,,,,,False
+1140,Hypertrophy of breast (N62),,0,0,0,,,,,,,False
+1141,Unspecified lump in breast (N63),,0,0,0,,,,,,,False
+1142,Other disorders of breast (N64),,0,0,0,,,,,,,False
+1144,Salpingitis and oophoritis (N70),,0,1,1,,,,,,,False
+1145,"Inflammatory disease of uterus, except cervix (N71)",,0,0,0,,,,,,,False
+1146,Inflammatory disease of cervix uteri (N72),,0,0,0,,,,,,,False
+1147,Other female pelvic inflammatory diseases (N73),,0,4,4,,,,,,,False
+1148,Diseases of Bartholin gland (N75),,0,0,0,,,,,,,False
+1149,Other inflammation of vagina and vulva (N76),,0,2,2,,,,,,,False
+1151,Endometriosis (N80),,0,0,0,,,,,,,False
+1152,Female genital prolapse (N81),,0,3,3,,,,,,,False
+1153,Fistulae involving female genital tract (N82),,0,2,2,,,,,,,False
+1154,"Noninflammatory disorders of ovary, fallopian tube and broad ligament (N83)",,0,4,4,,,,,,,False
+1155,Polyp of female genital tract (N84),,0,0,0,,,,,,,False
+1156,"Other noninflammatory disorders of uterus, except cervix (N85)",,0,4,4,,,,,,,False
+1157,Erosion and ectropion of cervix uteri (N86),,0,0,0,,,,,,,False
+1158,Dysplasia of cervix uteri (N87),,0,0,0,,,,,,,False
+1159,Other noninflammatory disorders of cervix uteri (N88),,0,0,0,,,,,,,False
+1160,Other noninflammatory disorders of vagina (N89),,0,0,0,,,,,,,False
+1161,Other noninflammatory disorders of vulva and perineum (N90),,0,0,0,,,,,,,False
+1162,"Absent, scanty and rare menstruation (N91)",,0,0,0,,,,,,,False
+1163,"Excessive, frequent and irregular menstruation (N92)",,0,0,0,,,,,,,False
+1164,Other abnormal uterine and vaginal bleeding (N93),,0,1,1,,,,,,,False
+1165,Pain and other conditions associated with female genital organs and menstrual cycle (N94),,0,0,0,,,,,,,False
+1166,Menopausal and other perimenopausal disorders (N95),,0,0,0,,,,,,,False
+1167,Habitual aborter (N96),,0,0,0,,,,,,,False
+1168,Female infertility (N97),,0,0,0,,,,,,,False
+1169,Complications associated with artificial fertilization (N98),,0,0,0,,,,,,,False
+1171,"Postprocedural disorders of genitourinary system, not elsewhere classified (N99)",,0,0,0,,,,,,,False
+1174,Ectopic pregnancy (O00),x,0,0,0,,,,,,,False
+1175,Hydatidiform mole (O01),x,0,1,1,,,,,,,False
+1176,Other abnormal products of conception (O02),x,0,0,0,,,,,,,False
+1177,Spontaneous abortion (O03),x,0,0,0,,,,,,,False
+1178,Medical abortion (O04),x,0,0,0,,,,,,,False
+1179,Other abortion (O05),x,0,0,0,,,,,,,False
+1180,Unspecified abortion (O06),x,0,0,0,,,,,,,False
+1181,Failed attempted abortion (O07),x,0,0,0,,,,,,,False
+1182,Complications following abortion and ectopic and molar pregnancy (O08),x,0,0,0,,,,,,,False
+1184,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium (O10)",x,0,0,0,,,,,,,False
+1185,Pre-existing hypertensive disorder with superimposed proteinuria (O11),x,0,0,0,,,,,,,False
+1186,Gestational [pregnancy-induced] oedema and proteinuria without hypertension (O12),x,0,0,0,,,,,,,False
+1187,Gestational [pregnancy-induced] hypertension without significant proteinuria (O13),x,0,0,0,,,,,,,False
+1188,Gestational [pregnancy-induced] hypertension with significant proteinuria (O14),x,0,0,0,,,,,,,False
+1189,Eclampsia (O15),x,0,0,0,,,,,,,False
+1190,Unspecified maternal hypertension (O16),x,0,0,0,,,,,,,False
+1192,Haemorrhage in early pregnancy (O20),x,0,0,0,,,,,,,False
+1193,Excessive vomiting in pregnancy (O21),x,0,0,0,,,,,,,False
+1194,Venous complications in pregnancy (O22),x,0,0,0,,,,,,,False
+1195,Infections of genitourinary tract in pregnancy (O23),x,0,0,0,,,,,,,False
+1196,Diabetes mellitus in pregnancy (O24),x,0,0,0,,,,,,,False
+1197,Malnutrition in pregnancy (O25),x,0,0,0,,,,,,,False
+1198,Maternal care for other conditions predominantly related to pregnancy (O26),x,0,1,1,,,,,,,False
+1199,Abnormal findings on antenatal screening of mother (O28),x,0,0,0,,,,,,,False
+1200,Complications of anaesthesia during pregnancy (O29),x,0,0,0,,,,,,,False
+1202,Multiple gestation (O30),x,0,0,0,,,,,,,False
+1203,Complications specific to multiple gestation (O31),x,0,0,0,,,,,,,False
+1204,Maternal care for known or suspected malpresentation of fetus (O32),x,0,0,0,,,,,,,False
+1205,Maternal care for known or suspected disproportion (O33),x,0,0,0,,,,,,,False
+1206,Maternal care for known or suspected abnormality of pelvic organs (O34),x,0,0,0,,,,,,,False
+1207,Maternal care for known or suspected fetal abnormality and damage (O35),x,0,0,0,,,,,,,False
+1208,Maternal care for other known or suspected fetal problems (O36),x,0,0,0,,,,,,,False
+1209,Polyhydramnios (O40),x,0,0,0,,,,,,,False
+1210,Other disorders of amniotic fluid and membranes (O41),x,0,0,0,,,,,,,False
+1211,Premature rupture of membranes (O42),x,0,1,1,,,,,,,False
+1212,Placental disorders (O43),x,0,0,0,,,,,,,False
+1213,Placenta praevia (O44),x,0,0,0,,,,,,,False
+1214,Premature separation of placenta [abruptio placentae] (O45),x,0,1,1,,,,,,,False
+1215,"Antepartum haemorrhage, not elsewhere classified (O46)",x,0,0,0,,,,,,,False
+1216,False labour (O47),x,0,0,0,,,,,,,False
+1217,Prolonged pregnancy (O48),x,0,0,0,,,,,,,False
+1219,Preterm labour and delivery (O60),x,0,0,0,,,,,,,False
+1220,Failed induction of labour (O61),x,0,0,0,,,,,,,False
+1221,Abnormalities of forces of labour (O62),x,0,0,0,,,,,,,False
+1222,Long labour (O63),x,0,0,0,,,,,,,False
+1223,Obstructed labour due to malposition and malpresentation of fetus (O64),x,0,0,0,,,,,,,False
+1224,Obstructed labour due to maternal pelvic abnormality (O65),x,0,0,0,,,,,,,False
+1225,Other obstructed labour (O66),x,0,0,0,,,,,,,False
+1226,"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified (O67)",x,0,1,1,,,,,,,False
+1227,Labour and delivery complicated by fetal stress [distress] (O68),x,0,0,0,,,,,,,False
+1228,Labour and delivery complicated by umbilical cord complications (O69),x,0,0,0,,,,,,,False
+1229,Perineal laceration during delivery (O70),x,0,0,0,,,,,,,False
+1230,Other obstetric trauma (O71),x,0,0,0,,,,,,,False
+1231,Postpartum haemorrhage (O72),x,0,1,1,,,,,,,False
+1232,"Retained placenta and membranes, without haemorrhage (O73)",x,0,0,0,,,,,,,False
+1233,Complications of anaesthesia during labour and delivery (O74),x,0,0,0,,,,,,,False
+1234,"Other complications of labour and delivery, not elsewhere classified (O75)",x,0,0,0,,,,,,,False
+1236,Single spontaneous delivery (O80),x,0,0,0,,,,,,,False
+1237,Single delivery by forceps and vacuum extractor (O81),x,0,0,0,,,,,,,False
+1238,Single delivery by caesarean section (O82),x,0,0,0,,,,,,,False
+1239,Other assisted single delivery (O83),x,0,0,0,,,,,,,False
+1240,Multiple delivery (O84),x,0,0,0,,,,,,,False
+1242,Puerperal sepsis (O85),x,0,0,0,,,,,,,False
+1243,Other puerperal infections (O86),x,0,0,0,,,,,,,False
+1244,Venous complications in the puerperium (O87),x,0,0,0,,,,,,,False
+1245,Obstetric embolism (O88),x,0,1,1,,,,,,,False
+1246,Complications of anaesthesia during the puerperium (O89),x,0,0,0,,,,,,,False
+1247,"Complications of the puerperium, not elsewhere classified (O90)",x,0,2,2,,,,,,,False
+1248,Infections of breast associated with childbirth (O91),x,0,0,0,,,,,,,False
+1249,Other disorders of breast and lactation associated with childbirth (O92),x,0,0,0,,,,,,,False
+1251,Obstetric death of unspecified cause (O95),x,0,3,3,,,,,,,False
+1252,Death from any obstetric cause occurring more than 42 days but less than one year after delivery (O96),x,0,0,0,,,,,,,False
+1253,Death from sequelae of direct obstetric causes (O97),x,0,2,2,,,,,,,False
+1254,"Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium (O98)",x,0,0,0,,,,,,,False
+1255,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium (O99)",x,0,1,1,,,,,,,False
+1258,Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy (P00),x,17,12,29,,,0.1,,,,False
+1259,Fetus and newborn affected by maternal complications of pregnancy (P01),x,51,42,93,0.4,0.4,0.4,,,,False
+1260,"Fetus and newborn affected by complications of placenta, cord and membranes (P02)",x,42,29,71,0.3,0.2,0.3,,,,False
+1261,Fetus and newborn affected by other complications of labour and delivery (P03),x,17,13,30,,,0.1,,,,False
+1262,Fetus and newborn affected by noxious influences transmitted via placenta or breast milk (P04),x,0,1,1,,,,,,,False
+1264,Slow fetal growth and fetal malnutrition (P05),x,6,3,9,,,,,,,False
+1265,"Disorders related to short gestation and low birth weight, not elsewhere classified (P07)",x,58,31,89,0.5,0.3,0.4,,,,False
+1266,Disorders related to long gestation and high birth weight (P08),x,0,0,0,,,,,,,False
+1268,Intracranial laceration and haemorrhage due to birth injury (P10),x,0,0,0,,,,,,,False
+1269,Other birth injuries to central nervous system (P11),x,2,0,2,,,,,,,False
+1270,Birth injury to scalp (P12),x,0,0,0,,,,,,,False
+1271,Birth injury to skeleton (P13),x,1,0,1,,,,,,,False
+1272,Birth injury to peripheral nervous system (P14),x,0,0,0,,,,,,,False
+1273,Other birth injuries (P15),x,0,0,0,,,,,,,False
+1275,Intrauterine hypoxia (P20),x,2,0,2,,,,,,,False
+1276,Birth asphyxia (P21),x,2,1,3,,,,,,,False
+1277,Respiratory distress of newborn (P22),x,2,0,2,,,,,,,False
+1278,Congenital pneumonia (P23),x,0,0,0,,,,,,,False
+1279,Neonatal aspiration syndromes (P24),x,1,1,2,,,,,,,False
+1280,Interstitial emphysema and related conditions originating in the perinatal period (P25),x,0,1,1,,,,,,,False
+1281,Pulmonary haemorrhage originating in the perinatal period (P26),x,2,2,4,,,,,,,False
+1282,Chronic respiratory disease originating in the perinatal period (P27),x,6,1,7,,,,,,,False
+1283,Other respiratory conditions originating in the perinatal period (P28),x,8,2,10,,,,,,,False
+1284,Cardiovascular disorders originating in the perinatal period (P29),x,7,9,16,,,,,,,False
+1286,Congenital viral diseases (P35),x,4,2,6,,,,,,,False
+1287,Bacterial sepsis of newborn (P36),x,13,12,25,,,0.1,,,,False
+1288,Other congenital infectious and parasitic diseases (P37),x,1,2,3,,,,,,,False
+1289,Omphalitis of newborn with or without mild haemorrhage (P38),x,0,0,0,,,,,,,False
+1290,Other infections specific to the perinatal period (P39),x,0,2,2,,,,,,,False
+1292,Fetal blood loss (P50),x,0,3,3,,,,,,,False
+1293,Umbilical haemorrhage of newborn (P51),x,0,0,0,,,,,,,False
+1294,Intracranial nontraumatic haemorrhage of fetus and newborn (P52),x,15,8,23,,,0.1,,,,False
+1295,Haemorrhagic disease of fetus and newborn (P53),x,0,0,0,,,,,,,False
+1296,Other neonatal haemorrhages (P54),x,0,0,0,,,,,,,False
+1297,Haemolytic disease of fetus and newborn (P55),x,0,0,0,,,,,,,False
+1298,Hydrops fetalis due to haemolytic disease (P56),x,0,0,0,,,,,,,False
+1299,Kernicterus (P57),x,0,0,0,,,,,,,False
+1300,Neonatal jaundice due to other excessive haemolysis (P58),x,0,0,0,,,,,,,False
+1301,Neonatal jaundice from other and unspecified causes (P59),x,0,0,0,,,,,,,False
+1302,Disseminated intravascular coagulation of fetus and newborn (P60),x,0,0,0,,,,,,,False
+1303,Other perinatal haematological disorders (P61),x,2,1,3,,,,,,,False
+1305,Transitory disorders of carbohydrate metabolism specific to fetus and newborn (P70),x,0,0,0,,,,,,,False
+1306,Transitory neonatal disorders of calcium and magnesium metabolism (P71),x,0,0,0,,,,,,,False
+1307,Other transitory neonatal endocrine disorders (P72),x,0,0,0,,,,,,,False
+1308,Other transitory neonatal electrolyte and metabolic disturbances (P74),x,0,0,0,,,,,,,False
+1310,Other intestinal obstruction of newborn (P76),x,1,0,1,,,,,,,False
+1311,Necrotizing enterocolitis of fetus and newborn (P77),x,8,11,19,,,,,,,False
+1312,Other perinatal digestive system disorders (P78),x,1,2,3,,,,,,,False
+1314,Hypothermia of newborn (P80),x,0,0,0,,,,,,,False
+1315,Other disturbances of temperature regulation of newborn (P81),x,0,0,0,,,,,,,False
+1316,Other conditions of integument specific to fetus and newborn (P83),x,2,5,7,,,,,,,False
+1318,Convulsions of newborn (P90),x,0,0,0,,,,,,,False
+1319,Other disturbances of cerebral status of newborn (P91),x,19,12,31,,,0.1,,,,False
+1320,Feeding problems of newborn (P92),x,0,0,0,,,,,,,False
+1321,Reactions and intoxications due to drugs administered to fetus and newborn (P93),x,0,0,0,,,,,,,False
+1322,Disorders of muscle tone of newborn (P94),x,0,1,1,,,,,,,False
+1323,Fetal death of unspecified cause (P95),x,0,0,0,,,,,,,False
+1324,Other conditions originating in the perinatal period (P96),x,21,27,48,0.2,0.2,0.2,,,,False
+1327,Anencephaly and similar malformations (Q00),,6,4,10,,,,,,,False
+1328,Encephalocele (Q01),,1,1,2,,,,,,,False
+1329,Microcephaly (Q02),,2,6,8,,,,,339.0,465.0,False
+1330,Congenital hydrocephalus (Q03),,2,1,3,,,,,,,False
+1331,Other congenital malformations of brain (Q04),,16,20,36,,0.2,0.2,419.0,625.0,1030.0,False
+1332,Spina bifida (Q05),,10,12,22,,,0.1,,269.0,334.0,False
+1333,Other congenital malformations of spinal cord (Q06),,0,0,0,,,,,,,False
+1334,Other congenital malformations of nervous system (Q07),,3,1,4,,,,,,,False
+1336,"Congenital malformations of eyelid, lacrimal apparatus and orbit (Q10)",,0,0,0,,,,,,,False
+1337,"Anophthalmos, microphthalmos and macrophthalmos (Q11)",,0,0,0,,,,,,,False
+1338,Congenital lens malformations (Q12),,0,0,0,,,,,,,False
+1339,Congenital malformations of anterior segment of eye (Q13),,0,0,0,,,,,,,False
+1340,Congenital malformations of posterior segment of eye (Q14),,0,0,0,,,,,,,False
+1341,Other congenital malformations of eye (Q15),,0,0,0,,,,,,,False
+1342,Congenital malformations of ear causing impairment of hearing (Q16),,0,0,0,,,,,,,False
+1343,Other congenital malformations of ear (Q17),,0,0,0,,,,,,,False
+1344,Other congenital malformations of face and neck (Q18),,0,0,0,,,,,,,False
+1346,Congenital malformations of cardiac chambers and connections (Q20),,11,6,17,,,,,,259.0,False
+1347,Congenital malformations of cardiac septa (Q21),,13,16,29,,,0.1,292.0,212.0,506.0,False
+1348,Congenital malformations of pulmonary and tricuspid valves (Q22),,3,2,5,,,,,,,False
+1349,Congenital malformations of aortic and mitral valves (Q23),,24,14,38,0.2,,0.1,261.0,,274.0,False
+1350,Other congenital malformations of heart (Q24),,32,17,49,0.3,,0.2,515.0,514.0,1030.0,False
+1351,Congenital malformations of great arteries (Q25),,8,12,20,,,0.1,,250.0,414.0,False
+1352,Congenital malformations of great veins (Q26),,6,0,6,,,,,,,False
+1353,Other congenital malformations of peripheral vascular system (Q27),,5,7,12,,,,,,167.0,False
+1354,Other congenital malformations of circulatory system (Q28),,10,3,13,,,,182.0,,230.0,False
+1356,Congenital malformations of nose (Q30),,0,0,0,,,,,,,False
+1357,Congenital malformations of larynx (Q31),,1,0,1,,,,,,,False
+1358,Congenital malformations of trachea and bronchus (Q32),,0,0,0,,,,,,,False
+1359,Congenital malformations of lung (Q33),,3,2,5,,,,,,,False
+1360,Other congenital malformations of respiratory system (Q34),,0,0,0,,,,,,,False
+1362,Cleft palate (Q35),,0,0,0,,,,,,,False
+1363,Cleft lip (Q36),,0,0,0,,,,,,,False
+1364,Cleft palate with cleft lip (Q37),,0,0,0,,,,,,,False
+1366,"Other congenital malformations of tongue, mouth and pharynx (Q38)",,0,0,0,,,,,,,False
+1367,Congenital malformations of oesophagus (Q39),,3,2,5,,,,,,,False
+1368,Other congenital malformations of upper alimentary tract (Q40),,0,0,0,,,,,,,False
+1369,"Congenital absence, atresia and stenosis of small intestine (Q41)",,0,0,0,,,,,,,False
+1370,"Congenital absence, atresia and stenosis of large intestine (Q42)",,0,0,0,,,,,,,False
+1371,Other congenital malformations of intestine (Q43),,5,2,7,,,,,,,False
+1372,"Congenital malformations of gallbladder, bile ducts and liver (Q44)",,1,4,5,,,,,,,False
+1373,Other congenital malformations of digestive system (Q45),,0,0,0,,,,,,,False
+1375,"Congenital malformations of ovaries, fallopian tubes and broad ligaments (Q50)",,0,0,0,,,,,,,False
+1376,Congenital malformations of uterus and cervix (Q51),,0,0,0,,,,,,,False
+1377,Other congenital malformations of female genitalia (Q52),,0,0,0,,,,,,,False
+1378,Undescended testicle (Q53),,0,0,0,,,,,,,False
+1379,Hypospadias (Q54),,0,0,0,,,,,,,False
+1380,Other congenital malformations of male genital organs (Q55),,0,0,0,,,,,,,False
+1381,Indeterminate sex and pseudohermaphroditism (Q56),,0,0,0,,,,,,,False
+1383,Renal agenesis and other reduction defects of kidney (Q60),,7,5,12,,,,,,,False
+1384,Cystic kidney disease (Q61),,31,28,59,0.2,0.2,0.2,258.0,101.0,359.0,False
+1385,Congenital obstructive defects of renal pelvis and congenital malformations of ureter (Q62),,0,1,1,,,,,,,False
+1386,Other congenital malformations of kidney (Q63),,0,0,0,,,,,,,False
+1387,Other congenital malformations of urinary system (Q64),,2,0,2,,,,,,,False
+1389,Congenital deformities of hip (Q65),,0,0,0,,,,,,,False
+1390,Congenital deformities of feet (Q66),,1,0,1,,,,,,,False
+1391,"Congenital musculoskeletal deformities of head, face, spine and chest (Q67)",,2,0,2,,,,,,,False
+1392,Other congenital musculoskeletal deformities (Q68),,0,0,0,,,,,,,False
+1393,Polydactyly (Q69),,0,0,0,,,,,,,False
+1394,Syndactyly (Q70),,0,0,0,,,,,,,False
+1395,Reduction defects of upper limb (Q71),,0,0,0,,,,,,,False
+1396,Reduction defects of lower limb (Q72),,0,0,0,,,,,,,False
+1397,Reduction defects of unspecified limb (Q73),,0,0,0,,,,,,,False
+1398,Other congenital malformations of limb(s) (Q74),,0,0,0,,,,,,,False
+1399,Other congenital malformations of skull and face bones (Q75),,0,0,0,,,,,,,False
+1400,Congenital malformations of spine and bony thorax (Q76),,0,1,1,,,,,,,False
+1401,Osteochondrodysplasia with defects of growth of tubular bones and spine (Q77),,0,2,2,,,,,,,False
+1402,Other osteochondrodysplasias (Q78),,4,6,10,,,,,,,False
+1403,"Congenital malformations of the musculoskeletal system, not elsewhere classified (Q79)",,4,4,8,,,,,,,False
+1405,Congenital ichthyosis (Q80),,0,0,0,,,,,,,False
+1406,Epidermolysis bullosa (Q81),,0,0,0,,,,,,,False
+1407,Other congenital malformations of skin (Q82),,0,1,1,,,,,,,False
+1408,Congenital malformations of breast (Q83),,0,0,0,,,,,,,False
+1409,Other congenital malformations of integument (Q84),,0,0,0,,,,,,,False
+1410,"Phakomatoses, not elsewhere classified (Q85)",,7,6,13,,,,170.0,186.0,356.0,False
+1411,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified (Q86)",,0,0,0,,,,,,,False
+1412,Other specified congenital malformation syndromes affecting multiple systems (Q87),,21,8,29,0.2,,0.1,475.0,193.0,666.0,False
+1413,"Other congenital malformations, not elsewhere classified (Q89)",,23,9,32,0.2,,0.1,,,,False
+1415,Down syndrome (Q90),,64,53,117,0.5,0.4,0.4,1251.0,962.0,2212.0,False
+1416,Edwards syndrome and Patau syndrome (Q91),,8,10,18,,,,,,,False
+1417,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified (Q92)",,5,2,7,,,,,,,False
+1418,"Monosomies and deletions from the autosomes, not elsewhere classified (Q93)",,5,11,16,,,,,334.0,428.0,False
+1419,"Balanced rearrangements and structural markers, not elsewhere classified (Q95)",,0,0,0,,,,,,,False
+1420,Turner syndrome (Q96),,0,1,1,,,,,,,False
+1421,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified (Q97)",,0,0,0,,,,,,,False
+1422,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified (Q98)",,3,0,3,,,,,,,False
+1423,"Other chromosome abnormalities, not elsewhere classified (Q99)",,3,2,5,,,,,,,False
+1426,Abnormalities of heart beat (R00),,0,0,0,,,,,,,False
+1427,Cardiac murmurs and other cardiac sounds (R01),,0,0,0,,,,,,,False
+1428,"Gangrene, not elsewhere classified (R02)",,1,4,5,,,,,,,False
+1429,"Abnormal blood-pressure reading, without diagnosis (R03)",,0,0,0,,,,,,,False
+1430,Haemorrhage from respiratory passages (R04),,0,0,0,,,,,,,False
+1431,Cough (R05),,0,1,1,,,,,,,False
+1432,Abnormalities of breathing (R06),,1,1,2,,,,,,,False
+1433,Pain in throat and chest (R07),,0,0,0,,,,,,,False
+1434,Other symptoms and signs involving the circulatory and respiratory systems (R09),,17,27,44,,0.1,0.1,71.0,,79.0,False
+1436,Abdominal and pelvic pain (R10),,0,0,0,,,,,,,False
+1437,Nausea and vomiting (R11),,2,1,3,,,,,,,False
+1438,Heartburn (R12),,0,0,0,,,,,,,False
+1439,Dysphagia (R13),,3,3,6,,,,,,,False
+1440,Flatulence and related conditions (R14),,0,0,0,,,,,,,False
+1441,Faecal incontinence (R15),,0,0,0,,,,,,,False
+1442,"Hepatomegaly and splenomegaly, not elsewhere classified (R16)",,0,0,0,,,,,,,False
+1443,Unspecified jaundice (R17),,0,0,0,,,,,,,False
+1444,Ascites (R18),,0,0,0,,,,,,,False
+1445,Other symptoms and signs involving the digestive system and abdomen (R19),,3,12,15,,,,,,,False
+1447,Disturbances of skin sensation (R20),,0,0,0,,,,,,,False
+1448,Rash and other nonspecific skin eruption (R21),,0,0,0,,,,,,,False
+1449,"Localized swelling, mass and lump of skin and subcutaneous tissue (R22)",,0,0,0,,,,,,,False
+1450,Other skin changes (R23),,0,0,0,,,,,,,False
+1452,Abnormal involuntary movements (R25),,0,0,0,,,,,,,False
+1453,Abnormalities of gait and mobility (R26),,0,0,0,,,,,,,False
+1454,Other lack of coordination (R27),,0,0,0,,,,,,,False
+1455,Other symptoms and signs involving the nervous and musculoskeletal systems (R29),,2,1,3,,,,,,,False
+1457,Pain associated with micturition (R30),,0,0,0,,,,,,,False
+1458,Unspecified haematuria (R31),,0,0,0,,,,,,,False
+1459,Unspecified urinary incontinence (R32),,0,0,0,,,,,,,False
+1460,Retention of urine (R33),,0,0,0,,,,,,,False
+1461,Anuria and oliguria (R34),,0,0,0,,,,,,,False
+1462,Polyuria (R35),,0,0,0,,,,,,,False
+1463,Urethral discharge (R36),,0,0,0,,,,,,,False
+1464,Other symptoms and signs involving the urinary system (R39),,0,0,0,,,,,,,False
+1466,"Somnolence, stupor and coma (R40)",,1,1,2,,,,,,,False
+1467,Other symptoms and signs involving cognitive functions and awareness (R41),,5,9,14,,,,,,,False
+1468,Dizziness and giddiness (R42),,0,0,0,,,,,,,False
+1469,Disturbances of smell and taste (R43),,0,0,0,,,,,,,False
+1470,Other symptoms and signs involving general sensations and perceptions (R44),,0,0,0,,,,,,,False
+1471,Symptoms and signs involving emotional state (R45),,0,0,0,,,,,,,False
+1472,Symptoms and signs involving appearance and behaviour (R46),,0,0,0,,,,,,,False
+1474,"Speech disturbances, not elsewhere classified (R47)",,1,0,1,,,,,,,False
+1475,"Dyslexia and other symbolic dysfunctions, not elsewhere classified (R48)",,0,0,0,,,,,,,False
+1476,Voice disturbances (R49),,0,0,0,,,,,,,False
+1478,Fever of unknown origin (R50),,1,0,1,,,,,,,False
+1479,Headache (R51),,0,0,0,,,,,,,False
+1480,"Pain, not elsewhere classified (R52)",,0,0,0,,,,,,,False
+1481,Malaise and fatigue (R53),,24,78,102,0.2,0.4,0.3,,,25.0,False
+1482,Senility (R54),,72,223,295,0.5,1.0,0.8,,,,False
+1483,Syncope and collapse (R55),,0,0,0,,,,,,,False
+1484,"Convulsions, not elsewhere classified (R56)",,6,8,14,,,,132.0,192.0,322.0,False
+1485,"Shock, not elsewhere classified (R57)",,9,10,19,,,,,,25.0,False
+1486,"Haemorrhage, not elsewhere classified (R58)",,5,4,9,,,,,,,False
+1487,Enlarged lymph nodes (R59),,0,0,0,,,,,,,False
+1488,"Oedema, not elsewhere classified (R60)",,1,0,1,,,,,,,False
+1489,Hyperhidrosis (R61),,0,0,0,,,,,,,False
+1490,Lack of expected normal physiological development (R62),,0,0,0,,,,,,,False
+1491,Symptoms and signs concerning food and fluid intake (R63),,4,8,12,,,,,,,False
+1492,Cachexia (R64),,5,9,14,,,,,,,False
+1493,Systemic Inflammatory Response Syndrome [SIRS] (R65),,0,0,0,,,,,,,False
+1494,Other general symptoms and signs (R68),,87,134,221,0.6,0.6,0.6,182.0,36.0,215.0,False
+1495,Unknown and unspecified causes of morbidity (R69),,0,0,0,,,,,,,False
+1497,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity (R70),,0,0,0,,,,,,,False
+1498,Abnormality of red blood cells (R71),,0,0,0,,,,,,,False
+1499,"Abnormality of white blood cells, not elsewhere classified (R72)",,0,0,0,,,,,,,False
+1500,Elevated blood glucose level (R73),,0,0,0,,,,,,,False
+1501,Abnormal serum enzyme levels (R74),,0,0,0,,,,,,,False
+1502,Laboratory evidence of human immunodeficiency virus [HIV] (R75),,0,0,0,,,,,,,False
+1503,Other abnormal immunological findings in serum (R76),,0,0,0,,,,,,,False
+1504,Other abnormalities of plasma proteins (R77),,0,0,0,,,,,,,False
+1505,"Findings of drugs and other substances, not normally found in blood (R78)",,0,0,0,,,,,,,False
+1506,Other abnormal findings of blood chemistry (R79),,0,0,0,,,,,,,False
+1508,Isolated proteinuria (R80),,0,0,0,,,,,,,False
+1509,Glycosuria (R81),,0,0,0,,,,,,,False
+1510,Other abnormal findings in urine (R82),,0,0,0,,,,,,,False
+1512,Abnormal findings in cerebrospinal fluid (R83),,0,0,0,,,,,,,False
+1513,Abnormal findings in specimens from respiratory organs and thorax (R84),,0,0,0,,,,,,,False
+1514,Abnormal findings in specimens from digestive organs and abdominal cavity (R85),,0,0,0,,,,,,,False
+1515,Abnormal findings in specimens from male genital organs (R86),,0,0,0,,,,,,,False
+1516,Abnormal findings in specimens from female genital organs (R87),,0,0,0,,,,,,,False
+1517,"Abnormal findings in specimens from other organs, systems and tissues (R89)",,0,0,0,,,,,,,False
+1519,Abnormal findings on diagnostic imaging of central nervous system (R90),,0,0,0,,,,,,,False
+1520,Abnormal findings on diagnostic imaging of lung (R91),,0,0,0,,,,,,,False
+1521,Abnormal findings on diagnostic imaging of breast (R92),,0,0,0,,,,,,,False
+1522,Abnormal findings on diagnostic imaging of other body structures (R93),,0,0,0,,,,,,,False
+1523,Abnormal results of function studies (R94),,0,0,0,,,,,,,False
+1525,Sudden infant death syndrome (R95),,16,8,24,,,0.1,,,,False
+1526,"Other sudden death, cause unknown (R96)",,0,0,0,,,,,,,False
+1527,Unattended death (R98),,0,0,0,,,,,,,False
+1528,Other ill-defined and unspecified causes of mortality (R99),,728,483,1211,5.5,3.2,4.3,13571.0,6509.0,20028.0,False
+1532,Pedestrian injured in collision with pedal cycle (V01),x,0,0,0,,,,,,,False
+1533,Pedestrian injured in collision with two- or three-wheeled motor vehicle (V02),x,1,1,2,,,,,,,False
+1534,"Pedestrian injured in collision with car, pick-up truck or van (V03)",x,107,62,169,0.8,0.4,0.6,3014.0,1714.0,4741.0,False
+1535,Pedestrian injured in collision with heavy transport vehicle or bus (V04),x,20,10,30,0.2,,0.1,662.0,242.0,907.0,False
+1536,Pedestrian injured in collision with railway train or railway vehicle (V05),x,7,0,7,,,,333.0,,335.0,False
+1537,Pedestrian injured in collision with other nonmotor vehicle (V06),x,0,0,0,,,,,,,False
+1538,Pedestrian injured in other and unspecified transport accidents (V09),x,17,2,19,,,,199.0,,277.0,False
+1540,Pedal cyclist injured in collision with pedestrian or animal (V10),x,2,0,2,,,,,,,False
+1541,Pedal cyclist injured in collision with other pedal cycle (V11),x,1,0,1,,,,,,,False
+1542,Pedal cyclist injured in collision with two- or three-wheeled motor vehicle (V12),x,0,0,0,,,,,,,False
+1543,"Pedal cyclist injured in collision with car, pick-up truck or van (V13)",x,12,3,15,,,,359.0,,445.0,False
+1544,Pedal cyclist injured in collision with heavy transport vehicle or bus (V14),x,8,1,9,,,,320.0,,369.0,False
+1545,Pedal cyclist injured in collision with railway train or railway vehicle (V15),x,0,0,0,,,,,,,False
+1546,Pedal cyclist injured in collision with other nonmotor vehicle (V16),x,0,0,0,,,,,,,False
+1547,Pedal cyclist injured in collision with fixed or stationary object (V17),x,5,0,5,,,,100.0,,99.0,False
+1548,Pedal cyclist injured in noncollision transport accident (V18),x,5,0,5,,,,,,,False
+1549,Pedal cyclist injured in other and unspecified transport accidents (V19),x,2,0,2,,,,,,,False
+1551,Motorcycle rider injured in collision with pedestrian or animal (V20),x,4,0,4,,,,,,,False
+1552,Motorcycle rider injured in collision with pedal cycle (V21),x,0,0,0,,,,,,,False
+1553,Motorcycle rider injured in collision with two- or three-wheeled motor vehicle (V22),x,7,0,7,,,,205.0,,206.0,False
+1554,"Motorcycle rider injured in collision with car, pick-up truck or van (V23)",x,66,4,70,0.5,,0.3,2421.0,,2646.0,False
+1555,Motorcycle rider injured in collision with heavy transport vehicle or bus (V24),x,14,0,14,,,,482.0,,483.0,False
+1556,Motorcycle rider injured in collision with railway train or railway vehicle (V25),x,0,0,0,,,,,,,False
+1557,Motorcycle rider injured in collision with other nonmotor vehicle (V26),x,1,0,1,,,,,,,False
+1558,Motorcycle rider injured in collision with fixed or stationary object (V27),x,75,2,77,0.6,,0.3,2754.0,,2787.0,False
+1559,Motorcycle rider injured in noncollision transport accident (V28),x,26,2,28,0.2,,0.1,815.0,,940.0,False
+1560,Motorcycle rider injured in other and unspecified transport accidents (V29),x,12,2,14,,,,436.0,,471.0,False
+1562,Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal (V30),x,0,0,0,,,,,,,False
+1563,Occupant of three-wheeled motor vehicle injured in collision with pedal cycle (V31),x,0,0,0,,,,,,,False
+1564,Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle (V32),x,0,0,0,,,,,,,False
+1565,"Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van (V33)",x,0,0,0,,,,,,,False
+1566,Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus (V34),x,0,0,0,,,,,,,False
+1567,Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle (V35),x,0,0,0,,,,,,,False
+1568,Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle (V36),x,0,0,0,,,,,,,False
+1569,Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object (V37),x,0,0,0,,,,,,,False
+1570,Occupant of three-wheeled motor vehicle injured in noncollision transport accident (V38),x,0,0,0,,,,,,,False
+1571,Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents (V39),x,0,0,0,,,,,,,False
+1573,Car occupant injured in collision with pedestrian or animal (V40),x,0,0,0,,,,,,,False
+1574,Car occupant injured in collision with pedal cycle (V41),x,0,0,0,,,,,,,False
+1575,Car occupant injured in collision with two- or three-wheeled motor vehicle (V42),x,0,0,0,,,,,,,False
+1576,"Car occupant injured in collision with car, pick-up truck or van (V43)",x,125,90,215,1.0,0.7,0.8,3667.0,2712.0,6373.0,False
+1577,Car occupant injured in collision with heavy transport vehicle or bus (V44),x,51,27,78,0.4,0.2,0.3,1644.0,1107.0,2746.0,False
+1578,Car occupant injured in collision with railway train or railway vehicle (V45),x,2,0,2,,,,,,,False
+1579,Car occupant injured in collision with other nonmotor vehicle (V46),x,2,2,4,,,,,,,False
+1580,Car occupant injured in collision with fixed or stationary object (V47),x,198,59,257,1.6,0.5,1.0,8045.0,2183.0,10282.0,False
+1581,Car occupant injured in noncollision transport accident (V48),x,74,26,100,0.6,0.2,0.4,3088.0,997.0,4099.0,False
+1582,Car occupant injured in other and unspecified transport accidents (V49),x,12,10,22,,,0.1,505.0,281.0,786.0,False
+1584,Occupant of pick-up truck or van injured in collision with pedestrian or animal (V50),x,0,0,0,,,,,,,False
+1585,Occupant of pick-up truck or van injured in collision with pedal cycle (V51),x,0,0,0,,,,,,,False
+1586,Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle (V52),x,0,0,0,,,,,,,False
+1587,"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van (V53)",x,2,7,9,,,,,221.0,243.0,False
+1588,Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus (V54),x,1,0,1,,,,,,,False
+1589,Occupant of pick-up truck or van injured in collision with railway train or railway vehicle (V55),x,0,0,0,,,,,,,False
+1590,Occupant of pick-up truck or van injured in collision with other nonmotor vehicle (V56),x,0,0,0,,,,,,,False
+1591,Occupant of pick-up truck or van injured in collision with fixed or stationary object (V57),x,3,0,3,,,,,,,False
+1592,Occupant of pick-up truck or van injured in noncollision transport accident (V58),x,1,0,1,,,,,,,False
+1593,Occupant of pick-up truck or van injured in other and unspecified transport accidents (V59),x,0,0,0,,,,,,,False
+1595,Occupant of heavy transport vehicle injured in collision with pedestrian or animal (V60),x,2,0,2,,,,,,,False
+1596,Occupant of heavy transport vehicle injured in collision with pedal cycle (V61),x,0,0,0,,,,,,,False
+1597,Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle (V62),x,0,0,0,,,,,,,False
+1598,"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van (V63)",x,3,0,3,,,,,,,False
+1599,Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus (V64),x,8,1,9,,,,271.0,,314.0,False
+1600,Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle (V65),x,0,0,0,,,,,,,False
+1601,Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle (V66),x,0,0,0,,,,,,,False
+1602,Occupant of heavy transport vehicle injured in collision with fixed or stationary object (V67),x,12,0,12,,,,387.0,,385.0,False
+1603,Occupant of heavy transport vehicle injured in noncollision transport accident (V68),x,9,1,10,,,,369.0,,380.0,False
+1604,Occupant of heavy transport vehicle injured in other and unspecified transport accidents (V69),x,0,0,0,,,,,,,False
+1606,Bus occupant injured in collision with pedestrian or animal (V70),x,0,0,0,,,,,,,False
+1607,Bus occupant injured in collision with pedal cycle (V71),x,0,0,0,,,,,,,False
+1608,Bus occupant injured in collision with two- or three-wheeled motor vehicle (V72),x,0,0,0,,,,,,,False
+1609,"Bus occupant injured in collision with car, pick-up truck or van (V73)",x,0,0,0,,,,,,,False
+1610,Bus occupant injured in collision with heavy transport vehicle or bus (V74),x,0,0,0,,,,,,,False
+1611,Bus occupant injured in collision with railway train or railway vehicle (V75),x,0,0,0,,,,,,,False
+1612,Bus occupant injured in collision with other nonmotor vehicle (V76),x,0,0,0,,,,,,,False
+1613,Bus occupant injured in collision with fixed or stationary object (V77),x,0,0,0,,,,,,,False
+1614,Bus occupant injured in noncollision transport accident (V78),x,1,1,2,,,,,,,False
+1615,Bus occupant injured in other and unspecified transport accidents (V79),x,0,0,0,,,,,,,False
+1617,Animal-rider or occupant of animal-drawn vehicle injured in transport accident (V80),x,3,1,4,,,,,,,False
+1618,Occupant of railway train or railway vehicle injured in transport accident (V81),x,1,0,1,,,,,,,False
+1619,Occupant of streetcar injured in transport accident (V82),x,0,0,0,,,,,,,False
+1620,Occupant of special vehicle mainly used on industrial premises injured in transport accident (V83),x,4,0,4,,,,,,,False
+1621,Occupant of special vehicle mainly used in agriculture injured in transport accident (V84),x,9,0,9,,,,184.0,,184.0,False
+1622,Occupant of special construction vehicle injured in transport accident (V85),x,4,0,4,,,,,,,False
+1623,"Occupant of special all-terrain or other motor vehicle designed primarily for off-road use, injured in transport accident (V86)",x,11,2,13,,,,482.0,,568.0,False
+1624,Traffic accident of specified type but victim's mode of transport unknown (V87),x,0,0,0,,,,,,,False
+1625,Nontraffic accident of specified type but victim's mode of transport unknown (V88),x,0,0,0,,,,,,,False
+1626,"Motor- or nonmotor-vehicle accident, type of vehicle unspecified (V89)",x,8,4,12,,,,119.0,,134.0,False
+1628,Accident to watercraft causing drowning and submersion (V90),x,17,3,20,,,0.1,458.0,,612.0,False
+1629,Accident to watercraft causing other injury (V91),x,2,0,2,,,,,,,False
+1630,Water-transport-related drowning and submersion without accident to watercraft (V92),x,9,1,10,,,,264.0,,312.0,False
+1631,"Accident on board watercraft without accident to watercraft, not causing drowning and submersion (V93)",x,0,0,0,,,,,,,False
+1632,Other and unspecified water transport accidents (V94),x,1,0,1,,,,,,,False
+1634,Accident to powered aircraft causing injury to occupant (V95),x,17,5,22,,,0.1,379.0,180.0,560.0,False
+1635,Accident to nonpowered aircraft causing injury to occupant (V96),x,3,1,4,,,,,,,False
+1636,Other specified air transport accidents (V97),x,1,0,1,,,,,,,False
+1638,Other specified transport accidents (V98),x,1,1,2,,,,,,,False
+1639,Unspecified transport accident (V99),x,0,0,0,,,,,,,False
+1642,Fall on same level involving ice and snow (W00),x,0,0,0,,,,,,,False
+1643,"Fall on same level from slipping, tripping and stumbling (W01)",x,165,171,336,1.2,0.9,1.0,649.0,306.0,951.0,False
+1644,"Fall involving ice-skates, skis, roller-skates or skateboards (W02)",x,0,1,1,,,,,,,False
+1645,"Other fall on same level due to collision with, or pushing by, another person (W03)",x,3,4,7,,,,,,,False
+1646,Fall while being carried or supported by other persons (W04),x,0,2,2,,,,,,,False
+1647,Fall involving wheelchair (W05),x,9,10,19,,,,,,215.0,False
+1648,Fall involving bed (W06),x,43,40,83,0.3,0.2,0.3,92.0,129.0,221.0,False
+1649,Fall involving chair (W07),x,18,21,39,,0.1,0.1,29.0,88.0,117.0,False
+1650,Fall involving other furniture (W08),x,5,2,7,,,,,,,False
+1651,Fall involving playground equipment (W09),x,0,0,0,,,,,,,False
+1652,Fall on and from stairs and steps (W10),x,48,31,79,0.4,0.2,0.3,574.0,210.0,784.0,False
+1653,Fall on and from ladder (W11),x,20,2,22,0.1,,0.1,146.0,,149.0,False
+1654,Fall on and from scaffolding (W12),x,0,0,0,,,,,,,False
+1655,"Fall from, out of or through building or structure (W13)",x,37,0,37,0.3,,0.1,935.0,,937.0,False
+1656,Fall from tree (W14),x,0,0,0,,,,,,,False
+1657,Fall from cliff (W15),x,8,3,11,,,,350.0,,468.0,False
+1658,Diving or jumping into water causing injury other than drowning or submersion (W16),x,2,1,3,,,,,,,False
+1659,Other fall from one level to another (W17),x,5,3,8,,,,94.0,,139.0,False
+1660,Other fall on same level (W18),x,21,23,44,0.2,0.1,0.1,77.0,117.0,190.0,False
+1661,Unspecified fall (W19),x,1044,1210,2254,7.6,6.1,6.8,1891.0,1034.0,2912.0,False
+1663,"Struck by thrown, projected or falling object (W20)",x,18,3,21,,,0.1,637.0,,732.0,False
+1664,Striking against or struck by sports equipment (W21),x,0,0,0,,,,,,,False
+1665,Striking against or struck by other objects (W22),x,2,1,3,,,,,,,False
+1666,"Caught, crushed, jammed or pinched in or between objects (W23)",x,16,3,19,,,,475.0,,523.0,False
+1667,"Contact with lifting and transmission devices, not elsewhere classified (W24)",x,4,0,4,,,,,,,False
+1668,Contact with sharp glass (W25),x,1,0,1,,,,,,,False
+1669,"Contact with knife, sword or dagger (W26)",x,0,0,0,,,,,,,False
+1670,Contact with nonpowered hand tool (W27),x,1,0,1,,,,,,,False
+1671,Contact with powered lawnmower (W28),x,0,0,0,,,,,,,False
+1672,Contact with other powered hand tools and household machinery (W29),x,5,1,6,,,,86.0,,92.0,False
+1673,Contact with agricultural machinery (W30),x,2,1,3,,,,,,,False
+1674,Contact with other and unspecified machinery (W31),x,15,0,15,,,,484.0,,483.0,False
+1675,Handgun discharge (W32),x,0,0,0,,,,,,,False
+1676,"Rifle, shotgun and larger firearm discharge (W33)",x,1,0,1,,,,,,,False
+1677,Discharge from other and unspecified firearms (W34),x,0,0,0,,,,,,,False
+1678,Explosion and rupture of boiler (W35),x,0,0,0,,,,,,,False
+1679,Explosion and rupture of gas cylinder (W36),x,1,0,1,,,,,,,False
+1680,"Explosion and rupture of pressurized tyre, pipe or hose (W37)",x,0,0,0,,,,,,,False
+1681,Explosion and rupture of other specified pressurized devices (W38),x,1,0,1,,,,,,,False
+1682,Discharge of firework (W39),x,0,0,0,,,,,,,False
+1683,Explosion of other materials (W40),x,2,0,2,,,,,,,False
+1684,Exposure to high-pressure jet (W41),x,0,0,0,,,,,,,False
+1685,Exposure to noise (W42),x,0,0,0,,,,,,,False
+1686,Exposure to vibration (W43),x,0,0,0,,,,,,,False
+1687,Foreign body entering into or through eye or natural orifice (W44),x,1,2,3,,,,,,,False
+1688,Foreign body or object entering through skin (W45),x,1,1,2,,,,,,,False
+1689,Contact with hypodermic needle (W46),x,0,0,0,,,,,,,False
+1690,Exposure to other and unspecified inanimate mechanical forces (W49),x,3,1,4,,,,,,,False
+1692,"Hit, struck, kicked, twisted, bitten or scratched by another person (W50)",x,1,3,4,,,,,,,False
+1693,Striking against or bumped into by another person (W51),x,1,1,2,,,,,,,False
+1694,"Crushed, pushed or stepped on by crowd or human stampede (W52)",x,0,0,0,,,,,,,False
+1695,Bitten by rat (W53),x,0,0,0,,,,,,,False
+1696,Bitten or struck by dog (W54),x,0,3,3,,,,,,,False
+1697,Bitten or struck by other mammals (W55),x,4,3,7,,,,,,148.0,False
+1698,Contact with marine animal (W56),x,2,0,2,,,,,,,False
+1699,Bitten or stung by nonvenomous insect and other nonvenomous arthropods (W57),x,0,0,0,,,,,,,False
+1700,Bitten or struck by crocodile or alligator (W58),x,0,0,0,,,,,,,False
+1701,Bitten or crushed by other reptiles (W59),x,0,0,0,,,,,,,False
+1702,Contact with plant thorns and spines and sharp leaves (W60),x,0,0,0,,,,,,,False
+1703,Exposure to other and unspecified animate mechanical forces (W64),x,0,0,0,,,,,,,False
+1705,Drowning and submersion while in bath-tub (W65),x,5,5,10,,,,,,375.0,False
+1706,Drowning and submersion following fall into bath-tub (W66),x,1,1,2,,,,,,,False
+1707,Drowning and submersion while in swimming-pool (W67),x,10,3,13,,,,274.0,,326.0,False
+1708,Drowning and submersion following fall into swimming-pool (W68),x,13,9,22,,,0.1,516.0,433.0,949.0,False
+1709,Drowning and submersion while in natural water (W69),x,69,16,85,0.5,,0.3,2725.0,687.0,3427.0,False
+1710,Drowning and submersion following fall into natural water (W70),x,18,4,22,,,0.1,369.0,,467.0,False
+1711,Other specified drowning and submersion (W73),x,3,3,6,,,,,,324.0,False
+1712,Unspecified drowning and submersion (W74),x,7,2,9,,,,169.0,,218.0,False
+1714,Accidental suffocation and strangulation in bed (W75),x,4,7,11,,,,,,,False
+1715,Other accidental hanging and strangulation (W76),x,11,0,11,,,,650.0,,664.0,False
+1716,"Threat to breathing due to cave-in, falling earth and other substances (W77)",x,1,0,1,,,,,,,False
+1717,Inhalation of gastric contents (W78),x,4,4,8,,,,,,,False
+1718,Inhalation and ingestion of food causing obstruction of respiratory tract (W79),x,48,20,68,0.3,0.1,0.2,428.0,223.0,650.0,False
+1719,Inhalation and ingestion of other objects causing obstruction of respiratory tract (W80),x,50,46,96,0.4,0.2,0.3,253.0,97.0,351.0,False
+1720,Confined to or trapped in a low-oxygen environment (W81),x,2,0,2,,,,,,,False
+1721,Other specified threats to breathing (W83),x,5,2,7,,,,223.0,,279.0,False
+1722,Unspecified threat to breathing (W84),x,2,0,2,,,,,,,False
+1724,Exposure to electric transmission lines (W85),x,4,0,4,,,,,,,False
+1725,Exposure to other specified electric current (W86),x,0,1,1,,,,,,,False
+1726,Exposure to unspecified electric current (W87),x,3,1,4,,,,,,,False
+1727,Exposure to ionizing radiation (W88),x,0,0,0,,,,,,,False
+1728,Exposure to man-made visible and ultraviolet light (W89),x,0,0,0,,,,,,,False
+1729,Exposure to other nonionizing radiation (W90),x,0,0,0,,,,,,,False
+1730,Exposure to unspecified type of radiation (W91),x,0,0,0,,,,,,,False
+1731,Exposure to excessive heat of man-made origin (W92),x,0,0,0,,,,,,,False
+1732,Exposure to excessive cold of man-made origin (W93),x,0,0,0,,,,,,,False
+1733,Exposure to high and low air pressure and changes in air pressure (W94),x,1,0,1,,,,,,,False
+1734,Exposure to other and unspecified man-made environmental factors (W99),x,0,0,0,,,,,,,False
+1736,Exposure to uncontrolled fire in building or structure (X00),x,22,10,32,0.2,,0.1,547.0,329.0,870.0,False
+1737,"Exposure to uncontrolled fire, not in building or structure (X01)",x,2,0,2,,,,,,,False
+1738,Exposure to controlled fire in building or structure (X02),x,2,0,2,,,,,,,False
+1739,"Exposure to controlled fire, not in building or structure (X03)",x,1,0,1,,,,,,,False
+1740,Exposure to ignition of highly flammable material (X04),x,0,2,2,,,,,,,False
+1741,Exposure to ignition or melting of nightwear (X05),x,0,1,1,,,,,,,False
+1742,Exposure to ignition or melting of other clothing and apparel (X06),x,1,0,1,,,,,,,False
+1743,"Exposure to other specified smoke, fire and flames (X08)",x,0,0,0,,,,,,,False
+1744,"Exposure to unspecified smoke, fire and flames (X09)",x,5,1,6,,,,,,,False
+1746,"Contact with hot drinks, food, fats and cooking oils (X10)",x,0,0,0,,,,,,,False
+1747,Contact with hot tap-water (X11),x,2,1,3,,,,,,,False
+1748,Contact with other hot fluids (X12),x,0,0,0,,,,,,,False
+1749,Contact with steam and hot vapours (X13),x,0,0,0,,,,,,,False
+1750,Contact with hot air and gases (X14),x,0,0,0,,,,,,,False
+1751,Contact with hot household appliances (X15),x,0,0,0,,,,,,,False
+1752,"Contact with hot heating appliances, radiators and pipes (X16)",x,0,0,0,,,,,,,False
+1753,"Contact with hot engines, machinery and tools (X17)",x,0,0,0,,,,,,,False
+1754,Contact with other hot metals (X18),x,0,0,0,,,,,,,False
+1755,Contact with other and unspecified heat and hot substances (X19),x,0,0,0,,,,,,,False
+1757,Contact with venomous snakes and lizards (X20),x,5,4,9,,,,166.0,,221.0,False
+1758,Contact with venomous spiders (X21),x,0,0,0,,,,,,,False
+1759,Contact with scorpions (X22),x,0,0,0,,,,,,,False
+1760,"Contact with hornets, wasps and bees (X23)",x,6,2,8,,,,125.0,,169.0,False
+1761,Contact with centipedes and venomous millipedes (tropical) (X24),x,0,0,0,,,,,,,False
+1762,Contact with other specified venomous arthropods (X25),x,0,0,0,,,,,,,False
+1763,Contact with venomous marine animals and plants (X26),x,0,0,0,,,,,,,False
+1764,Contact with other specified venomous animals (X27),x,0,0,0,,,,,,,False
+1765,Contact with other specified venomous plants (X28),x,0,0,0,,,,,,,False
+1766,Contact with unspecified venomous animal or plant (X29),x,0,0,0,,,,,,,False
+1768,Exposure to excessive natural heat (X30),x,11,2,13,,,,352.0,,382.0,False
+1769,Exposure to excessive natural cold (X31),x,9,6,15,,,,178.0,,203.0,False
+1770,Exposure to sunlight (X32),x,0,0,0,,,,,,,False
+1771,Victim of lightning (X33),x,2,0,2,,,,,,,False
+1772,Victim of earthquake (X34),x,0,0,0,,,,,,,False
+1773,Victim of volcanic eruption (X35),x,0,0,0,,,,,,,False
+1774,"Victim of avalanche, landslide and other earth movements (X36)",x,0,0,0,,,,,,,False
+1775,Victim of cataclysmic storm (X37),x,0,0,0,,,,,,,False
+1776,Victim of flood (X38),x,1,0,1,,,,,,,False
+1777,Exposure to other and unspecified forces of nature (X39),x,0,0,0,,,,,,,False
+1779,"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics (X40)",x,6,9,15,,,,114.0,197.0,310.0,False
+1780,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified (X41)",x,102,56,158,0.8,0.4,0.6,3769.0,1636.0,5402.0,False
+1781,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified (X42)",x,222,59,281,1.9,0.5,1.2,8096.0,2125.0,10183.0,False
+1782,Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system (X43),x,3,0,3,,,,,,,False
+1783,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances (X44)",x,520,233,753,4.4,1.9,3.1,20044.0,7317.0,27333.0,False
+1784,Accidental poisoning by and exposure to alcohol (X45),x,58,26,84,0.5,0.2,0.3,1933.0,819.0,2740.0,False
+1785,Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours (X46),x,1,0,1,,,,,,,False
+1786,Accidental poisoning by and exposure to other gases and vapours (X47),x,11,2,13,,,,410.0,,517.0,False
+1787,Accidental poisoning by and exposure to pesticides (X48),x,1,0,1,,,,,,,False
+1788,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances (X49),x,2,2,4,,,,,,,False
+1790,Overexertion and strenuous or repetitive movements (X50),x,1,0,1,,,,,,,False
+1791,Travel and motion (X51),x,0,0,0,,,,,,,False
+1792,Prolonged stay in weightless environment (X52),x,0,0,0,,,,,,,False
+1793,Lack of food (X53),x,1,0,1,,,,,,,False
+1794,Lack of water (X54),x,0,0,0,,,,,,,False
+1795,Unspecified privation (X57),x,0,0,0,,,,,,,False
+1797,Exposure to other specified factors (X58),x,1,7,8,,,,,294.0,298.0,False
+1798,Exposure to unspecified factor (X59),x,446,517,963,3.3,2.6,2.9,2896.0,1247.0,4128.0,False
+1801,"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics (X60)",x,2,4,6,,,,,,,False
+1802,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified (X61)",x,51,49,100,0.4,0.4,0.4,1240.0,1015.0,2247.0,False
+1803,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified (X62)",x,22,14,36,0.2,,0.1,677.0,338.0,1010.0,False
+1804,Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system (X63),x,0,2,2,,,,,,,False
+1805,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances (X64)",x,116,140,256,0.9,1.0,1.0,3263.0,3599.0,6861.0,False
+1806,Intentional self-poisoning by and exposure to alcohol (X65),x,7,2,9,,,,178.0,,254.0,False
+1807,Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours (X66),x,1,0,1,,,,,,,False
+1808,Intentional self-poisoning by and exposure to other gases and vapours (X67),x,114,23,137,0.9,0.2,0.5,3678.0,835.0,4499.0,False
+1809,Intentional self-poisoning by and exposure to pesticides (X68),x,9,1,10,,,,68.0,,81.0,False
+1810,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances (X69),x,13,6,19,,,,331.0,,399.0,False
+1811,"Intentional self-harm by hanging, strangulation and suffocation (X70)",x,1458,355,1813,11.9,2.9,7.3,55411.0,14978.0,70417.0,False
+1812,Intentional self-harm by drowning and submersion (X71),x,22,18,40,0.2,,0.1,648.0,218.0,874.0,False
+1813,Intentional self-harm by handgun discharge (X72),x,26,1,27,0.2,,0.1,518.0,,590.0,False
+1814,"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",x,124,3,127,0.9,,0.5,2325.0,,2426.0,False
+1815,Intentional self-harm by other and unspecified firearm discharge (X74),x,15,0,15,,,,243.0,,244.0,False
+1816,Intentional self-harm by explosive material (X75),x,1,0,1,,,,,,,False
+1817,"Intentional self-harm by smoke, fire and flames (X76)",x,23,6,29,0.2,,0.1,657.0,192.0,847.0,False
+1818,"Intentional self-harm by steam, hot vapours and hot objects (X77)",x,0,0,0,,,,,,,False
+1819,Intentional self-harm by sharp object (X78),x,61,10,71,0.5,,0.3,1664.0,318.0,1970.0,False
+1820,Intentional self-harm by blunt object (X79),x,1,0,1,,,,,,,False
+1821,Intentional self-harm by jumping from a high place (X80),x,121,45,166,1.0,0.4,0.7,4189.0,1611.0,5806.0,False
+1822,Intentional self-harm by jumping or lying before moving object (X81),x,62,24,86,0.5,0.2,0.4,2538.0,1140.0,3676.0,False
+1823,Intentional self-harm by crashing of motor vehicle (X82),x,31,6,37,0.3,,0.2,1300.0,215.0,1524.0,False
+1824,Intentional self-harm by other specified means (X83),x,6,1,7,,,,208.0,,255.0,False
+1825,Intentional self-harm by unspecified means (X84),x,30,16,46,0.2,,0.2,896.0,417.0,1308.0,False
+1827,"Assault by drugs, medicaments and biological substances (X85)",,1,1,2,,,,,,,False
+1828,Assault by corrosive substance (X86),,0,0,0,,,,,,,False
+1829,Assault by pesticides (X87),,0,0,0,,,,,,,False
+1830,Assault by gases and vapours (X88),,0,0,0,,,,,,,False
+1831,Assault by other specified chemicals and noxious substances (X89),,0,0,0,,,,,,,False
+1832,Assault by unspecified chemical or noxious substance (X90),,0,0,0,,,,,,,False
+1833,"Assault by hanging, strangulation and suffocation (X91)",,0,3,3,,,,,,,False
+1834,Assault by drowning and submersion (X92),,0,0,0,,,,,,,False
+1835,Assault by handgun discharge (X93),,3,1,4,,,,,,,False
+1836,"Assault by rifle, shotgun and larger firearm discharge (X94)",,12,4,16,,,,581.0,,721.0,False
+1837,Assault by other and unspecified firearm discharge (X95),,10,0,10,,,,376.0,,378.0,False
+1838,Assault by explosive material (X96),,0,0,0,,,,,,,False
+1839,"Assault by smoke, fire and flames (X97)",,2,2,4,,,,,,,False
+1840,"Assault by steam, hot vapours and hot objects (X98)",,0,0,0,,,,,,,False
+1841,Assault by sharp object (X99),,59,24,83,0.5,0.2,0.3,2405.0,681.0,3085.0,False
+1842,Assault by blunt object (Y00),,7,6,13,,,,150.0,218.0,364.0,False
+1843,Assault by pushing from high place (Y01),,0,0,0,,,,,,,False
+1844,Assault by pushing or placing victim before moving object (Y02),,1,0,1,,,,,,,False
+1845,Assault by crashing of motor vehicle (Y03),,4,3,7,,,,,,275.0,False
+1846,Assault by bodily force (Y04),,19,5,24,,,0.1,773.0,260.0,1032.0,False
+1847,Sexual assault by bodily force (Y05),,0,0,0,,,,,,,False
+1848,Neglect and abandonment (Y06),,0,1,1,,,,,,,False
+1849,Other maltreatment (Y07),,0,0,0,,,,,,,False
+1850,Assault by other specified means (Y08),,1,0,1,,,,,,,False
+1851,Assault by unspecified means (Y09),,35,24,59,0.3,0.2,0.2,1299.0,1096.0,2374.0,False
+1853,"Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent (Y10)",,1,4,5,,,,,,191.0,False
+1854,"Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, (Y11)",,9,5,14,,,,346.0,130.0,478.0,False
+1855,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent (Y12)",,9,3,12,,,,413.0,,502.0,False
+1856,"Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent (Y13)",,1,0,1,,,,,,,False
+1857,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent (Y14)",,32,33,65,0.3,0.3,0.3,1255.0,1062.0,2316.0,False
+1858,"Poisoning by and exposure to alcohol, undetermined intent (Y15)",,4,2,6,,,,,,144.0,False
+1859,"Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours, undetermined intent (Y16)",,0,0,0,,,,,,,False
+1860,"Poisoning by and exposure to other gases and vapours, undetermined intent (Y17)",,6,1,7,,,,218.0,,225.0,False
+1861,"Poisoning by and exposure to pesticides, undetermined intent (Y18)",,0,0,0,,,,,,,False
+1862,"Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent (Y19)",,0,0,0,,,,,,,False
+1863,"Hanging, strangulation and suffocation, undetermined intent (Y20)",,7,6,13,,,,311.0,109.0,422.0,False
+1864,"Drowning and submersion, undetermined intent (Y21)",,8,1,9,,,,201.0,,248.0,False
+1865,"Handgun discharge, undetermined intent (Y22)",,0,0,0,,,,,,,False
+1866,"Rifle, shotgun and larger firearm discharge, undetermined intent (Y23)",,1,1,2,,,,,,,False
+1867,"Other and unspecified firearm discharge, undetermined intent (Y24)",,4,0,4,,,,,,,False
+1868,"Contact with explosive material, undetermined intent (Y25)",,0,0,0,,,,,,,False
+1869,"Exposure to smoke, fire and flames, undetermined intent (Y26)",,6,1,7,,,,179.0,,217.0,False
+1870,"Contact with steam, hot vapours and hot objects, undetermined intent (Y27)",,0,0,0,,,,,,,False
+1871,"Contact with sharp object, undetermined intent (Y28)",,6,1,7,,,,179.0,,192.0,False
+1872,"Contact with blunt object, undetermined intent (Y29)",,2,0,2,,,,,,,False
+1873,"Falling, jumping or pushed from a high place, undetermined intent (Y30)",,7,5,12,,,,231.0,186.0,420.0,False
+1874,"Falling, lying or running before or into moving object, undetermined intent (Y31)",,4,2,6,,,,,,292.0,False
+1875,"Crashing of motor vehicle, undetermined intent (Y32)",,11,5,16,,,,420.0,178.0,602.0,False
+1876,"Other specified events, undetermined intent (Y33)",,0,2,2,,,,,,,False
+1877,"Unspecified event, undetermined intent (Y34)",,39,14,53,0.3,,0.2,1510.0,445.0,1955.0,False
+1879,Legal intervention (Y35),,9,0,9,,,,435.0,,435.0,False
+1880,Operations of war (Y36),,0,0,0,,,,,,,False
+1883,Systemic antibiotics (Y40),x,2,1,3,,,,,,,False
+1884,Other systemic anti-infectives and antiparasitics (Y41),x,0,0,0,,,,,,,False
+1885,"Hormones and their synthetic substitutes and antagonists, not elsewhere classified (Y42)",x,0,0,0,,,,,,,False
+1886,Primarily systemic agents (Y43),x,0,0,0,,,,,,,False
+1887,Agents primarily affecting blood constituents (Y44),x,0,2,2,,,,,,,False
+1888,"Analgesics, antipyretics and anti-inflammatory drugs (Y45)",x,0,0,0,,,,,,,False
+1889,Antiepileptics and antiparkinsonism drugs (Y46),x,0,0,0,,,,,,,False
+1890,"Sedatives, hypnotics and antianxiety drugs (Y47)",x,0,0,0,,,,,,,False
+1891,Anaesthetics and therapeutic gases (Y48),x,1,1,2,,,,,,,False
+1892,"Psychotropic drugs, not elsewhere classified (Y49)",x,0,0,0,,,,,,,False
+1893,"Central nervous system stimulants, not elsewhere classified (Y50)",x,0,0,0,,,,,,,False
+1894,Drugs primarily affecting the autonomic nervous system (Y51),x,0,0,0,,,,,,,False
+1895,Agents primarily affecting the cardiovascular system (Y52),x,0,1,1,,,,,,,False
+1896,Agents primarily affecting the gastrointestinal system (Y53),x,0,0,0,,,,,,,False
+1897,Agents primarily affecting water-balance and mineral and uric acid metabolism (Y54),x,0,0,0,,,,,,,False
+1898,Agents primarily acting on smooth and skeletal muscles and the respiratory system (Y55),x,0,1,1,,,,,,,False
+1899,"Topical agents primarily affecting skin and mucous membrane and ophthalmological, otorhinolaryngological and dental drugs (Y56)",x,0,0,0,,,,,,,False
+1900,Other and unspecified drugs and medicaments (Y57),x,3,5,8,,,,,,109.0,False
+1901,Bacterial vaccines (Y58),x,0,0,0,,,,,,,False
+1902,Other and unspecified vaccines and biological substances (Y59),x,0,0,0,,,,,,,False
+1904,"Unintentional cut, puncture, perforation or haemorrhage during surgical and medical care (Y60)",x,6,1,7,,,,,,,False
+1905,Foreign object accidentally left in body during surgical and medical care (Y61),x,0,0,0,,,,,,,False
+1906,Failure of sterile precautions during surgical and medical care (Y62),x,0,0,0,,,,,,,False
+1907,Failure in dosage during surgical and medical care (Y63),x,0,0,0,,,,,,,False
+1908,Contaminated medical or biological substances (Y64),x,0,0,0,,,,,,,False
+1909,Other misadventures during surgical and medical care (Y65),x,1,0,1,,,,,,,False
+1910,Nonadministration of surgical and medical care (Y66),x,0,0,0,,,,,,,False
+1911,Unspecified misadventure during surgical and medical care (Y69),x,0,0,0,,,,,,,False
+1913,Anaesthesiology devices associated with adverse incidents (Y70),x,0,0,0,,,,,,,False
+1914,Cardiovascular devices associated with adverse incidents (Y71),x,0,0,0,,,,,,,False
+1915,Otorhinolaryngological devices associated with adverse incidents (Y72),x,0,0,0,,,,,,,False
+1916,Gastroenterology and urology devices associated with adverse incidents (Y73),x,0,0,0,,,,,,,False
+1917,General hospital and personal-use devices associated with adverse incidents (Y74),x,0,0,0,,,,,,,False
+1918,Neurological devices associated with adverse incidents (Y75),x,0,0,0,,,,,,,False
+1919,Obstetric and gynaecological devices associated with adverse incidents (Y76),x,0,0,0,,,,,,,False
+1920,Ophthalmic devices associated with adverse incidents (Y77),x,0,0,0,,,,,,,False
+1921,Radiological devices associated with adverse incidents (Y78),x,0,0,0,,,,,,,False
+1922,Orthopaedic devices associated with adverse incidents (Y79),x,0,1,1,,,,,,,False
+1923,Physical medicine devices associated with adverse incidents (Y80),x,0,0,0,,,,,,,False
+1924,General- and plastic-surgery devices associated with adverse incidents (Y81),x,0,0,0,,,,,,,False
+1925,Other and unspecified medical devices associated with adverse incidents (Y82),x,0,0,0,,,,,,,False
+1927,"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (Y83)",x,10,9,19,,,,38.0,107.0,147.0,False
+1928,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (Y84)",x,3,2,5,,,,,,,False
+1931,Sequelae of transport accidents (Y85),x,13,7,20,,,0.1,141.0,144.0,286.0,False
+1932,Sequelae of other accidents (Y86),x,45,13,58,0.3,,0.2,435.0,152.0,581.0,False
+1933,"Sequelae of intentional self-harm, assault and events of undetermined intent (Y87)",x,5,2,7,,,,197.0,,311.0,False
+1934,Sequelae with surgical and medical care as external cause (Y88),,4,3,7,,,,,,,False
+1935,Sequelae of other external causes (Y89),x,0,1,1,,,,,,,False
+1937,Evidence of alcohol involvement determined by blood alcohol level (Y90),,0,0,0,,,,,,,False
+1938,Evidence of alcohol involvement determined by level of intoxication (Y91),,0,0,0,,,,,,,False
+1939,Nosocomial condition (Y95),,0,0,0,,,,,,,False
+1940,Work-related condition (Y96),,0,0,0,,,,,,,False
+1941,Environmental-pollution-related condition (Y97),x,0,0,0,,,,,,,False
+1942,Lifestyle-related condition (Y98),,0,0,0,,,,,,,False

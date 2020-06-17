@@ -1,0 +1,597 @@
+cause,avoidable,men,women,people,Males,Females,Persons,Males.1,Females.1,Persons.1,header
+CHAPTER XX External causes of morbidity and mortality (V01-Y98),x,6933,3878,10811,54.4,24.6,39.1,180075.0,61596.0,241612.0,True
+Chronic ischaemic heart disease (I25),x,6081,3768,9849,44.0,19.6,30.8,35948.0,8385.0,43838.0,False
+Cerebrovascular diseases (I60-I69),x,4164,5808,9972,30.4,30.4,30.7,15402.0,11306.0,26642.0,True
+Acute myocardial infarction (I21),x,4016,3306,7322,29.2,17.1,22.7,18708.0,5558.0,24032.0,False
+Other chronic obstructive pulmonary disease (J44),x,3371,3072,6443,24.3,17.6,20.5,11243.0,9469.0,20672.0,False
+Diabetes mellitus (E10-E14),x,2546,2110,4656,18.4,11.8,14.9,13923.0,7817.0,21626.0,True
+"Stroke, not specified as haemorrhage or infarction (I64)",x,1617,2591,4208,11.8,12.7,12.5,2758.0,1465.0,4203.0,False
+Intentional self-harm (X60-X84),x,2316,726,3042,18.6,5.7,12.1,80170.0,25429.0,105580.0,True
+Malignant neoplasm of prostate (C61),x,3264,0,3264,23.6,,10.3,7686.0,,7518.0,False
+Malignant neoplasm of breast  (C50-C50),x,35,2999,3034,0.3,19.1,10.2,256.0,30492.0,31240.0,True
+Malignant neoplasm of breast (C50),x,35,2999,3034,0.3,19.1,10.2,256.0,30492.0,31240.0,False
+Falls (W00-W19),x,1428,1524,2952,10.4,7.8,9.0,5106.0,2247.0,7332.0,True
+"Pneumonia, organism unspecified (J18)",x,1304,1543,2847,9.5,7.6,8.4,3249.0,2124.0,5368.0,False
+Heart failure (I50),x,1169,1567,2736,8.5,7.7,8.1,1409.0,877.0,2278.0,False
+Non-insulin-dependent diabetes mellitus (E11),x,1278,1063,2341,9.2,5.9,7.4,5660.0,3154.0,8767.0,False
+"Intentional self-harm by hanging, strangulation and suffocation (X70)",x,1458,355,1813,11.9,2.9,7.3,55411.0,14978.0,70417.0,False
+Melanoma and other malignant neoplasms of skin  (C43-C44),x,1416,678,2094,10.2,4.1,6.9,9454.0,4565.0,13917.0,True
+Malignant neoplasm of rectosigmoid junction (C19),x,1125,940,2065,8.1,5.9,6.9,9780.0,7411.0,17144.0,False
+Unspecified fall (W19),x,1044,1210,2254,7.6,6.1,6.8,1891.0,1034.0,2912.0,False
+Renal failure (N17-N19),x,1013,1109,2122,7.4,5.7,6.5,2386.0,1705.0,4082.0,True
+Unspecified diabetes mellitus (E14),x,1101,891,1992,7.9,5.0,6.3,6039.0,2931.0,8911.0,False
+Accidental poisoning by and exposure to noxious substances (X40-X49),x,926,387,1313,7.8,3.1,5.4,34507.0,12356.0,46777.0,True
+Transport accidents (V01-V99),x,989,331,1320,7.8,2.5,5.1,33283.0,10855.0,44214.0,True
+Malignant neoplasm of colon (C18),x,792,720,1512,5.7,4.3,4.9,4897.0,4182.0,9057.0,False
+Malignant melanoma of skin (C43),x,965,464,1429,7.0,2.9,4.8,7425.0,3887.0,11238.0,False
+Other sepsis (A41),x,663,747,1410,4.9,3.9,4.4,2310.0,1766.0,4059.0,False
+Intracerebral haemorrhage (I61),x,608,740,1348,4.4,4.2,4.3,3630.0,1901.0,5503.0,False
+Cerebral infarction (I63),x,590,778,1368,4.3,4.1,4.2,2264.0,1260.0,3507.0,False
+Chronic kidney disease (N18),x,686,669,1355,5.0,3.5,4.2,1791.0,1121.0,2902.0,False
+Nonrheumatic aortic valve disorders (I35),x,538,541,1079,3.9,2.7,3.2,1225.0,427.0,1636.0,False
+"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances (X44)",x,520,233,753,4.4,1.9,3.1,20044.0,7317.0,27333.0,False
+Accidental exposure to other and unspecified factors (X58-X59),x,447,524,971,3.3,2.7,3.0,2904.0,1541.0,4426.0,True
+Other nontraumatic intracranial haemorrhage (I62),x,462,485,947,3.4,2.7,3.0,2054.0,1628.0,3671.0,False
+"Malignant neoplasm of kidney, except renal pelvis (C64)",x,579,296,875,4.2,1.8,2.9,4268.0,1457.0,5675.0,False
+Exposure to unspecified factor (X59),x,446,517,963,3.3,2.6,2.9,2896.0,1247.0,4128.0,False
+Hypertensive heart disease (I11),x,342,570,912,2.5,2.9,2.8,1847.0,771.0,2598.0,False
+Sequelae of cerebrovascular disease (I69),x,425,466,891,3.1,2.4,2.7,755.0,641.0,1389.0,False
+Car occupant injured in transport accident (V40-V49),x,464,214,678,3.7,1.6,2.7,17092.0,7380.0,24531.0,True
+Malignant neoplasm of rectum (C20),x,441,272,713,3.2,1.6,2.4,3224.0,1977.0,5181.0,False
+CHAPTER XVI Certain conditions originating in the perinatal period (P00-P96),x,311,236,547,2.5,2.0,2.3,,,331.0,True
+Other malignant neoplasms of skin (C44),x,451,214,665,3.2,1.2,2.1,2029.0,678.0,2679.0,False
+Other cerebrovascular diseases (I67),x,259,402,661,1.9,2.0,2.0,712.0,761.0,1468.0,False
+Emphysema (J43),x,396,233,629,2.8,1.4,2.0,2067.0,968.0,3015.0,False
+Subarachnoid haemorrhage (I60),x,203,346,549,1.5,2.2,1.9,3228.0,3650.0,6900.0,False
+Essential (primary) hypertension (I10),x,201,391,592,1.5,2.0,1.8,604.0,284.0,883.0,False
+Complications and ill-defined descriptions of heart disease (I51),x,228,228,456,1.7,1.3,1.5,1918.0,1446.0,3343.0,False
+Lymphoid leukaemia (C91),x,264,168,432,1.9,1.0,1.4,2036.0,1311.0,3338.0,False
+Unspecified kidney failure (N19),x,190,249,439,1.4,1.2,1.3,369.0,205.0,573.0,False
+Chronic rheumatic heart diseases (I05-I09),x,129,243,372,1.0,1.4,1.2,1032.0,1139.0,2177.0,True
+Asthma (J45),x,134,246,380,1.0,1.4,1.2,2012.0,1409.0,3426.0,False
+"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified (X42)",x,222,59,281,1.9,0.5,1.2,8096.0,2125.0,10183.0,False
+Hypertensive renal disease (I12),x,155,200,355,1.1,1.0,1.1,392.0,126.0,513.0,False
+Insulin-dependent diabetes mellitus (E10),x,167,155,322,1.3,1.0,1.1,2224.0,1696.0,3911.0,False
+Other acute ischaemic heart diseases (I24),x,167,176,343,1.2,0.9,1.1,469.0,142.0,604.0,False
+"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances (X64)",x,116,140,256,0.9,1.0,1.0,3263.0,3599.0,6861.0,False
+"Fall on same level from slipping, tripping and stumbling (W01)",x,165,171,336,1.2,0.9,1.0,649.0,306.0,951.0,False
+Acute renal failure (N17),x,137,191,328,1.0,1.0,1.0,227.0,379.0,607.0,False
+Car occupant injured in collision with fixed or stationary object (V47),x,198,59,257,1.6,0.5,1.0,8045.0,2183.0,10282.0,False
+Pulmonary embolism (I26),x,164,150,314,1.2,0.9,1.0,1366.0,1212.0,2570.0,False
+Cellulitis (L03),x,142,155,297,1.0,0.8,0.9,407.0,306.0,712.0,False
+"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery (P00-P04)",x,127,97,224,1.0,0.8,0.9,,,,True
+Pedestrian injured in transport accident (V01-V09),x,152,75,227,1.2,0.5,0.8,4207.0,2116.0,6339.0,True
+Hypertensive heart and renal disease (I13),x,102,175,277,0.7,0.9,0.8,93.0,123.0,217.0,False
+Malignant neoplasm of cervix uteri (C53),x,0,232,232,,1.6,0.8,,4340.0,4393.0,False
+"Car occupant injured in collision with car, pick-up truck or van (V43)",x,125,90,215,1.0,0.7,0.8,3667.0,2712.0,6373.0,False
+Motorcycle rider injured in transport accident (V20-V29),x,205,10,215,1.6,,0.8,7256.0,412.0,7674.0,True
+Acute and subacute endocarditis (I33),x,122,68,190,0.9,0.4,0.7,1549.0,680.0,2215.0,False
+Intentional self-harm by jumping from a high place (X80),x,121,45,166,1.0,0.4,0.7,4189.0,1611.0,5806.0,False
+Accidental drowning and submersion (W65-W74),x,126,43,169,1.0,0.3,0.7,4407.0,1665.0,6086.0,True
+Other accidental threats to breathing (W75-W84),x,127,79,206,0.9,0.5,0.7,1769.0,392.0,2180.0,True
+"Pedestrian injured in collision with car, pick-up truck or van (V03)",x,107,62,169,0.8,0.4,0.6,3014.0,1714.0,4741.0,False
+Nonrheumatic mitral valve disorders (I34),x,63,136,199,0.5,0.7,0.6,200.0,325.0,526.0,False
+"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified (X41)",x,102,56,158,0.8,0.4,0.6,3769.0,1636.0,5402.0,False
+"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",x,124,3,127,0.9,,0.5,2325.0,,2426.0,False
+Intentional self-poisoning by and exposure to other gases and vapours (X67),x,114,23,137,0.9,0.2,0.5,3678.0,835.0,4499.0,False
+Malignant neoplasm of thyroid gland (C73),x,67,82,149,0.5,0.5,0.5,553.0,403.0,953.0,False
+Rheumatic mitral valve diseases (I05),x,45,90,135,0.3,0.5,0.4,323.0,496.0,820.0,False
+Car occupant injured in noncollision transport accident (V48),x,74,26,100,0.6,0.2,0.4,3088.0,997.0,4099.0,False
+"Disorders related to short gestation and low birth weight, not elsewhere classified (P07)",x,58,31,89,0.5,0.3,0.4,,,,False
+"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified (X61)",x,51,49,100,0.4,0.4,0.4,1240.0,1015.0,2247.0,False
+Multiple valve diseases (I08),x,47,65,112,0.3,0.4,0.4,254.0,87.0,339.0,False
+Disorders related to length of gestation and fetal growth (P05-P08),x,64,34,98,0.5,0.3,0.4,,,,True
+Intentional self-harm by jumping or lying before moving object (X81),x,62,24,86,0.5,0.2,0.4,2538.0,1140.0,3676.0,False
+Fetus and newborn affected by maternal complications of pregnancy (P01),x,51,42,93,0.4,0.4,0.4,,,,False
+Duodenal ulcer (K26),x,69,54,123,0.5,0.3,0.4,516.0,206.0,716.0,False
+Exposure to inanimate mechanical forces (W20-W49),x,74,13,87,0.6,,0.3,2261.0,212.0,2483.0,True
+Drowning and submersion while in natural water (W69),x,69,16,85,0.5,,0.3,2725.0,687.0,3427.0,False
+Car occupant injured in collision with heavy transport vehicle or bus (V44),x,51,27,78,0.4,0.2,0.3,1644.0,1107.0,2746.0,False
+Fall involving bed (W06),x,43,40,83,0.3,0.2,0.3,92.0,129.0,221.0,False
+Accidental poisoning by and exposure to alcohol (X45),x,58,26,84,0.5,0.2,0.3,1933.0,819.0,2740.0,False
+Fall on and from stairs and steps (W10),x,48,31,79,0.4,0.2,0.3,574.0,210.0,784.0,False
+Inhalation and ingestion of other objects causing obstruction of respiratory tract (W80),x,50,46,96,0.4,0.2,0.3,253.0,97.0,351.0,False
+Motorcycle rider injured in collision with fixed or stationary object (V27),x,75,2,77,0.6,,0.3,2754.0,,2787.0,False
+"Motorcycle rider injured in collision with car, pick-up truck or van (V23)",x,66,4,70,0.5,,0.3,2421.0,,2646.0,False
+Malignant neoplasm of anus and anal canal (C21),x,35,49,84,0.2,0.3,0.3,242.0,388.0,633.0,False
+Other disorders originating in the perinatal period (P90-P96),x,40,40,80,0.3,0.3,0.3,,,,True
+Influenza due to other identified influenza virus (J10),x,46,60,106,0.3,0.3,0.3,367.0,525.0,881.0,False
+Intentional self-harm by sharp object (X78),x,61,10,71,0.5,,0.3,1664.0,318.0,1970.0,False
+"Fetus and newborn affected by complications of placenta, cord and membranes (P02)",x,42,29,71,0.3,0.2,0.3,,,,False
+Inhalation and ingestion of food causing obstruction of respiratory tract (W79),x,48,20,68,0.3,0.1,0.2,428.0,223.0,650.0,False
+Hodgkin lymphoma (C81),x,39,29,68,0.3,0.2,0.2,402.0,137.0,538.0,False
+Rheumatic tricuspid valve diseases (I07),x,12,40,52,,0.2,0.2,,,57.0,False
+Other rheumatic heart diseases (I09),x,20,43,63,0.2,0.3,0.2,420.0,475.0,900.0,False
+Complications of medical and surgical care (Y40-Y84),x,26,24,50,0.2,0.2,0.2,229.0,276.0,506.0,True
+"Viral pneumonia, not elsewhere classified (J12)",x,21,28,49,0.2,0.2,0.2,123.0,282.0,402.0,False
+"Bacterial pneumonia, not elsewhere classified (J15)",x,30,24,54,0.2,0.1,0.2,333.0,230.0,560.0,False
+Intentional self-harm by unspecified means (X84),x,30,16,46,0.2,,0.2,896.0,417.0,1308.0,False
+Gastric ulcer (K25),x,25,38,63,0.2,0.2,0.2,163.0,176.0,338.0,False
+"Peptic ulcer, site unspecified (K27)",x,36,37,73,0.3,0.2,0.2,243.0,43.0,284.0,False
+"Exposure to smoke, fire and flames (X00-X09)",x,33,14,47,0.2,,0.2,626.0,350.0,970.0,True
+Intentional self-harm by crashing of motor vehicle (X82),x,31,6,37,0.3,,0.2,1300.0,215.0,1524.0,False
+Respiratory and cardiovascular disorders specific to the perinatal period (P20-P29),x,30,17,47,0.2,,0.2,,,,True
+Other land transport accidents (V80-V89),x,40,7,47,0.3,,0.2,1068.0,,1175.0,True
+Other conditions originating in the perinatal period (P96),x,21,27,48,0.2,0.2,0.2,,,,False
+Sequelae of other accidents (Y86),x,45,13,58,0.3,,0.2,435.0,152.0,581.0,False
+"Intentional self-harm by smoke, fire and flames (X76)",x,23,6,29,0.2,,0.1,657.0,192.0,847.0,False
+"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified (X62)",x,22,14,36,0.2,,0.1,677.0,338.0,1010.0,False
+Intentional self-harm by handgun discharge (X72),x,26,1,27,0.2,,0.1,518.0,,590.0,False
+Exposure to forces of nature (X30-X39),x,23,8,31,0.2,,0.1,602.0,,655.0,True
+Exposure to uncontrolled fire in building or structure (X00),x,22,10,32,0.2,,0.1,547.0,329.0,870.0,False
+Sequelae of transport accidents (Y85),x,13,7,20,,,0.1,141.0,144.0,286.0,False
+Intentional self-harm by drowning and submersion (X71),x,22,18,40,0.2,,0.1,648.0,218.0,874.0,False
+Streptococcal sepsis (A40),x,14,10,24,,,0.1,134.0,,183.0,False
+Drowning and submersion following fall into natural water (W70),x,18,4,22,,,0.1,369.0,,467.0,False
+Pedal cyclist injured in transport accident (V10-V19),x,35,4,39,0.3,,0.1,950.0,,1081.0,True
+Human immunodeficiency virus [HIV] disease  (B20-B24),x,27,2,29,0.2,,0.1,524.0,,561.0,True
+"Influenza, virus not identified (J11)",x,12,16,28,,,0.1,44.0,,69.0,False
+"Bronchitis, not specified as acute or chronic (J40)",x,7,15,22,,,0.1,,,,False
+Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy (P00),x,17,12,29,,,0.1,,,,False
+Fetus and newborn affected by other complications of labour and delivery (P03),x,17,13,30,,,0.1,,,,False
+Infections specific to the perinatal period (P35-P39),x,18,18,36,,,0.1,,,,True
+Haemorrhagic and haematological disorders of fetus and newborn (P50-P61),x,17,12,29,,,0.1,,,,True
+Intracranial nontraumatic haemorrhage of fetus and newborn (P52),x,15,8,23,,,0.1,,,,False
+Digestive system disorders of fetus and newborn (P75-P78),x,10,13,23,,,0.1,,,,True
+Other disturbances of cerebral status of newborn (P91),x,19,12,31,,,0.1,,,,False
+Pedestrian injured in collision with heavy transport vehicle or bus (V04),x,20,10,30,0.2,,0.1,662.0,242.0,907.0,False
+Motorcycle rider injured in noncollision transport accident (V28),x,26,2,28,0.2,,0.1,815.0,,940.0,False
+Drowning and submersion following fall into swimming-pool (W68),x,13,9,22,,,0.1,516.0,433.0,949.0,False
+Car occupant injured in other and unspecified transport accidents (V49),x,12,10,22,,,0.1,505.0,281.0,786.0,False
+Occupant of heavy transport vehicle injured in transport accident (V60-V69),x,34,2,36,0.3,,0.1,1129.0,,1179.0,True
+Water transport accidents (V90-V94),x,29,4,33,0.2,,0.1,809.0,,1011.0,True
+Accident to watercraft causing drowning and submersion (V90),x,17,3,20,,,0.1,458.0,,612.0,False
+Air and space transport accidents (V95-V97),x,21,6,27,0.2,,0.1,445.0,228.0,674.0,True
+Accident to powered aircraft causing injury to occupant (V95),x,17,5,22,,,0.1,379.0,180.0,560.0,False
+Fall involving chair (W07),x,18,21,39,,0.1,0.1,29.0,88.0,117.0,False
+Fall on and from ladder (W11),x,20,2,22,0.1,,0.1,146.0,,149.0,False
+"Fall from, out of or through building or structure (W13)",x,37,0,37,0.3,,0.1,935.0,,937.0,False
+Other fall on same level (W18),x,21,23,44,0.2,0.1,0.1,77.0,117.0,190.0,False
+"Struck by thrown, projected or falling object (W20)",x,18,3,21,,,0.1,637.0,,732.0,False
+Bacterial sepsis of newborn (P36),x,13,12,25,,,0.1,,,,False
+Scarlet fever (A38),x,0,0,0,,,,,,,False
+Meningococcal infection (A39),x,6,7,13,,,,,300.0,483.0,False
+Erysipelas (A46),x,0,0,0,,,,,,,False
+Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases (B20),x,14,0,14,,,,304.0,,301.0,False
+Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms (B21),x,2,1,3,,,,,,,False
+Human immunodeficiency virus [HIV] disease resulting in other specified diseases (B22),x,3,0,3,,,,,,,False
+Human immunodeficiency virus [HIV] disease resulting in other conditions (B23),x,3,0,3,,,,,,,False
+Unspecified human immunodeficiency virus [HIV] disease (B24),x,5,1,6,,,,,,,False
+Malnutrition-related diabetes mellitus (E12),x,0,0,0,,,,,,,False
+Other specified diabetes mellitus (E13),x,0,1,1,,,,,,,False
+"Bacterial meningitis, not elsewhere classified (G00)",x,6,8,14,,,,,162.0,165.0,False
+Meningitis due to other and unspecified causes (G03),x,7,2,9,,,,198.0,,210.0,False
+Acute rheumatic fever (I00-I02),x,2,7,9,,,,,,,True
+Rheumatic fever without mention of heart involvement (I00),x,2,6,8,,,,,,,False
+Rheumatic fever with heart involvement (I01),x,0,1,1,,,,,,,False
+Rheumatic chorea (I02),x,0,0,0,,,,,,,False
+Rheumatic aortic valve diseases (I06),x,5,5,10,,,,,,,False
+Angina pectoris (I20),x,5,14,19,,,,,,,False
+Subsequent myocardial infarction (I22),x,0,0,0,,,,,,,False
+Certain current complications following acute myocardial infarction (I23),x,0,0,0,,,,,,,False
+Nonrheumatic tricuspid valve disorders (I36),x,0,4,4,,,,,,,False
+Pulmonary valve disorders (I37),x,0,1,1,,,,,,,False
+"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",x,0,0,0,,,,,,,False
+"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",x,0,0,0,,,,,,,False
+Acute pharyngitis (J02),x,0,1,1,,,,,,,False
+Pneumonia due to Streptococcus pneumoniae (J13),x,7,2,9,,,,,,144.0,False
+Pneumonia due to Haemophilus influenzae (J14),x,2,0,2,,,,,,,False
+"Pneumonia due to other infectious organisms, not elsewhere classified (J16)",x,0,0,0,,,,,,,False
+Simple and mucopurulent chronic bronchitis (J41),x,0,0,0,,,,,,,False
+Unspecified chronic bronchitis (J42),x,9,10,19,,,,,105.0,145.0,False
+Status asthmaticus (J46),x,5,4,9,,,,216.0,,449.0,False
+"CHAPTER XV Pregnancy, childbirth and the puerperium (O00-O99)",x,0,15,15,,,,,687.0,687.0,True
+Pregnancy with abortive outcome (O00-O08),x,0,1,1,,,,,,,True
+Ectopic pregnancy (O00),x,0,0,0,,,,,,,False
+Hydatidiform mole (O01),x,0,1,1,,,,,,,False
+Other abnormal products of conception (O02),x,0,0,0,,,,,,,False
+Spontaneous abortion (O03),x,0,0,0,,,,,,,False
+Medical abortion (O04),x,0,0,0,,,,,,,False
+Other abortion (O05),x,0,0,0,,,,,,,False
+Unspecified abortion (O06),x,0,0,0,,,,,,,False
+Failed attempted abortion (O07),x,0,0,0,,,,,,,False
+Complications following abortion and ectopic and molar pregnancy (O08),x,0,0,0,,,,,,,False
+"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium (O10-O16)",x,0,0,0,,,,,,,True
+"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium (O10)",x,0,0,0,,,,,,,False
+Pre-existing hypertensive disorder with superimposed proteinuria (O11),x,0,0,0,,,,,,,False
+Gestational [pregnancy-induced] oedema and proteinuria without hypertension (O12),x,0,0,0,,,,,,,False
+Gestational [pregnancy-induced] hypertension without significant proteinuria (O13),x,0,0,0,,,,,,,False
+Gestational [pregnancy-induced] hypertension with significant proteinuria (O14),x,0,0,0,,,,,,,False
+Eclampsia (O15),x,0,0,0,,,,,,,False
+Unspecified maternal hypertension (O16),x,0,0,0,,,,,,,False
+Other maternal disorders predominantly related to pregnancy (O20-O29),x,0,1,1,,,,,,,True
+Haemorrhage in early pregnancy (O20),x,0,0,0,,,,,,,False
+Excessive vomiting in pregnancy (O21),x,0,0,0,,,,,,,False
+Venous complications in pregnancy (O22),x,0,0,0,,,,,,,False
+Infections of genitourinary tract in pregnancy (O23),x,0,0,0,,,,,,,False
+Diabetes mellitus in pregnancy (O24),x,0,0,0,,,,,,,False
+Malnutrition in pregnancy (O25),x,0,0,0,,,,,,,False
+Maternal care for other conditions predominantly related to pregnancy (O26),x,0,1,1,,,,,,,False
+Abnormal findings on antenatal screening of mother (O28),x,0,0,0,,,,,,,False
+Complications of anaesthesia during pregnancy (O29),x,0,0,0,,,,,,,False
+Maternal care related to the fetus and amniotic cavity and possible delivery problems (O30-O48),x,0,2,2,,,,,,,True
+Multiple gestation (O30),x,0,0,0,,,,,,,False
+Complications specific to multiple gestation (O31),x,0,0,0,,,,,,,False
+Maternal care for known or suspected malpresentation of fetus (O32),x,0,0,0,,,,,,,False
+Maternal care for known or suspected disproportion (O33),x,0,0,0,,,,,,,False
+Maternal care for known or suspected abnormality of pelvic organs (O34),x,0,0,0,,,,,,,False
+Maternal care for known or suspected fetal abnormality and damage (O35),x,0,0,0,,,,,,,False
+Maternal care for other known or suspected fetal problems (O36),x,0,0,0,,,,,,,False
+Polyhydramnios (O40),x,0,0,0,,,,,,,False
+Other disorders of amniotic fluid and membranes (O41),x,0,0,0,,,,,,,False
+Premature rupture of membranes (O42),x,0,1,1,,,,,,,False
+Placental disorders (O43),x,0,0,0,,,,,,,False
+Placenta praevia (O44),x,0,0,0,,,,,,,False
+Premature separation of placenta [abruptio placentae] (O45),x,0,1,1,,,,,,,False
+"Antepartum haemorrhage, not elsewhere classified (O46)",x,0,0,0,,,,,,,False
+False labour (O47),x,0,0,0,,,,,,,False
+Prolonged pregnancy (O48),x,0,0,0,,,,,,,False
+Complications of labour and delivery (O60-O75),x,0,2,2,,,,,,,True
+Preterm labour and delivery (O60),x,0,0,0,,,,,,,False
+Failed induction of labour (O61),x,0,0,0,,,,,,,False
+Abnormalities of forces of labour (O62),x,0,0,0,,,,,,,False
+Long labour (O63),x,0,0,0,,,,,,,False
+Obstructed labour due to malposition and malpresentation of fetus (O64),x,0,0,0,,,,,,,False
+Obstructed labour due to maternal pelvic abnormality (O65),x,0,0,0,,,,,,,False
+Other obstructed labour (O66),x,0,0,0,,,,,,,False
+"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified (O67)",x,0,1,1,,,,,,,False
+Labour and delivery complicated by fetal stress [distress] (O68),x,0,0,0,,,,,,,False
+Labour and delivery complicated by umbilical cord complications (O69),x,0,0,0,,,,,,,False
+Perineal laceration during delivery (O70),x,0,0,0,,,,,,,False
+Other obstetric trauma (O71),x,0,0,0,,,,,,,False
+Postpartum haemorrhage (O72),x,0,1,1,,,,,,,False
+"Retained placenta and membranes, without haemorrhage (O73)",x,0,0,0,,,,,,,False
+Complications of anaesthesia during labour and delivery (O74),x,0,0,0,,,,,,,False
+"Other complications of labour and delivery, not elsewhere classified (O75)",x,0,0,0,,,,,,,False
+Delivery (O80-O84),x,0,0,0,,,,,,,True
+Single spontaneous delivery (O80),x,0,0,0,,,,,,,False
+Single delivery by forceps and vacuum extractor (O81),x,0,0,0,,,,,,,False
+Single delivery by caesarean section (O82),x,0,0,0,,,,,,,False
+Other assisted single delivery (O83),x,0,0,0,,,,,,,False
+Multiple delivery (O84),x,0,0,0,,,,,,,False
+Complications predominantly related to the puerperium (O85-O92),x,0,3,3,,,,,,,True
+Puerperal sepsis (O85),x,0,0,0,,,,,,,False
+Other puerperal infections (O86),x,0,0,0,,,,,,,False
+Venous complications in the puerperium (O87),x,0,0,0,,,,,,,False
+Obstetric embolism (O88),x,0,1,1,,,,,,,False
+Complications of anaesthesia during the puerperium (O89),x,0,0,0,,,,,,,False
+"Complications of the puerperium, not elsewhere classified (O90)",x,0,2,2,,,,,,,False
+Infections of breast associated with childbirth (O91),x,0,0,0,,,,,,,False
+Other disorders of breast and lactation associated with childbirth (O92),x,0,0,0,,,,,,,False
+Other obstetric conditions (O95-O99),x,0,6,6,,,,,275.0,276.0,True
+Obstetric death of unspecified cause (O95),x,0,3,3,,,,,,,False
+Death from any obstetric cause occurring more than 42 days but less than one year after delivery (O96),x,0,0,0,,,,,,,False
+Death from sequelae of direct obstetric causes (O97),x,0,2,2,,,,,,,False
+"Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium (O98)",x,0,0,0,,,,,,,False
+"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium (O99)",x,0,1,1,,,,,,,False
+Fetus and newborn affected by noxious influences transmitted via placenta or breast milk (P04),x,0,1,1,,,,,,,False
+Slow fetal growth and fetal malnutrition (P05),x,6,3,9,,,,,,,False
+Disorders related to long gestation and high birth weight (P08),x,0,0,0,,,,,,,False
+Birth trauma (P10-P15),x,3,0,3,,,,,,,True
+Intracranial laceration and haemorrhage due to birth injury (P10),x,0,0,0,,,,,,,False
+Other birth injuries to central nervous system (P11),x,2,0,2,,,,,,,False
+Birth injury to scalp (P12),x,0,0,0,,,,,,,False
+Birth injury to skeleton (P13),x,1,0,1,,,,,,,False
+Birth injury to peripheral nervous system (P14),x,0,0,0,,,,,,,False
+Other birth injuries (P15),x,0,0,0,,,,,,,False
+Intrauterine hypoxia (P20),x,2,0,2,,,,,,,False
+Birth asphyxia (P21),x,2,1,3,,,,,,,False
+Respiratory distress of newborn (P22),x,2,0,2,,,,,,,False
+Congenital pneumonia (P23),x,0,0,0,,,,,,,False
+Neonatal aspiration syndromes (P24),x,1,1,2,,,,,,,False
+Interstitial emphysema and related conditions originating in the perinatal period (P25),x,0,1,1,,,,,,,False
+Pulmonary haemorrhage originating in the perinatal period (P26),x,2,2,4,,,,,,,False
+Chronic respiratory disease originating in the perinatal period (P27),x,6,1,7,,,,,,,False
+Other respiratory conditions originating in the perinatal period (P28),x,8,2,10,,,,,,,False
+Cardiovascular disorders originating in the perinatal period (P29),x,7,9,16,,,,,,,False
+Congenital viral diseases (P35),x,4,2,6,,,,,,,False
+Other congenital infectious and parasitic diseases (P37),x,1,2,3,,,,,,,False
+Omphalitis of newborn with or without mild haemorrhage (P38),x,0,0,0,,,,,,,False
+Other infections specific to the perinatal period (P39),x,0,2,2,,,,,,,False
+Fetal blood loss (P50),x,0,3,3,,,,,,,False
+Umbilical haemorrhage of newborn (P51),x,0,0,0,,,,,,,False
+Haemorrhagic disease of fetus and newborn (P53),x,0,0,0,,,,,,,False
+Other neonatal haemorrhages (P54),x,0,0,0,,,,,,,False
+Haemolytic disease of fetus and newborn (P55),x,0,0,0,,,,,,,False
+Hydrops fetalis due to haemolytic disease (P56),x,0,0,0,,,,,,,False
+Kernicterus (P57),x,0,0,0,,,,,,,False
+Neonatal jaundice due to other excessive haemolysis (P58),x,0,0,0,,,,,,,False
+Neonatal jaundice from other and unspecified causes (P59),x,0,0,0,,,,,,,False
+Disseminated intravascular coagulation of fetus and newborn (P60),x,0,0,0,,,,,,,False
+Other perinatal haematological disorders (P61),x,2,1,3,,,,,,,False
+Transitory endocrine and metabolic disorders specific to fetus and newborn (P70-P74),x,0,0,0,,,,,,,True
+Transitory disorders of carbohydrate metabolism specific to fetus and newborn (P70),x,0,0,0,,,,,,,False
+Transitory neonatal disorders of calcium and magnesium metabolism (P71),x,0,0,0,,,,,,,False
+Other transitory neonatal endocrine disorders (P72),x,0,0,0,,,,,,,False
+Other transitory neonatal electrolyte and metabolic disturbances (P74),x,0,0,0,,,,,,,False
+Other intestinal obstruction of newborn (P76),x,1,0,1,,,,,,,False
+Necrotizing enterocolitis of fetus and newborn (P77),x,8,11,19,,,,,,,False
+Other perinatal digestive system disorders (P78),x,1,2,3,,,,,,,False
+Conditions involving the integument and temperature regulation of fetus and newborn (P80-P83),x,2,5,7,,,,,,,True
+Hypothermia of newborn (P80),x,0,0,0,,,,,,,False
+Other disturbances of temperature regulation of newborn (P81),x,0,0,0,,,,,,,False
+Other conditions of integument specific to fetus and newborn (P83),x,2,5,7,,,,,,,False
+Convulsions of newborn (P90),x,0,0,0,,,,,,,False
+Feeding problems of newborn (P92),x,0,0,0,,,,,,,False
+Reactions and intoxications due to drugs administered to fetus and newborn (P93),x,0,0,0,,,,,,,False
+Disorders of muscle tone of newborn (P94),x,0,1,1,,,,,,,False
+Fetal death of unspecified cause (P95),x,0,0,0,,,,,,,False
+Pedestrian injured in collision with pedal cycle (V01),x,0,0,0,,,,,,,False
+Pedestrian injured in collision with two- or three-wheeled motor vehicle (V02),x,1,1,2,,,,,,,False
+Pedestrian injured in collision with railway train or railway vehicle (V05),x,7,0,7,,,,333.0,,335.0,False
+Pedestrian injured in collision with other nonmotor vehicle (V06),x,0,0,0,,,,,,,False
+Pedestrian injured in other and unspecified transport accidents (V09),x,17,2,19,,,,199.0,,277.0,False
+Pedal cyclist injured in collision with pedestrian or animal (V10),x,2,0,2,,,,,,,False
+Pedal cyclist injured in collision with other pedal cycle (V11),x,1,0,1,,,,,,,False
+Pedal cyclist injured in collision with two- or three-wheeled motor vehicle (V12),x,0,0,0,,,,,,,False
+"Pedal cyclist injured in collision with car, pick-up truck or van (V13)",x,12,3,15,,,,359.0,,445.0,False
+Pedal cyclist injured in collision with heavy transport vehicle or bus (V14),x,8,1,9,,,,320.0,,369.0,False
+Pedal cyclist injured in collision with railway train or railway vehicle (V15),x,0,0,0,,,,,,,False
+Pedal cyclist injured in collision with other nonmotor vehicle (V16),x,0,0,0,,,,,,,False
+Pedal cyclist injured in collision with fixed or stationary object (V17),x,5,0,5,,,,100.0,,99.0,False
+Pedal cyclist injured in noncollision transport accident (V18),x,5,0,5,,,,,,,False
+Pedal cyclist injured in other and unspecified transport accidents (V19),x,2,0,2,,,,,,,False
+Motorcycle rider injured in collision with pedestrian or animal (V20),x,4,0,4,,,,,,,False
+Motorcycle rider injured in collision with pedal cycle (V21),x,0,0,0,,,,,,,False
+Motorcycle rider injured in collision with two- or three-wheeled motor vehicle (V22),x,7,0,7,,,,205.0,,206.0,False
+Motorcycle rider injured in collision with heavy transport vehicle or bus (V24),x,14,0,14,,,,482.0,,483.0,False
+Motorcycle rider injured in collision with railway train or railway vehicle (V25),x,0,0,0,,,,,,,False
+Motorcycle rider injured in collision with other nonmotor vehicle (V26),x,1,0,1,,,,,,,False
+Motorcycle rider injured in other and unspecified transport accidents (V29),x,12,2,14,,,,436.0,,471.0,False
+Occupant of three-wheeled motor vehicle injured in transport accident (V30-V39),x,0,0,0,,,,,,,True
+Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal (V30),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with pedal cycle (V31),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle (V32),x,0,0,0,,,,,,,False
+"Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van (V33)",x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus (V34),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle (V35),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle (V36),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object (V37),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in noncollision transport accident (V38),x,0,0,0,,,,,,,False
+Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents (V39),x,0,0,0,,,,,,,False
+Car occupant injured in collision with pedestrian or animal (V40),x,0,0,0,,,,,,,False
+Car occupant injured in collision with pedal cycle (V41),x,0,0,0,,,,,,,False
+Car occupant injured in collision with two- or three-wheeled motor vehicle (V42),x,0,0,0,,,,,,,False
+Car occupant injured in collision with railway train or railway vehicle (V45),x,2,0,2,,,,,,,False
+Car occupant injured in collision with other nonmotor vehicle (V46),x,2,2,4,,,,,,,False
+Occupant of pick-up truck or van injured in transport accident (V50-V59),x,7,7,14,,,,264.0,221.0,488.0,True
+Occupant of pick-up truck or van injured in collision with pedestrian or animal (V50),x,0,0,0,,,,,,,False
+Occupant of pick-up truck or van injured in collision with pedal cycle (V51),x,0,0,0,,,,,,,False
+Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle (V52),x,0,0,0,,,,,,,False
+"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van (V53)",x,2,7,9,,,,,221.0,243.0,False
+Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus (V54),x,1,0,1,,,,,,,False
+Occupant of pick-up truck or van injured in collision with railway train or railway vehicle (V55),x,0,0,0,,,,,,,False
+Occupant of pick-up truck or van injured in collision with other nonmotor vehicle (V56),x,0,0,0,,,,,,,False
+Occupant of pick-up truck or van injured in collision with fixed or stationary object (V57),x,3,0,3,,,,,,,False
+Occupant of pick-up truck or van injured in noncollision transport accident (V58),x,1,0,1,,,,,,,False
+Occupant of pick-up truck or van injured in other and unspecified transport accidents (V59),x,0,0,0,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with pedestrian or animal (V60),x,2,0,2,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with pedal cycle (V61),x,0,0,0,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle (V62),x,0,0,0,,,,,,,False
+"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van (V63)",x,3,0,3,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus (V64),x,8,1,9,,,,271.0,,314.0,False
+Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle (V65),x,0,0,0,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle (V66),x,0,0,0,,,,,,,False
+Occupant of heavy transport vehicle injured in collision with fixed or stationary object (V67),x,12,0,12,,,,387.0,,385.0,False
+Occupant of heavy transport vehicle injured in noncollision transport accident (V68),x,9,1,10,,,,369.0,,380.0,False
+Occupant of heavy transport vehicle injured in other and unspecified transport accidents (V69),x,0,0,0,,,,,,,False
+Bus occupant injured in transport accident (V70-V79),x,1,1,2,,,,,,,True
+Bus occupant injured in collision with pedestrian or animal (V70),x,0,0,0,,,,,,,False
+Bus occupant injured in collision with pedal cycle (V71),x,0,0,0,,,,,,,False
+Bus occupant injured in collision with two- or three-wheeled motor vehicle (V72),x,0,0,0,,,,,,,False
+"Bus occupant injured in collision with car, pick-up truck or van (V73)",x,0,0,0,,,,,,,False
+Bus occupant injured in collision with heavy transport vehicle or bus (V74),x,0,0,0,,,,,,,False
+Bus occupant injured in collision with railway train or railway vehicle (V75),x,0,0,0,,,,,,,False
+Bus occupant injured in collision with other nonmotor vehicle (V76),x,0,0,0,,,,,,,False
+Bus occupant injured in collision with fixed or stationary object (V77),x,0,0,0,,,,,,,False
+Bus occupant injured in noncollision transport accident (V78),x,1,1,2,,,,,,,False
+Bus occupant injured in other and unspecified transport accidents (V79),x,0,0,0,,,,,,,False
+Animal-rider or occupant of animal-drawn vehicle injured in transport accident (V80),x,3,1,4,,,,,,,False
+Occupant of railway train or railway vehicle injured in transport accident (V81),x,1,0,1,,,,,,,False
+Occupant of streetcar injured in transport accident (V82),x,0,0,0,,,,,,,False
+Occupant of special vehicle mainly used on industrial premises injured in transport accident (V83),x,4,0,4,,,,,,,False
+Occupant of special vehicle mainly used in agriculture injured in transport accident (V84),x,9,0,9,,,,184.0,,184.0,False
+Occupant of special construction vehicle injured in transport accident (V85),x,4,0,4,,,,,,,False
+"Occupant of special all-terrain or other motor vehicle designed primarily for off-road use, injured in transport accident (V86)",x,11,2,13,,,,482.0,,568.0,False
+Traffic accident of specified type but victim's mode of transport unknown (V87),x,0,0,0,,,,,,,False
+Nontraffic accident of specified type but victim's mode of transport unknown (V88),x,0,0,0,,,,,,,False
+"Motor- or nonmotor-vehicle accident, type of vehicle unspecified (V89)",x,8,4,12,,,,119.0,,134.0,False
+Accident to watercraft causing other injury (V91),x,2,0,2,,,,,,,False
+Water-transport-related drowning and submersion without accident to watercraft (V92),x,9,1,10,,,,264.0,,312.0,False
+"Accident on board watercraft without accident to watercraft, not causing drowning and submersion (V93)",x,0,0,0,,,,,,,False
+Other and unspecified water transport accidents (V94),x,1,0,1,,,,,,,False
+Accident to nonpowered aircraft causing injury to occupant (V96),x,3,1,4,,,,,,,False
+Other specified air transport accidents (V97),x,1,0,1,,,,,,,False
+Other and unspecified transport accidents (V98-V99),x,1,1,2,,,,,,,True
+Other specified transport accidents (V98),x,1,1,2,,,,,,,False
+Unspecified transport accident (V99),x,0,0,0,,,,,,,False
+Fall on same level involving ice and snow (W00),x,0,0,0,,,,,,,False
+"Fall involving ice-skates, skis, roller-skates or skateboards (W02)",x,0,1,1,,,,,,,False
+"Other fall on same level due to collision with, or pushing by, another person (W03)",x,3,4,7,,,,,,,False
+Fall while being carried or supported by other persons (W04),x,0,2,2,,,,,,,False
+Fall involving wheelchair (W05),x,9,10,19,,,,,,215.0,False
+Fall involving other furniture (W08),x,5,2,7,,,,,,,False
+Fall involving playground equipment (W09),x,0,0,0,,,,,,,False
+Fall on and from scaffolding (W12),x,0,0,0,,,,,,,False
+Fall from tree (W14),x,0,0,0,,,,,,,False
+Fall from cliff (W15),x,8,3,11,,,,350.0,,468.0,False
+Diving or jumping into water causing injury other than drowning or submersion (W16),x,2,1,3,,,,,,,False
+Other fall from one level to another (W17),x,5,3,8,,,,94.0,,139.0,False
+Striking against or struck by sports equipment (W21),x,0,0,0,,,,,,,False
+Striking against or struck by other objects (W22),x,2,1,3,,,,,,,False
+"Caught, crushed, jammed or pinched in or between objects (W23)",x,16,3,19,,,,475.0,,523.0,False
+"Contact with lifting and transmission devices, not elsewhere classified (W24)",x,4,0,4,,,,,,,False
+Contact with sharp glass (W25),x,1,0,1,,,,,,,False
+"Contact with knife, sword or dagger (W26)",x,0,0,0,,,,,,,False
+Contact with nonpowered hand tool (W27),x,1,0,1,,,,,,,False
+Contact with powered lawnmower (W28),x,0,0,0,,,,,,,False
+Contact with other powered hand tools and household machinery (W29),x,5,1,6,,,,86.0,,92.0,False
+Contact with agricultural machinery (W30),x,2,1,3,,,,,,,False
+Contact with other and unspecified machinery (W31),x,15,0,15,,,,484.0,,483.0,False
+Handgun discharge (W32),x,0,0,0,,,,,,,False
+"Rifle, shotgun and larger firearm discharge (W33)",x,1,0,1,,,,,,,False
+Discharge from other and unspecified firearms (W34),x,0,0,0,,,,,,,False
+Explosion and rupture of boiler (W35),x,0,0,0,,,,,,,False
+Explosion and rupture of gas cylinder (W36),x,1,0,1,,,,,,,False
+"Explosion and rupture of pressurized tyre, pipe or hose (W37)",x,0,0,0,,,,,,,False
+Explosion and rupture of other specified pressurized devices (W38),x,1,0,1,,,,,,,False
+Discharge of firework (W39),x,0,0,0,,,,,,,False
+Explosion of other materials (W40),x,2,0,2,,,,,,,False
+Exposure to high-pressure jet (W41),x,0,0,0,,,,,,,False
+Exposure to noise (W42),x,0,0,0,,,,,,,False
+Exposure to vibration (W43),x,0,0,0,,,,,,,False
+Foreign body entering into or through eye or natural orifice (W44),x,1,2,3,,,,,,,False
+Foreign body or object entering through skin (W45),x,1,1,2,,,,,,,False
+Contact with hypodermic needle (W46),x,0,0,0,,,,,,,False
+Exposure to other and unspecified inanimate mechanical forces (W49),x,3,1,4,,,,,,,False
+Exposure to animate mechanical forces (W50-W64),x,8,10,18,,,,244.0,350.0,584.0,True
+"Hit, struck, kicked, twisted, bitten or scratched by another person (W50)",x,1,3,4,,,,,,,False
+Striking against or bumped into by another person (W51),x,1,1,2,,,,,,,False
+"Crushed, pushed or stepped on by crowd or human stampede (W52)",x,0,0,0,,,,,,,False
+Bitten by rat (W53),x,0,0,0,,,,,,,False
+Bitten or struck by dog (W54),x,0,3,3,,,,,,,False
+Bitten or struck by other mammals (W55),x,4,3,7,,,,,,148.0,False
+Contact with marine animal (W56),x,2,0,2,,,,,,,False
+Bitten or stung by nonvenomous insect and other nonvenomous arthropods (W57),x,0,0,0,,,,,,,False
+Bitten or struck by crocodile or alligator (W58),x,0,0,0,,,,,,,False
+Bitten or crushed by other reptiles (W59),x,0,0,0,,,,,,,False
+Contact with plant thorns and spines and sharp leaves (W60),x,0,0,0,,,,,,,False
+Exposure to other and unspecified animate mechanical forces (W64),x,0,0,0,,,,,,,False
+Drowning and submersion while in bath-tub (W65),x,5,5,10,,,,,,375.0,False
+Drowning and submersion following fall into bath-tub (W66),x,1,1,2,,,,,,,False
+Drowning and submersion while in swimming-pool (W67),x,10,3,13,,,,274.0,,326.0,False
+Other specified drowning and submersion (W73),x,3,3,6,,,,,,324.0,False
+Unspecified drowning and submersion (W74),x,7,2,9,,,,169.0,,218.0,False
+Accidental suffocation and strangulation in bed (W75),x,4,7,11,,,,,,,False
+Other accidental hanging and strangulation (W76),x,11,0,11,,,,650.0,,664.0,False
+"Threat to breathing due to cave-in, falling earth and other substances (W77)",x,1,0,1,,,,,,,False
+Inhalation of gastric contents (W78),x,4,4,8,,,,,,,False
+Confined to or trapped in a low-oxygen environment (W81),x,2,0,2,,,,,,,False
+Other specified threats to breathing (W83),x,5,2,7,,,,223.0,,279.0,False
+Unspecified threat to breathing (W84),x,2,0,2,,,,,,,False
+"Exposure to electric current, radiation and extreme ambient air temperature and pressure (W85-W99)",x,8,2,10,,,,344.0,,358.0,True
+Exposure to electric transmission lines (W85),x,4,0,4,,,,,,,False
+Exposure to other specified electric current (W86),x,0,1,1,,,,,,,False
+Exposure to unspecified electric current (W87),x,3,1,4,,,,,,,False
+Exposure to ionizing radiation (W88),x,0,0,0,,,,,,,False
+Exposure to man-made visible and ultraviolet light (W89),x,0,0,0,,,,,,,False
+Exposure to other nonionizing radiation (W90),x,0,0,0,,,,,,,False
+Exposure to unspecified type of radiation (W91),x,0,0,0,,,,,,,False
+Exposure to excessive heat of man-made origin (W92),x,0,0,0,,,,,,,False
+Exposure to excessive cold of man-made origin (W93),x,0,0,0,,,,,,,False
+Exposure to high and low air pressure and changes in air pressure (W94),x,1,0,1,,,,,,,False
+Exposure to other and unspecified man-made environmental factors (W99),x,0,0,0,,,,,,,False
+"Exposure to uncontrolled fire, not in building or structure (X01)",x,2,0,2,,,,,,,False
+Exposure to controlled fire in building or structure (X02),x,2,0,2,,,,,,,False
+"Exposure to controlled fire, not in building or structure (X03)",x,1,0,1,,,,,,,False
+Exposure to ignition of highly flammable material (X04),x,0,2,2,,,,,,,False
+Exposure to ignition or melting of nightwear (X05),x,0,1,1,,,,,,,False
+Exposure to ignition or melting of other clothing and apparel (X06),x,1,0,1,,,,,,,False
+"Exposure to other specified smoke, fire and flames (X08)",x,0,0,0,,,,,,,False
+"Exposure to unspecified smoke, fire and flames (X09)",x,5,1,6,,,,,,,False
+Contact with heat and hot substances (X10-X19),x,2,1,3,,,,,,,True
+"Contact with hot drinks, food, fats and cooking oils (X10)",x,0,0,0,,,,,,,False
+Contact with hot tap-water (X11),x,2,1,3,,,,,,,False
+Contact with other hot fluids (X12),x,0,0,0,,,,,,,False
+Contact with steam and hot vapours (X13),x,0,0,0,,,,,,,False
+Contact with hot air and gases (X14),x,0,0,0,,,,,,,False
+Contact with hot household appliances (X15),x,0,0,0,,,,,,,False
+"Contact with hot heating appliances, radiators and pipes (X16)",x,0,0,0,,,,,,,False
+"Contact with hot engines, machinery and tools (X17)",x,0,0,0,,,,,,,False
+Contact with other hot metals (X18),x,0,0,0,,,,,,,False
+Contact with other and unspecified heat and hot substances (X19),x,0,0,0,,,,,,,False
+Contact with venomous animals and plants (X20-X29),x,11,6,17,,,,292.0,,390.0,True
+Contact with venomous snakes and lizards (X20),x,5,4,9,,,,166.0,,221.0,False
+Contact with venomous spiders (X21),x,0,0,0,,,,,,,False
+Contact with scorpions (X22),x,0,0,0,,,,,,,False
+"Contact with hornets, wasps and bees (X23)",x,6,2,8,,,,125.0,,169.0,False
+Contact with centipedes and venomous millipedes (tropical) (X24),x,0,0,0,,,,,,,False
+Contact with other specified venomous arthropods (X25),x,0,0,0,,,,,,,False
+Contact with venomous marine animals and plants (X26),x,0,0,0,,,,,,,False
+Contact with other specified venomous animals (X27),x,0,0,0,,,,,,,False
+Contact with other specified venomous plants (X28),x,0,0,0,,,,,,,False
+Contact with unspecified venomous animal or plant (X29),x,0,0,0,,,,,,,False
+Exposure to excessive natural heat (X30),x,11,2,13,,,,352.0,,382.0,False
+Exposure to excessive natural cold (X31),x,9,6,15,,,,178.0,,203.0,False
+Exposure to sunlight (X32),x,0,0,0,,,,,,,False
+Victim of lightning (X33),x,2,0,2,,,,,,,False
+Victim of earthquake (X34),x,0,0,0,,,,,,,False
+Victim of volcanic eruption (X35),x,0,0,0,,,,,,,False
+"Victim of avalanche, landslide and other earth movements (X36)",x,0,0,0,,,,,,,False
+Victim of cataclysmic storm (X37),x,0,0,0,,,,,,,False
+Victim of flood (X38),x,1,0,1,,,,,,,False
+Exposure to other and unspecified forces of nature (X39),x,0,0,0,,,,,,,False
+"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics (X40)",x,6,9,15,,,,114.0,197.0,310.0,False
+Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system (X43),x,3,0,3,,,,,,,False
+Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours (X46),x,1,0,1,,,,,,,False
+Accidental poisoning by and exposure to other gases and vapours (X47),x,11,2,13,,,,410.0,,517.0,False
+Accidental poisoning by and exposure to pesticides (X48),x,1,0,1,,,,,,,False
+Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances (X49),x,2,2,4,,,,,,,False
+"Overexertion, travel and privation (X50-X57)",x,2,0,2,,,,,,,True
+Overexertion and strenuous or repetitive movements (X50),x,1,0,1,,,,,,,False
+Travel and motion (X51),x,0,0,0,,,,,,,False
+Prolonged stay in weightless environment (X52),x,0,0,0,,,,,,,False
+Lack of food (X53),x,1,0,1,,,,,,,False
+Lack of water (X54),x,0,0,0,,,,,,,False
+Unspecified privation (X57),x,0,0,0,,,,,,,False
+Exposure to other specified factors (X58),x,1,7,8,,,,,294.0,298.0,False
+"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics (X60)",x,2,4,6,,,,,,,False
+Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system (X63),x,0,2,2,,,,,,,False
+Intentional self-poisoning by and exposure to alcohol (X65),x,7,2,9,,,,178.0,,254.0,False
+Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours (X66),x,1,0,1,,,,,,,False
+Intentional self-poisoning by and exposure to pesticides (X68),x,9,1,10,,,,68.0,,81.0,False
+Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances (X69),x,13,6,19,,,,331.0,,399.0,False
+Intentional self-harm by other and unspecified firearm discharge (X74),x,15,0,15,,,,243.0,,244.0,False
+Intentional self-harm by explosive material (X75),x,1,0,1,,,,,,,False
+"Intentional self-harm by steam, hot vapours and hot objects (X77)",x,0,0,0,,,,,,,False
+Intentional self-harm by blunt object (X79),x,1,0,1,,,,,,,False
+Intentional self-harm by other specified means (X83),x,6,1,7,,,,208.0,,255.0,False
+"Drugs, medicaments and biological substances causing adverse effects in therapeutic use (Y40-Y59)",x,6,11,17,,,,121.0,154.0,275.0,True
+Systemic antibiotics (Y40),x,2,1,3,,,,,,,False
+Other systemic anti-infectives and antiparasitics (Y41),x,0,0,0,,,,,,,False
+"Hormones and their synthetic substitutes and antagonists, not elsewhere classified (Y42)",x,0,0,0,,,,,,,False
+Primarily systemic agents (Y43),x,0,0,0,,,,,,,False
+Agents primarily affecting blood constituents (Y44),x,0,2,2,,,,,,,False
+"Analgesics, antipyretics and anti-inflammatory drugs (Y45)",x,0,0,0,,,,,,,False
+Antiepileptics and antiparkinsonism drugs (Y46),x,0,0,0,,,,,,,False
+"Sedatives, hypnotics and antianxiety drugs (Y47)",x,0,0,0,,,,,,,False
+Anaesthetics and therapeutic gases (Y48),x,1,1,2,,,,,,,False
+"Psychotropic drugs, not elsewhere classified (Y49)",x,0,0,0,,,,,,,False
+"Central nervous system stimulants, not elsewhere classified (Y50)",x,0,0,0,,,,,,,False
+Drugs primarily affecting the autonomic nervous system (Y51),x,0,0,0,,,,,,,False
+Agents primarily affecting the cardiovascular system (Y52),x,0,1,1,,,,,,,False
+Agents primarily affecting the gastrointestinal system (Y53),x,0,0,0,,,,,,,False
+Agents primarily affecting water-balance and mineral and uric acid metabolism (Y54),x,0,0,0,,,,,,,False
+Agents primarily acting on smooth and skeletal muscles and the respiratory system (Y55),x,0,1,1,,,,,,,False
+"Topical agents primarily affecting skin and mucous membrane and ophthalmological, otorhinolaryngological and dental drugs (Y56)",x,0,0,0,,,,,,,False
+Other and unspecified drugs and medicaments (Y57),x,3,5,8,,,,,,109.0,False
+Bacterial vaccines (Y58),x,0,0,0,,,,,,,False
+Other and unspecified vaccines and biological substances (Y59),x,0,0,0,,,,,,,False
+Misadventures to patients during surgical and medical care (Y60-Y69),x,7,1,8,,,,,,,True
+"Unintentional cut, puncture, perforation or haemorrhage during surgical and medical care (Y60)",x,6,1,7,,,,,,,False
+Foreign object accidentally left in body during surgical and medical care (Y61),x,0,0,0,,,,,,,False
+Failure of sterile precautions during surgical and medical care (Y62),x,0,0,0,,,,,,,False
+Failure in dosage during surgical and medical care (Y63),x,0,0,0,,,,,,,False
+Contaminated medical or biological substances (Y64),x,0,0,0,,,,,,,False
+Other misadventures during surgical and medical care (Y65),x,1,0,1,,,,,,,False
+Nonadministration of surgical and medical care (Y66),x,0,0,0,,,,,,,False
+Unspecified misadventure during surgical and medical care (Y69),x,0,0,0,,,,,,,False
+Medical devices associated with adverse incidents in diagnostic and therapeutic use (Y70-Y82),x,0,1,1,,,,,,,True
+Anaesthesiology devices associated with adverse incidents (Y70),x,0,0,0,,,,,,,False
+Cardiovascular devices associated with adverse incidents (Y71),x,0,0,0,,,,,,,False
+Otorhinolaryngological devices associated with adverse incidents (Y72),x,0,0,0,,,,,,,False
+Gastroenterology and urology devices associated with adverse incidents (Y73),x,0,0,0,,,,,,,False
+General hospital and personal-use devices associated with adverse incidents (Y74),x,0,0,0,,,,,,,False
+Neurological devices associated with adverse incidents (Y75),x,0,0,0,,,,,,,False
+Obstetric and gynaecological devices associated with adverse incidents (Y76),x,0,0,0,,,,,,,False
+Ophthalmic devices associated with adverse incidents (Y77),x,0,0,0,,,,,,,False
+Radiological devices associated with adverse incidents (Y78),x,0,0,0,,,,,,,False
+Orthopaedic devices associated with adverse incidents (Y79),x,0,1,1,,,,,,,False
+Physical medicine devices associated with adverse incidents (Y80),x,0,0,0,,,,,,,False
+General- and plastic-surgery devices associated with adverse incidents (Y81),x,0,0,0,,,,,,,False
+Other and unspecified medical devices associated with adverse incidents (Y82),x,0,0,0,,,,,,,False
+"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (Y83)",x,10,9,19,,,,38.0,107.0,147.0,False
+"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (Y84)",x,3,2,5,,,,,,,False
+"Sequelae of intentional self-harm, assault and events of undetermined intent (Y87)",x,5,2,7,,,,197.0,,311.0,False
+Sequelae of other external causes (Y89),x,0,1,1,,,,,,,False
+Environmental-pollution-related condition (Y97),x,0,0,0,,,,,,,False
