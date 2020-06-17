@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155991615-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "UA-155991615-1");
+    </script>
+    <!-- my stuff -->
+    <meta charset="utf-8">
+    <title>Education and avoidable deaths</title>
+    <meta name="author" content="Markus Mannheim">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <link href="./resources/chartStyle.css" rel="stylesheet">
+    <link href="./resources/abcLogo64.png" rel="icon">
+  </head>
+  <body>
+    <!-- initial layout -->
+    <div id="container">
+      <svg id="chart">
+        <g id="chartGroup"></g>
+        <g id="axisGroup">
+          <g id="xAxisGroup">
+            <text y="30" class="axisLabel">avoidable deaths</text>
+          </g>
+          <g id="yAxisGroup">
+            <text y="15" class="axisLabel">university-educated</text>
+          </g>
+        </g>
+      </svg>
+    </div>
+    <div id="tip"></div>
+    <script>
+      // load data
+      d3.csv("./resources/education.csv", function(error, data) {
+        if (error) throw error;
+        // format data
+        deathData = data;
+        deathData.forEach(function(d) {
+          d.rate = +d.rate;
+          d.uni = +d.uni
+        });
+        // circle scales
+        colour = d3.scaleLinear()
+          .domain([472, 48])
+          .range([0, 1]);
+        // establish page elements
+        margin = { top: 25, right: 15, bottom: 35, left: 30};
+        chart = d3.select("#chart");
+        chartGroup = d3.select("#chartGroup");
+        axisGroup = d3.select("#axisGroup");
+        xAxisGroup = d3.select("#xAxisGroup");
+        yAxisGroup = d3.select("#yAxisGroup")
+          .attr("transform", "translate(" + margin.left + ", 0)");
+        tip = d3.select("#tip");
+        // redraws page when it's resized
+        window.addEventListener("resize", resize);
+        // prepare chart
+        x = d3.scaleLog()
+          .domain(d3.extent(deathData, function(d) { return d.rate; }));
+        y = d3.scaleLinear()
+          .domain(d3.extent(deathData, function(d) { return d.uni; })).nice();
+        // voronoi
+        voronoi = d3.voronoi()
+          .x(function(d) { return x(d.rate); })
+          .y(function(d) { return y(d.uni); });
+        resize();
+        labelCheck();
+      });
+      function resize() {
+        let dimensions = document.body
+          .getBoundingClientRect();
+        width = dimensions.width;
+        height = dimensions.height;
+        x.range([margin.left, width - margin.right]);
+        xAxis = d3.axisBottom(x)
+          .ticks(4, ",.0f")
+          .tickSizeOuter(0)
+          .tickPadding(5);
+        xAxisGroup.attr("transform", "translate(0, " + (height - margin.bottom) + ")");
+        xAxisGroup.select(".axisLabel")
+          .attr("x", (width - margin.left - margin.right) / 2 + margin.left)
+          .style("opacity", 1);
+        yAxisGroup.select(".axisLabel")
+          .attr("x", -margin.left)
+          .style("opacity", 1);
+        y.range([height - margin.bottom, margin.top]);
+        yAxis = d3.axisLeft(y)
+          .ticks(4, ".0%")
+          .tickSizeInner(margin.left + margin.right - width)
+          .tickSizeOuter(0)
+          .tickPadding(5);
+        xAxisGroup.call(xAxis);
+        yAxisGroup.call(yAxis);
+        voronoi.size([width, height]);
+        // draw chart
+        cells = chartGroup
+          .selectAll(".cell")
+            .data(voronoi.polygons(deathData, function(d) { return d.data.region; }));
+        cells.exit()
+          .remove();
+        cells.select(".region")
+          .attr("cx", function(d) { return x(d.data.rate); })
+          .attr("cy", function(d) { return y(d.data.uni); });
+        cells.select(".voronoi")
+          .attr("d", function(d) { return !d ? null : d3.line()(d) + "Z"; });
+        cells.select(".label")
+          .attr("x", function(d) { return x(d.data.rate); })
+          .attr("y", function(d) { return y(d.data.uni) + 10; });
+        entering = cells
+          .enter().append("g")
+            .classed("cell", true);
+        entering.append("path")
+          .classed("voronoi", "true")
+          .attr("d", function(d) { return !d ? null : d3.line()(d) + "Z"; });
+        entering.select(".voronoi")
+          .on("mouseover", mouseover)
+          .on("mouseout", mouseout)
+          .on("touchend", touchend);
+        entering.append("circle")
+          .classed("region", true)
+          .style("fill", function(d) { return d3.interpolatePlasma(colour(d.data.rate)); })
+          .attr("r", function() { return width < 500 ? 3.5 : 6; })
+          .attr("cx", function(d) { return x(d.data.rate); })
+          .attr("cy", function(d) { return y(d.data.uni); });
+        entering.append("text")
+          .classed("label", true)
+          .text(function(d) { return d.data.region.slice(0, d.data.region.search(/\(/) - 1); })
+          .attr("x", function(d) { return x(d.data.rate); })
+          .attr("y", function(d) { return y(d.data.uni) + 10; });
+      }
+      function touchend(d) {
+        if (this.classList.contains("touched")) {
+          this.classList.remove("touched");
+          mouseout();
+        } else {
+          this.classList.add("touched");
+          d3.select(this.parentNode)
+            .classed("selected", true)
+            .raise();
+          d3.select(this.parentNode)
+            .select(".region")
+            .attr("r", function() { return width < 500 ? 5 : 9; });
+          d3.selectAll("option")
+            .classed("selected", false);
+          d3.selectAll("option")
+            .filter(function() { return !this.disabled; })
+            .filter(function(e) { return e.region == d.data.region; })
+            .property("selected", true);
+          switchOn(d);
+        }
+      }
+      function switchOn(d) {
+        centroid = [x(d.data.rate), y(d.data.uni)];
+        tip.style("opacity", 0)
+          .style("top", "0px") // reset position to tool tip for correct sizing
+          .style("left", "0px")
+          .html("<h1>" + d.data.region + "</h1>" // re-write tool tip content
+              + "<p>" + d3.format(".0%")(d.data.uni) + " uni-educated</p>"
+              + "<p>" + d3.format(",")(d.data.rate) + " death rate</p>");
+        // set location of tool tip to ensure it's always inside chart
+        let tipWidth = parseFloat(tip.style("width"));
+        let tipHeight = parseFloat(tip.style("height"));
+        tip.style("top", function() {
+          return centroid[1] + tipHeight + 32 > height ?
+            (centroid[1] - tipHeight - 32) + "px":
+            (centroid[1] + 16) + "px";
+          })
+          .style("left", function() {
+            return centroid[0] + (tipWidth / 2) + 16 > width ?
+              (width - tipWidth - 16) + "px" :
+              centroid[0] - (tipWidth / 2) - 16 < 0 ?
+              "16px" :
+              (centroid[0] - (tipWidth / 2)) + "px";
+          })
+          .style("opacity", 1);
+        labelCheck();
+      }
+      function mouseover(d) {
+        d3.select(this.parentNode)
+          .classed("selected", true)
+          .raise();
+        d3.select(this.parentNode)
+          .select(".region")
+          .attr("r", function() { return width < 500 ? 5 : 9; })
+        d3.selectAll("option")
+          .classed("selected", false);
+        d3.selectAll("option")
+          .filter(function() { return !this.disabled; })
+          .filter(function(e) { return e.suburb == d.data.region; })
+          .property("selected", true);
+        switchOn(d);
+      }
+      function mouseout() {
+        d3.selectAll(".cell")
+          .classed("selected", false);
+        d3.selectAll(".region")
+          .attr("r", function() { return width < 500 ? 3.5 : 6; })
+        tip.style("opacity", 0);
+      }
+      function labelCheck() {
+        labels = d3.selectAll(".label");
+        labels.each(function(d) {
+          let coords = [x(d.data.rate), y(d.data.uni)];
+          let others = deathData.filter(function(e) { return e.region !== d.data.region; });
+          i = 0;
+          let visible = true;
+          dimensions = this.getBoundingClientRect();
+          if (dimensions.x < 0 || dimensions.x + dimensions.width > width) {
+            visible = false;
+          } else {
+            while (i < others.length) {
+              let tempCoords = [x(others[i].rate), y(others[i].uni)]
+              let link = Math.sqrt(Math.pow(d3.max([coords[0], tempCoords[0]]) - d3.min([coords[0], tempCoords[0]]), 2) + Math.pow(d3.max([coords[1], tempCoords[1]]) - d3.min([coords[1], tempCoords[1]]), 2));
+              if (link < 30) {
+                visible = false;
+                break;
+              }
+              i++;
+            }
+          }
+          d3.select(this)
+            .classed("visible", visible);
+        });
+      }
+    </script>
+  </body>
+</html>

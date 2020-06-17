@@ -18,44 +18,70 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v3.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-    <link href="./resources/style.css" rel="stylesheet">
+    <link href="./resources/mapStyle.css" rel="stylesheet">
     <link href="./resources/abcLogo64.png" rel="icon">
   </head>
   <body>
     <!-- Initial page layout -->
-    <div id="map"></div>
+    <div id="map">
+      <svg id="svg">
+        <defs>
+          <linearGradient id="gradient" x1="0%" x2="100%" y1="0%" y2="0%"></linearGradient>
+        </defs>
+        <g id="svgGroup"></g>
+        <g id="legend">
+          <text id="label" y="-5">avoidable deaths</text>
+          <rect height="20"></rect>
+          <text class="axis" id="fewer" y="35">fewer</text>
+          <text class="axis" id="more" y="35">more</text>
+        </g>
+      </svg>
+    </div>
     <script>
       // load data
       d3.json("./resources/regions.topojson", function(error, data) {
         if (error) throw error;
         // format data
         regionData = topojson.feature(data, data.objects.regions);
-        // svg layer
+        // elements
         map = d3.select("#map");
-        svg = map
-          .append("svg")
-          .attr("id", "svg");
-        svgGroup = svg
-          .append("g")
-          .attr("id", "svgGroup");
+        svg = d3.select("#svg");
+        svgGroup = d3.select("#svgGroup");
         // map calculations
-        width = map.node().getBoundingClientRect().width;
-        height = map.node().getBoundingClientRect().height;
-        projection = d3.geoIdentity()
-          .fitExtent([[0, 0], [width, height]], regionData);
+        projection = d3.geoIdentity();
         path = d3.geoPath()
           .projection(projection);
-        colours = d3.scaleSequential(d3.interpolateViridis)
-          .domain(d3.extent(regionData.features, function(d) { return d.properties.people; }).reverse());
+        // legend
+        legend = d3.select("#legend");
+        d3.select("#gradient")
+          .selectAll("stop")
+            .data(d3.range(11))
+          .enter().append("stop")
+            .attr("offset", function(d) { return d * 10 + "%"; })
+            .attr("style", function(d) { return "stop-color: " + d3.interpolatePlasma(1 - d / 10) + "; stop-opacity: 1;"; });
         // set up SVGs
         regions = svgGroup
           .selectAll(".region")
             .data(regionData.features)
           .enter().append("path")
             .classed("region", true)
-            .style("fill", function(d) { return d.properties.people == "na" ? colours.domain()[1] : colours(d.properties.people); })
-            .attr("d", path);
+            .style("fill", function(d) { return d.properties.fill; });
+        window.addEventListener("resize", resize);
+        resize();
       });
+      // window resize
+      function resize() {
+        width = map.node().getBoundingClientRect().width;
+        height = map.node().getBoundingClientRect().height;
+        legendWidth = width * .6;
+        projection.fitExtent([[0, 0], [width, height]], regionData);
+        // path.projection(projection);
+        legend.attr("transform", "translate(0, " + (height - 35) + ")");
+        legend.select("rect").attr("width", legendWidth);
+        d3.select("#label").attr("x", legendWidth / 2);
+        d3.select("#more").attr("x", legendWidth);
+        regions.attr("d", path);
+      }
     </script>
   </body>
 </html>
