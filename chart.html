@@ -161,8 +161,8 @@
           .style("top", "0px") // reset position to tool tip for correct sizing
           .style("left", "0px")
           .html("<h1>" + d.data.region + "</h1>" // re-write tool tip content
-              + "<p>" + d3.format(".0%")(d.data.uni) + " uni-educated</p>"
-              + "<p>" + d3.format(",")(d.data.rate) + " death rate</p>");
+              + "<p><strong>" + d3.format(".0%")(d.data.uni) + "</strong> uni-educated</p>"
+              + "<p><strong>" + d3.format(",")(d.data.rate) + "</strong> deaths (per 100,000)</p>");
         // set location of tool tip to ensure it's always inside chart
         let tipWidth = parseFloat(tip.style("width"));
         let tipHeight = parseFloat(tip.style("height"));
